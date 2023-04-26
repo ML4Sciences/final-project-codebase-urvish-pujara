@@ -119,4 +119,3 @@ if __name__ == "__main__":
             visualizer.save_output_dict(output_dict)
 
     full_time = time.time() - full_start_time
-    print('Full running time: {:.3f}s'.format(full_time))

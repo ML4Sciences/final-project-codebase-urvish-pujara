@@ -1,0 +1,1601 @@
+----------------------- Testing Log (Wed Apr 26 07:35:38 2023) -----------------------
+[TEST] [Epoch:   1   Iter:   32]   recon_A: 0.570   kl: 0.008   classifier: 1.618   accuracy: 0.000   
+[TEST] [Epoch:   1   Iter:   64]   recon_A: 0.571   kl: 0.008   classifier: 1.618   accuracy: 0.000   
+[TEST] [Epoch:   1   Iter:   96]   recon_A: 0.571   kl: 0.008   classifier: 1.617   accuracy: 0.010   
+[TEST] [Epoch:   1   Iter:  128]   recon_A: 0.571   kl: 0.008   classifier: 1.618   accuracy: 0.008   
+[TEST] [Epoch:   1   Iter:  160]   recon_A: 0.569   kl: 0.008   classifier: 1.618   accuracy: 0.006   
+[TEST] [Epoch:   1   Iter:  192]   recon_A: 0.571   kl: 0.008   classifier: 1.618   accuracy: 0.005   
+[TEST] [Epoch:   1   Iter:  200]   recon_A: 0.572   kl: 0.008   classifier: 1.613   accuracy: 0.010   
+Testing time used: 0.040s
+[TEST] [Epoch:   2   Iter:   32]   recon_A: 0.391   kl: 0.012   classifier: 1.611   accuracy: 0.031   
+[TEST] [Epoch:   2   Iter:   64]   recon_A: 0.390   kl: 0.012   classifier: 1.612   accuracy: 0.016   
+[TEST] [Epoch:   2   Iter:   96]   recon_A: 0.393   kl: 0.012   classifier: 1.610   accuracy: 0.031   
+[TEST] [Epoch:   2   Iter:  128]   recon_A: 0.389   kl: 0.012   classifier: 1.611   accuracy: 0.031   
+[TEST] [Epoch:   2   Iter:  160]   recon_A: 0.393   kl: 0.012   classifier: 1.615   accuracy: 0.025   
+[TEST] [Epoch:   2   Iter:  192]   recon_A: 0.387   kl: 0.012   classifier: 1.611   accuracy: 0.021   
+[TEST] [Epoch:   2   Iter:  200]   recon_A: 0.394   kl: 0.012   classifier: 1.614   accuracy: 0.025   
+Testing time used: 0.022s
+[TEST] [Epoch:   3   Iter:   32]   recon_A: 0.303   kl: 0.027   classifier: 1.615   accuracy: 0.094   
+[TEST] [Epoch:   3   Iter:   64]   recon_A: 0.306   kl: 0.025   classifier: 1.613   accuracy: 0.172   
+[TEST] [Epoch:   3   Iter:   96]   recon_A: 0.303   kl: 0.029   classifier: 1.607   accuracy: 0.167   
+[TEST] [Epoch:   3   Iter:  128]   recon_A: 0.306   kl: 0.028   classifier: 1.607   accuracy: 0.156   
+[TEST] [Epoch:   3   Iter:  160]   recon_A: 0.304   kl: 0.029   classifier: 1.620   accuracy: 0.150   
+[TEST] [Epoch:   3   Iter:  192]   recon_A: 0.301   kl: 0.031   classifier: 1.616   accuracy: 0.146   
+[TEST] [Epoch:   3   Iter:  200]   recon_A: 0.308   kl: 0.032   classifier: 1.626   accuracy: 0.140   
+Testing time used: 0.022s
+[TEST] [Epoch:   4   Iter:   32]   recon_A: 0.256   kl: 0.043   classifier: 1.614   accuracy: 0.188   
+[TEST] [Epoch:   4   Iter:   64]   recon_A: 0.249   kl: 0.043   classifier: 1.618   accuracy: 0.203   
+[TEST] [Epoch:   4   Iter:   96]   recon_A: 0.257   kl: 0.048   classifier: 1.612   accuracy: 0.167   
+[TEST] [Epoch:   4   Iter:  128]   recon_A: 0.251   kl: 0.046   classifier: 1.611   accuracy: 0.148   
+[TEST] [Epoch:   4   Iter:  160]   recon_A: 0.256   kl: 0.050   classifier: 1.620   accuracy: 0.163   
+[TEST] [Epoch:   4   Iter:  192]   recon_A: 0.256   kl: 0.053   classifier: 1.622   accuracy: 0.161   
+[TEST] [Epoch:   4   Iter:  200]   recon_A: 0.263   kl: 0.059   classifier: 1.632   accuracy: 0.155   
+Testing time used: 0.023s
+[TEST] [Epoch:   5   Iter:   32]   recon_A: 0.216   kl: 0.044   classifier: 1.619   accuracy: 0.188   
+[TEST] [Epoch:   5   Iter:   64]   recon_A: 0.222   kl: 0.044   classifier: 1.625   accuracy: 0.188   
+[TEST] [Epoch:   5   Iter:   96]   recon_A: 0.219   kl: 0.050   classifier: 1.621   accuracy: 0.167   
+[TEST] [Epoch:   5   Iter:  128]   recon_A: 0.218   kl: 0.048   classifier: 1.612   accuracy: 0.164   
+[TEST] [Epoch:   5   Iter:  160]   recon_A: 0.215   kl: 0.050   classifier: 1.629   accuracy: 0.163   
+[TEST] [Epoch:   5   Iter:  192]   recon_A: 0.218   kl: 0.054   classifier: 1.616   accuracy: 0.156   
+[TEST] [Epoch:   5   Iter:  200]   recon_A: 0.231   kl: 0.057   classifier: 1.626   accuracy: 0.155   
+Testing time used: 0.024s
+[TEST] [Epoch:   6   Iter:   32]   recon_A: 0.199   kl: 0.042   classifier: 1.625   accuracy: 0.125   
+[TEST] [Epoch:   6   Iter:   64]   recon_A: 0.198   kl: 0.043   classifier: 1.626   accuracy: 0.141   
+[TEST] [Epoch:   6   Iter:   96]   recon_A: 0.201   kl: 0.048   classifier: 1.617   accuracy: 0.146   
+[TEST] [Epoch:   6   Iter:  128]   recon_A: 0.197   kl: 0.047   classifier: 1.617   accuracy: 0.141   
+[TEST] [Epoch:   6   Iter:  160]   recon_A: 0.198   kl: 0.049   classifier: 1.625   accuracy: 0.144   
+[TEST] [Epoch:   6   Iter:  192]   recon_A: 0.198   kl: 0.052   classifier: 1.617   accuracy: 0.135   
+[TEST] [Epoch:   6   Iter:  200]   recon_A: 0.206   kl: 0.054   classifier: 1.648   accuracy: 0.130   
+Testing time used: 0.030s
+[TEST] [Epoch:   7   Iter:   32]   recon_A: 0.186   kl: 0.041   classifier: 1.621   accuracy: 0.125   
+[TEST] [Epoch:   7   Iter:   64]   recon_A: 0.186   kl: 0.041   classifier: 1.624   accuracy: 0.141   
+[TEST] [Epoch:   7   Iter:   96]   recon_A: 0.188   kl: 0.047   classifier: 1.619   accuracy: 0.135   
+[TEST] [Epoch:   7   Iter:  128]   recon_A: 0.186   kl: 0.045   classifier: 1.614   accuracy: 0.141   
+[TEST] [Epoch:   7   Iter:  160]   recon_A: 0.182   kl: 0.047   classifier: 1.619   accuracy: 0.144   
+[TEST] [Epoch:   7   Iter:  192]   recon_A: 0.187   kl: 0.050   classifier: 1.613   accuracy: 0.141   
+[TEST] [Epoch:   7   Iter:  200]   recon_A: 0.191   kl: 0.052   classifier: 1.626   accuracy: 0.140   
+Testing time used: 0.021s
+[TEST] [Epoch:   8   Iter:   32]   recon_A: 0.170   kl: 0.041   classifier: 1.625   accuracy: 0.094   
+[TEST] [Epoch:   8   Iter:   64]   recon_A: 0.172   kl: 0.041   classifier: 1.628   accuracy: 0.109   
+[TEST] [Epoch:   8   Iter:   96]   recon_A: 0.173   kl: 0.048   classifier: 1.619   accuracy: 0.104   
+[TEST] [Epoch:   8   Iter:  128]   recon_A: 0.170   kl: 0.046   classifier: 1.617   accuracy: 0.117   
+[TEST] [Epoch:   8   Iter:  160]   recon_A: 0.171   kl: 0.048   classifier: 1.618   accuracy: 0.138   
+[TEST] [Epoch:   8   Iter:  192]   recon_A: 0.174   kl: 0.052   classifier: 1.618   accuracy: 0.130   
+[TEST] [Epoch:   8   Iter:  200]   recon_A: 0.179   kl: 0.055   classifier: 1.632   accuracy: 0.130   
+Testing time used: 0.022s
+[TEST] [Epoch:   9   Iter:   32]   recon_A: 0.164   kl: 0.040   classifier: 1.626   accuracy: 0.031   
+[TEST] [Epoch:   9   Iter:   64]   recon_A: 0.164   kl: 0.041   classifier: 1.627   accuracy: 0.078   
+[TEST] [Epoch:   9   Iter:   96]   recon_A: 0.165   kl: 0.047   classifier: 1.619   accuracy: 0.104   
+[TEST] [Epoch:   9   Iter:  128]   recon_A: 0.163   kl: 0.045   classifier: 1.619   accuracy: 0.109   
+[TEST] [Epoch:   9   Iter:  160]   recon_A: 0.162   kl: 0.047   classifier: 1.618   accuracy: 0.125   
+[TEST] [Epoch:   9   Iter:  192]   recon_A: 0.164   kl: 0.052   classifier: 1.615   accuracy: 0.125   
+[TEST] [Epoch:   9   Iter:  200]   recon_A: 0.174   kl: 0.054   classifier: 1.625   accuracy: 0.125   
+Testing time used: 0.029s
+[TEST] [Epoch:  10   Iter:   32]   recon_A: 0.156   kl: 0.038   classifier: 1.626   accuracy: 0.031   
+[TEST] [Epoch:  10   Iter:   64]   recon_A: 0.155   kl: 0.040   classifier: 1.627   accuracy: 0.094   
+[TEST] [Epoch:  10   Iter:   96]   recon_A: 0.159   kl: 0.044   classifier: 1.624   accuracy: 0.104   
+[TEST] [Epoch:  10   Iter:  128]   recon_A: 0.155   kl: 0.044   classifier: 1.621   accuracy: 0.117   
+[TEST] [Epoch:  10   Iter:  160]   recon_A: 0.156   kl: 0.045   classifier: 1.619   accuracy: 0.131   
+[TEST] [Epoch:  10   Iter:  192]   recon_A: 0.158   kl: 0.049   classifier: 1.619   accuracy: 0.125   
+[TEST] [Epoch:  10   Iter:  200]   recon_A: 0.164   kl: 0.050   classifier: 1.637   accuracy: 0.120   
+Testing time used: 0.022s
+[TEST] [Epoch:  11   Iter:   32]   recon_A: 0.151   kl: 0.038   classifier: 1.624   accuracy: 0.031   
+[TEST] [Epoch:  11   Iter:   64]   recon_A: 0.151   kl: 0.040   classifier: 1.629   accuracy: 0.109   
+[TEST] [Epoch:  11   Iter:   96]   recon_A: 0.155   kl: 0.045   classifier: 1.625   accuracy: 0.104   
+[TEST] [Epoch:  11   Iter:  128]   recon_A: 0.151   kl: 0.044   classifier: 1.622   accuracy: 0.109   
+[TEST] [Epoch:  11   Iter:  160]   recon_A: 0.150   kl: 0.046   classifier: 1.620   accuracy: 0.119   
+[TEST] [Epoch:  11   Iter:  192]   recon_A: 0.153   kl: 0.050   classifier: 1.616   accuracy: 0.125   
+[TEST] [Epoch:  11   Iter:  200]   recon_A: 0.161   kl: 0.053   classifier: 1.640   accuracy: 0.125   
+Testing time used: 0.022s
+[TEST] [Epoch:  12   Iter:   32]   recon_A: 0.147   kl: 0.040   classifier: 1.622   accuracy: 0.062   
+[TEST] [Epoch:  12   Iter:   64]   recon_A: 0.149   kl: 0.042   classifier: 1.624   accuracy: 0.109   
+[TEST] [Epoch:  12   Iter:   96]   recon_A: 0.151   kl: 0.048   classifier: 1.625   accuracy: 0.104   
+[TEST] [Epoch:  12   Iter:  128]   recon_A: 0.146   kl: 0.045   classifier: 1.621   accuracy: 0.125   
+[TEST] [Epoch:  12   Iter:  160]   recon_A: 0.146   kl: 0.047   classifier: 1.619   accuracy: 0.138   
+[TEST] [Epoch:  12   Iter:  192]   recon_A: 0.150   kl: 0.053   classifier: 1.616   accuracy: 0.135   
+[TEST] [Epoch:  12   Iter:  200]   recon_A: 0.158   kl: 0.056   classifier: 1.636   accuracy: 0.130   
+Testing time used: 0.019s
+[TEST] [Epoch:  13   Iter:   32]   recon_A: 0.145   kl: 0.039   classifier: 1.619   accuracy: 0.125   
+[TEST] [Epoch:  13   Iter:   64]   recon_A: 0.144   kl: 0.041   classifier: 1.624   accuracy: 0.156   
+[TEST] [Epoch:  13   Iter:   96]   recon_A: 0.147   kl: 0.047   classifier: 1.622   accuracy: 0.135   
+[TEST] [Epoch:  13   Iter:  128]   recon_A: 0.144   kl: 0.044   classifier: 1.621   accuracy: 0.148   
+[TEST] [Epoch:  13   Iter:  160]   recon_A: 0.145   kl: 0.046   classifier: 1.617   accuracy: 0.150   
+[TEST] [Epoch:  13   Iter:  192]   recon_A: 0.146   kl: 0.053   classifier: 1.615   accuracy: 0.151   
+[TEST] [Epoch:  13   Iter:  200]   recon_A: 0.152   kl: 0.057   classifier: 1.635   accuracy: 0.145   
+Testing time used: 0.024s
+[TEST] [Epoch:  14   Iter:   32]   recon_A: 0.143   kl: 0.039   classifier: 1.622   accuracy: 0.125   
+[TEST] [Epoch:  14   Iter:   64]   recon_A: 0.143   kl: 0.041   classifier: 1.632   accuracy: 0.172   
+[TEST] [Epoch:  14   Iter:   96]   recon_A: 0.145   kl: 0.047   classifier: 1.621   accuracy: 0.146   
+[TEST] [Epoch:  14   Iter:  128]   recon_A: 0.142   kl: 0.043   classifier: 1.622   accuracy: 0.148   
+[TEST] [Epoch:  14   Iter:  160]   recon_A: 0.140   kl: 0.045   classifier: 1.619   accuracy: 0.156   
+[TEST] [Epoch:  14   Iter:  192]   recon_A: 0.143   kl: 0.053   classifier: 1.618   accuracy: 0.151   
+[TEST] [Epoch:  14   Iter:  200]   recon_A: 0.152   kl: 0.058   classifier: 1.639   accuracy: 0.145   
+Testing time used: 0.022s
+[TEST] [Epoch:  15   Iter:   32]   recon_A: 0.141   kl: 0.039   classifier: 1.623   accuracy: 0.031   
+[TEST] [Epoch:  15   Iter:   64]   recon_A: 0.141   kl: 0.040   classifier: 1.636   accuracy: 0.094   
+[TEST] [Epoch:  15   Iter:   96]   recon_A: 0.144   kl: 0.045   classifier: 1.621   accuracy: 0.083   
+[TEST] [Epoch:  15   Iter:  128]   recon_A: 0.139   kl: 0.043   classifier: 1.625   accuracy: 0.086   
+[TEST] [Epoch:  15   Iter:  160]   recon_A: 0.138   kl: 0.045   classifier: 1.621   accuracy: 0.106   
+[TEST] [Epoch:  15   Iter:  192]   recon_A: 0.142   kl: 0.052   classifier: 1.618   accuracy: 0.115   
+[TEST] [Epoch:  15   Iter:  200]   recon_A: 0.151   kl: 0.057   classifier: 1.641   accuracy: 0.120   
+Testing time used: 0.021s
+[TEST] [Epoch:  16   Iter:   32]   recon_A: 0.138   kl: 0.039   classifier: 1.623   accuracy: 0.031   
+[TEST] [Epoch:  16   Iter:   64]   recon_A: 0.139   kl: 0.040   classifier: 1.635   accuracy: 0.094   
+[TEST] [Epoch:  16   Iter:   96]   recon_A: 0.140   kl: 0.048   classifier: 1.624   accuracy: 0.073   
+[TEST] [Epoch:  16   Iter:  128]   recon_A: 0.137   kl: 0.043   classifier: 1.625   accuracy: 0.070   
+[TEST] [Epoch:  16   Iter:  160]   recon_A: 0.136   kl: 0.048   classifier: 1.618   accuracy: 0.094   
+[TEST] [Epoch:  16   Iter:  192]   recon_A: 0.140   kl: 0.056   classifier: 1.613   accuracy: 0.109   
+[TEST] [Epoch:  16   Iter:  200]   recon_A: 0.151   kl: 0.063   classifier: 1.641   accuracy: 0.105   
+Testing time used: 0.018s
+[TEST] [Epoch:  17   Iter:   32]   recon_A: 0.135   kl: 0.040   classifier: 1.621   accuracy: 0.125   
+[TEST] [Epoch:  17   Iter:   64]   recon_A: 0.138   kl: 0.041   classifier: 1.633   accuracy: 0.141   
+[TEST] [Epoch:  17   Iter:   96]   recon_A: 0.140   kl: 0.047   classifier: 1.624   accuracy: 0.146   
+[TEST] [Epoch:  17   Iter:  128]   recon_A: 0.136   kl: 0.044   classifier: 1.622   accuracy: 0.148   
+[TEST] [Epoch:  17   Iter:  160]   recon_A: 0.137   kl: 0.047   classifier: 1.616   accuracy: 0.156   
+[TEST] [Epoch:  17   Iter:  192]   recon_A: 0.137   kl: 0.055   classifier: 1.612   accuracy: 0.156   
+[TEST] [Epoch:  17   Iter:  200]   recon_A: 0.149   kl: 0.060   classifier: 1.643   accuracy: 0.150   
+Testing time used: 0.022s
+[TEST] [Epoch:  18   Iter:   32]   recon_A: 0.136   kl: 0.039   classifier: 1.626   accuracy: 0.062   
+[TEST] [Epoch:  18   Iter:   64]   recon_A: 0.136   kl: 0.041   classifier: 1.636   accuracy: 0.094   
+[TEST] [Epoch:  18   Iter:   96]   recon_A: 0.138   kl: 0.048   classifier: 1.631   accuracy: 0.073   
+[TEST] [Epoch:  18   Iter:  128]   recon_A: 0.135   kl: 0.043   classifier: 1.627   accuracy: 0.078   
+[TEST] [Epoch:  18   Iter:  160]   recon_A: 0.134   kl: 0.047   classifier: 1.618   accuracy: 0.100   
+[TEST] [Epoch:  18   Iter:  192]   recon_A: 0.137   kl: 0.056   classifier: 1.615   accuracy: 0.115   
+[TEST] [Epoch:  18   Iter:  200]   recon_A: 0.147   kl: 0.061   classifier: 1.649   accuracy: 0.110   
+Testing time used: 0.021s
+[TEST] [Epoch:  19   Iter:   32]   recon_A: 0.135   kl: 0.039   classifier: 1.622   accuracy: 0.062   
+[TEST] [Epoch:  19   Iter:   64]   recon_A: 0.135   kl: 0.041   classifier: 1.631   accuracy: 0.094   
+[TEST] [Epoch:  19   Iter:   96]   recon_A: 0.138   kl: 0.047   classifier: 1.626   accuracy: 0.073   
+[TEST] [Epoch:  19   Iter:  128]   recon_A: 0.135   kl: 0.043   classifier: 1.620   accuracy: 0.070   
+[TEST] [Epoch:  19   Iter:  160]   recon_A: 0.133   kl: 0.047   classifier: 1.616   accuracy: 0.100   
+[TEST] [Epoch:  19   Iter:  192]   recon_A: 0.137   kl: 0.058   classifier: 1.609   accuracy: 0.115   
+[TEST] [Epoch:  19   Iter:  200]   recon_A: 0.145   kl: 0.064   classifier: 1.639   accuracy: 0.115   
+Testing time used: 0.022s
+[TEST] [Epoch:  20   Iter:   32]   recon_A: 0.134   kl: 0.039   classifier: 1.624   accuracy: 0.000   
+[TEST] [Epoch:  20   Iter:   64]   recon_A: 0.134   kl: 0.040   classifier: 1.630   accuracy: 0.062   
+[TEST] [Epoch:  20   Iter:   96]   recon_A: 0.136   kl: 0.049   classifier: 1.628   accuracy: 0.052   
+[TEST] [Epoch:  20   Iter:  128]   recon_A: 0.133   kl: 0.043   classifier: 1.623   accuracy: 0.055   
+[TEST] [Epoch:  20   Iter:  160]   recon_A: 0.134   kl: 0.046   classifier: 1.620   accuracy: 0.075   
+[TEST] [Epoch:  20   Iter:  192]   recon_A: 0.135   kl: 0.058   classifier: 1.616   accuracy: 0.078   
+[TEST] [Epoch:  20   Iter:  200]   recon_A: 0.145   kl: 0.065   classifier: 1.634   accuracy: 0.080   
+Testing time used: 0.019s
+[TEST] [Epoch:  21   Iter:   32]   recon_A: 0.132   kl: 0.040   classifier: 1.631   accuracy: 0.031   
+[TEST] [Epoch:  21   Iter:   64]   recon_A: 0.134   kl: 0.041   classifier: 1.635   accuracy: 0.062   
+[TEST] [Epoch:  21   Iter:   96]   recon_A: 0.135   kl: 0.050   classifier: 1.632   accuracy: 0.052   
+[TEST] [Epoch:  21   Iter:  128]   recon_A: 0.130   kl: 0.044   classifier: 1.627   accuracy: 0.047   
+[TEST] [Epoch:  21   Iter:  160]   recon_A: 0.131   kl: 0.048   classifier: 1.623   accuracy: 0.062   
+[TEST] [Epoch:  21   Iter:  192]   recon_A: 0.134   kl: 0.063   classifier: 1.616   accuracy: 0.083   
+[TEST] [Epoch:  21   Iter:  200]   recon_A: 0.146   kl: 0.069   classifier: 1.635   accuracy: 0.085   
+Testing time used: 0.023s
+[TEST] [Epoch:  22   Iter:   32]   recon_A: 0.131   kl: 0.041   classifier: 1.627   accuracy: 0.031   
+[TEST] [Epoch:  22   Iter:   64]   recon_A: 0.132   kl: 0.043   classifier: 1.630   accuracy: 0.062   
+[TEST] [Epoch:  22   Iter:   96]   recon_A: 0.135   kl: 0.053   classifier: 1.630   accuracy: 0.062   
+[TEST] [Epoch:  22   Iter:  128]   recon_A: 0.130   kl: 0.045   classifier: 1.626   accuracy: 0.055   
+[TEST] [Epoch:  22   Iter:  160]   recon_A: 0.131   kl: 0.049   classifier: 1.618   accuracy: 0.069   
+[TEST] [Epoch:  22   Iter:  192]   recon_A: 0.134   kl: 0.063   classifier: 1.613   accuracy: 0.094   
+[TEST] [Epoch:  22   Iter:  200]   recon_A: 0.143   kl: 0.072   classifier: 1.634   accuracy: 0.095   
+Testing time used: 0.022s
+[TEST] [Epoch:  23   Iter:   32]   recon_A: 0.131   kl: 0.041   classifier: 1.626   accuracy: 0.000   
+[TEST] [Epoch:  23   Iter:   64]   recon_A: 0.131   kl: 0.041   classifier: 1.633   accuracy: 0.062   
+[TEST] [Epoch:  23   Iter:   96]   recon_A: 0.134   kl: 0.051   classifier: 1.630   accuracy: 0.042   
+[TEST] [Epoch:  23   Iter:  128]   recon_A: 0.131   kl: 0.044   classifier: 1.626   accuracy: 0.039   
+[TEST] [Epoch:  23   Iter:  160]   recon_A: 0.130   kl: 0.048   classifier: 1.621   accuracy: 0.056   
+[TEST] [Epoch:  23   Iter:  192]   recon_A: 0.133   kl: 0.063   classifier: 1.614   accuracy: 0.073   
+[TEST] [Epoch:  23   Iter:  200]   recon_A: 0.144   kl: 0.071   classifier: 1.632   accuracy: 0.075   
+Testing time used: 0.019s
+[TEST] [Epoch:  24   Iter:   32]   recon_A: 0.131   kl: 0.042   classifier: 1.621   accuracy: 0.062   
+[TEST] [Epoch:  24   Iter:   64]   recon_A: 0.130   kl: 0.044   classifier: 1.632   accuracy: 0.094   
+[TEST] [Epoch:  24   Iter:   96]   recon_A: 0.133   kl: 0.053   classifier: 1.621   accuracy: 0.073   
+[TEST] [Epoch:  24   Iter:  128]   recon_A: 0.128   kl: 0.045   classifier: 1.619   accuracy: 0.078   
+[TEST] [Epoch:  24   Iter:  160]   recon_A: 0.129   kl: 0.051   classifier: 1.619   accuracy: 0.100   
+[TEST] [Epoch:  24   Iter:  192]   recon_A: 0.131   kl: 0.067   classifier: 1.605   accuracy: 0.109   
+[TEST] [Epoch:  24   Iter:  200]   recon_A: 0.141   kl: 0.076   classifier: 1.620   accuracy: 0.115   
+Testing time used: 0.022s
+[TEST] [Epoch:  25   Iter:   32]   recon_A: 0.129   kl: 0.041   classifier: 1.622   accuracy: 0.062   
+[TEST] [Epoch:  25   Iter:   64]   recon_A: 0.129   kl: 0.044   classifier: 1.633   accuracy: 0.094   
+[TEST] [Epoch:  25   Iter:   96]   recon_A: 0.133   kl: 0.054   classifier: 1.623   accuracy: 0.062   
+[TEST] [Epoch:  25   Iter:  128]   recon_A: 0.129   kl: 0.045   classifier: 1.621   accuracy: 0.062   
+[TEST] [Epoch:  25   Iter:  160]   recon_A: 0.128   kl: 0.051   classifier: 1.620   accuracy: 0.087   
+[TEST] [Epoch:  25   Iter:  192]   recon_A: 0.130   kl: 0.066   classifier: 1.608   accuracy: 0.099   
+[TEST] [Epoch:  25   Iter:  200]   recon_A: 0.142   kl: 0.076   classifier: 1.612   accuracy: 0.100   
+Testing time used: 0.020s
+[TEST] [Epoch:  26   Iter:   32]   recon_A: 0.129   kl: 0.043   classifier: 1.623   accuracy: 0.062   
+[TEST] [Epoch:  26   Iter:   64]   recon_A: 0.130   kl: 0.045   classifier: 1.633   accuracy: 0.094   
+[TEST] [Epoch:  26   Iter:   96]   recon_A: 0.132   kl: 0.054   classifier: 1.627   accuracy: 0.062   
+[TEST] [Epoch:  26   Iter:  128]   recon_A: 0.128   kl: 0.046   classifier: 1.623   accuracy: 0.062   
+[TEST] [Epoch:  26   Iter:  160]   recon_A: 0.127   kl: 0.052   classifier: 1.621   accuracy: 0.075   
+[TEST] [Epoch:  26   Iter:  192]   recon_A: 0.132   kl: 0.066   classifier: 1.610   accuracy: 0.089   
+[TEST] [Epoch:  26   Iter:  200]   recon_A: 0.142   kl: 0.076   classifier: 1.616   accuracy: 0.090   
+Testing time used: 0.020s
+[TEST] [Epoch:  27   Iter:   32]   recon_A: 0.128   kl: 0.044   classifier: 1.624   accuracy: 0.062   
+[TEST] [Epoch:  27   Iter:   64]   recon_A: 0.130   kl: 0.046   classifier: 1.633   accuracy: 0.094   
+[TEST] [Epoch:  27   Iter:   96]   recon_A: 0.131   kl: 0.054   classifier: 1.624   accuracy: 0.083   
+[TEST] [Epoch:  27   Iter:  128]   recon_A: 0.128   kl: 0.047   classifier: 1.623   accuracy: 0.078   
+[TEST] [Epoch:  27   Iter:  160]   recon_A: 0.127   kl: 0.053   classifier: 1.621   accuracy: 0.087   
+[TEST] [Epoch:  27   Iter:  192]   recon_A: 0.131   kl: 0.066   classifier: 1.609   accuracy: 0.099   
+[TEST] [Epoch:  27   Iter:  200]   recon_A: 0.142   kl: 0.074   classifier: 1.620   accuracy: 0.100   
+Testing time used: 0.026s
+[TEST] [Epoch:  28   Iter:   32]   recon_A: 0.128   kl: 0.043   classifier: 1.626   accuracy: 0.062   
+[TEST] [Epoch:  28   Iter:   64]   recon_A: 0.128   kl: 0.044   classifier: 1.634   accuracy: 0.094   
+[TEST] [Epoch:  28   Iter:   96]   recon_A: 0.130   kl: 0.055   classifier: 1.628   accuracy: 0.073   
+[TEST] [Epoch:  28   Iter:  128]   recon_A: 0.126   kl: 0.047   classifier: 1.626   accuracy: 0.070   
+[TEST] [Epoch:  28   Iter:  160]   recon_A: 0.126   kl: 0.052   classifier: 1.620   accuracy: 0.094   
+[TEST] [Epoch:  28   Iter:  192]   recon_A: 0.130   kl: 0.067   classifier: 1.611   accuracy: 0.094   
+[TEST] [Epoch:  28   Iter:  200]   recon_A: 0.139   kl: 0.073   classifier: 1.615   accuracy: 0.095   
+Testing time used: 0.022s
+[TEST] [Epoch:  29   Iter:   32]   recon_A: 0.128   kl: 0.043   classifier: 1.624   accuracy: 0.062   
+[TEST] [Epoch:  29   Iter:   64]   recon_A: 0.127   kl: 0.045   classifier: 1.630   accuracy: 0.109   
+[TEST] [Epoch:  29   Iter:   96]   recon_A: 0.131   kl: 0.055   classifier: 1.629   accuracy: 0.094   
+[TEST] [Epoch:  29   Iter:  128]   recon_A: 0.127   kl: 0.047   classifier: 1.624   accuracy: 0.094   
+[TEST] [Epoch:  29   Iter:  160]   recon_A: 0.126   kl: 0.053   classifier: 1.617   accuracy: 0.106   
+[TEST] [Epoch:  29   Iter:  192]   recon_A: 0.129   kl: 0.067   classifier: 1.606   accuracy: 0.109   
+[TEST] [Epoch:  29   Iter:  200]   recon_A: 0.139   kl: 0.078   classifier: 1.614   accuracy: 0.115   
+Testing time used: 0.028s
+[TEST] [Epoch:  30   Iter:   32]   recon_A: 0.126   kl: 0.043   classifier: 1.625   accuracy: 0.094   
+[TEST] [Epoch:  30   Iter:   64]   recon_A: 0.127   kl: 0.045   classifier: 1.633   accuracy: 0.125   
+[TEST] [Epoch:  30   Iter:   96]   recon_A: 0.130   kl: 0.054   classifier: 1.631   accuracy: 0.104   
+[TEST] [Epoch:  30   Iter:  128]   recon_A: 0.125   kl: 0.047   classifier: 1.624   accuracy: 0.102   
+[TEST] [Epoch:  30   Iter:  160]   recon_A: 0.125   kl: 0.053   classifier: 1.621   accuracy: 0.106   
+[TEST] [Epoch:  30   Iter:  192]   recon_A: 0.128   kl: 0.065   classifier: 1.611   accuracy: 0.109   
+[TEST] [Epoch:  30   Iter:  200]   recon_A: 0.139   kl: 0.073   classifier: 1.626   accuracy: 0.115   
+Testing time used: 0.022s
+[TEST] [Epoch:  31   Iter:   32]   recon_A: 0.128   kl: 0.045   classifier: 1.623   accuracy: 0.094   
+[TEST] [Epoch:  31   Iter:   64]   recon_A: 0.128   kl: 0.048   classifier: 1.629   accuracy: 0.109   
+[TEST] [Epoch:  31   Iter:   96]   recon_A: 0.130   kl: 0.055   classifier: 1.628   accuracy: 0.094   
+[TEST] [Epoch:  31   Iter:  128]   recon_A: 0.125   kl: 0.048   classifier: 1.621   accuracy: 0.102   
+[TEST] [Epoch:  31   Iter:  160]   recon_A: 0.126   kl: 0.056   classifier: 1.617   accuracy: 0.113   
+[TEST] [Epoch:  31   Iter:  192]   recon_A: 0.129   kl: 0.068   classifier: 1.608   accuracy: 0.115   
+[TEST] [Epoch:  31   Iter:  200]   recon_A: 0.138   kl: 0.077   classifier: 1.624   accuracy: 0.115   
+Testing time used: 0.024s
+[TEST] [Epoch:  32   Iter:   32]   recon_A: 0.126   kl: 0.046   classifier: 1.624   accuracy: 0.125   
+[TEST] [Epoch:  32   Iter:   64]   recon_A: 0.127   kl: 0.049   classifier: 1.628   accuracy: 0.141   
+[TEST] [Epoch:  32   Iter:   96]   recon_A: 0.130   kl: 0.055   classifier: 1.625   accuracy: 0.115   
+[TEST] [Epoch:  32   Iter:  128]   recon_A: 0.125   kl: 0.049   classifier: 1.622   accuracy: 0.109   
+[TEST] [Epoch:  32   Iter:  160]   recon_A: 0.125   kl: 0.056   classifier: 1.615   accuracy: 0.119   
+[TEST] [Epoch:  32   Iter:  192]   recon_A: 0.129   kl: 0.071   classifier: 1.609   accuracy: 0.120   
+[TEST] [Epoch:  32   Iter:  200]   recon_A: 0.139   kl: 0.080   classifier: 1.623   accuracy: 0.120   
+Testing time used: 0.027s
+[TEST] [Epoch:  33   Iter:   32]   recon_A: 0.126   kl: 0.046   classifier: 1.625   accuracy: 0.094   
+[TEST] [Epoch:  33   Iter:   64]   recon_A: 0.127   kl: 0.047   classifier: 1.632   accuracy: 0.109   
+[TEST] [Epoch:  33   Iter:   96]   recon_A: 0.129   kl: 0.056   classifier: 1.629   accuracy: 0.094   
+[TEST] [Epoch:  33   Iter:  128]   recon_A: 0.126   kl: 0.048   classifier: 1.625   accuracy: 0.109   
+[TEST] [Epoch:  33   Iter:  160]   recon_A: 0.125   kl: 0.054   classifier: 1.619   accuracy: 0.119   
+[TEST] [Epoch:  33   Iter:  192]   recon_A: 0.129   kl: 0.073   classifier: 1.610   accuracy: 0.120   
+[TEST] [Epoch:  33   Iter:  200]   recon_A: 0.139   kl: 0.081   classifier: 1.620   accuracy: 0.120   
+Testing time used: 0.023s
+[TEST] [Epoch:  34   Iter:   32]   recon_A: 0.126   kl: 0.047   classifier: 1.629   accuracy: 0.062   
+[TEST] [Epoch:  34   Iter:   64]   recon_A: 0.127   kl: 0.048   classifier: 1.639   accuracy: 0.094   
+[TEST] [Epoch:  34   Iter:   96]   recon_A: 0.129   kl: 0.055   classifier: 1.630   accuracy: 0.104   
+[TEST] [Epoch:  34   Iter:  128]   recon_A: 0.125   kl: 0.049   classifier: 1.628   accuracy: 0.102   
+[TEST] [Epoch:  34   Iter:  160]   recon_A: 0.124   kl: 0.056   classifier: 1.622   accuracy: 0.106   
+[TEST] [Epoch:  34   Iter:  192]   recon_A: 0.128   kl: 0.071   classifier: 1.615   accuracy: 0.109   
+[TEST] [Epoch:  34   Iter:  200]   recon_A: 0.138   kl: 0.076   classifier: 1.614   accuracy: 0.110   
+Testing time used: 0.020s
+[TEST] [Epoch:  35   Iter:   32]   recon_A: 0.125   kl: 0.046   classifier: 1.626   accuracy: 0.062   
+[TEST] [Epoch:  35   Iter:   64]   recon_A: 0.126   kl: 0.048   classifier: 1.631   accuracy: 0.094   
+[TEST] [Epoch:  35   Iter:   96]   recon_A: 0.128   kl: 0.057   classifier: 1.627   accuracy: 0.104   
+[TEST] [Epoch:  35   Iter:  128]   recon_A: 0.125   kl: 0.048   classifier: 1.624   accuracy: 0.117   
+[TEST] [Epoch:  35   Iter:  160]   recon_A: 0.124   kl: 0.055   classifier: 1.618   accuracy: 0.131   
+[TEST] [Epoch:  35   Iter:  192]   recon_A: 0.127   kl: 0.071   classifier: 1.612   accuracy: 0.130   
+[TEST] [Epoch:  35   Iter:  200]   recon_A: 0.138   kl: 0.081   classifier: 1.617   accuracy: 0.130   
+Testing time used: 0.021s
+[TEST] [Epoch:  36   Iter:   32]   recon_A: 0.126   kl: 0.046   classifier: 1.627   accuracy: 0.094   
+[TEST] [Epoch:  36   Iter:   64]   recon_A: 0.127   kl: 0.050   classifier: 1.634   accuracy: 0.109   
+[TEST] [Epoch:  36   Iter:   96]   recon_A: 0.129   kl: 0.057   classifier: 1.628   accuracy: 0.125   
+[TEST] [Epoch:  36   Iter:  128]   recon_A: 0.125   kl: 0.048   classifier: 1.627   accuracy: 0.125   
+[TEST] [Epoch:  36   Iter:  160]   recon_A: 0.124   kl: 0.056   classifier: 1.620   accuracy: 0.131   
+[TEST] [Epoch:  36   Iter:  192]   recon_A: 0.127   kl: 0.071   classifier: 1.616   accuracy: 0.130   
+[TEST] [Epoch:  36   Iter:  200]   recon_A: 0.137   kl: 0.082   classifier: 1.613   accuracy: 0.130   
+Testing time used: 0.022s
+[TEST] [Epoch:  37   Iter:   32]   recon_A: 0.126   kl: 0.045   classifier: 1.626   accuracy: 0.031   
+[TEST] [Epoch:  37   Iter:   64]   recon_A: 0.126   kl: 0.048   classifier: 1.633   accuracy: 0.078   
+[TEST] [Epoch:  37   Iter:   96]   recon_A: 0.128   kl: 0.055   classifier: 1.628   accuracy: 0.083   
+[TEST] [Epoch:  37   Iter:  128]   recon_A: 0.124   kl: 0.048   classifier: 1.627   accuracy: 0.078   
+[TEST] [Epoch:  37   Iter:  160]   recon_A: 0.124   kl: 0.055   classifier: 1.622   accuracy: 0.094   
+[TEST] [Epoch:  37   Iter:  192]   recon_A: 0.128   kl: 0.066   classifier: 1.616   accuracy: 0.094   
+[TEST] [Epoch:  37   Iter:  200]   recon_A: 0.137   kl: 0.076   classifier: 1.615   accuracy: 0.095   
+Testing time used: 0.020s
+[TEST] [Epoch:  38   Iter:   32]   recon_A: 0.124   kl: 0.047   classifier: 1.618   accuracy: 0.094   
+[TEST] [Epoch:  38   Iter:   64]   recon_A: 0.125   kl: 0.049   classifier: 1.629   accuracy: 0.094   
+[TEST] [Epoch:  38   Iter:   96]   recon_A: 0.128   kl: 0.056   classifier: 1.623   accuracy: 0.094   
+[TEST] [Epoch:  38   Iter:  128]   recon_A: 0.124   kl: 0.049   classifier: 1.621   accuracy: 0.094   
+[TEST] [Epoch:  38   Iter:  160]   recon_A: 0.123   kl: 0.056   classifier: 1.620   accuracy: 0.100   
+[TEST] [Epoch:  38   Iter:  192]   recon_A: 0.126   kl: 0.067   classifier: 1.614   accuracy: 0.094   
+[TEST] [Epoch:  38   Iter:  200]   recon_A: 0.138   kl: 0.078   classifier: 1.611   accuracy: 0.095   
+Testing time used: 0.022s
+[TEST] [Epoch:  39   Iter:   32]   recon_A: 0.125   kl: 0.049   classifier: 1.623   accuracy: 0.031   
+[TEST] [Epoch:  39   Iter:   64]   recon_A: 0.125   kl: 0.050   classifier: 1.631   accuracy: 0.047   
+[TEST] [Epoch:  39   Iter:   96]   recon_A: 0.128   kl: 0.057   classifier: 1.629   accuracy: 0.052   
+[TEST] [Epoch:  39   Iter:  128]   recon_A: 0.124   kl: 0.050   classifier: 1.624   accuracy: 0.055   
+[TEST] [Epoch:  39   Iter:  160]   recon_A: 0.123   kl: 0.059   classifier: 1.623   accuracy: 0.069   
+[TEST] [Epoch:  39   Iter:  192]   recon_A: 0.126   kl: 0.069   classifier: 1.616   accuracy: 0.073   
+[TEST] [Epoch:  39   Iter:  200]   recon_A: 0.138   kl: 0.077   classifier: 1.617   accuracy: 0.075   
+Testing time used: 0.019s
+[TEST] [Epoch:  40   Iter:   32]   recon_A: 0.125   kl: 0.048   classifier: 1.624   accuracy: 0.031   
+[TEST] [Epoch:  40   Iter:   64]   recon_A: 0.125   kl: 0.052   classifier: 1.630   accuracy: 0.078   
+[TEST] [Epoch:  40   Iter:   96]   recon_A: 0.128   kl: 0.058   classifier: 1.624   accuracy: 0.073   
+[TEST] [Epoch:  40   Iter:  128]   recon_A: 0.124   kl: 0.050   classifier: 1.627   accuracy: 0.062   
+[TEST] [Epoch:  40   Iter:  160]   recon_A: 0.123   kl: 0.060   classifier: 1.622   accuracy: 0.075   
+[TEST] [Epoch:  40   Iter:  192]   recon_A: 0.126   kl: 0.073   classifier: 1.616   accuracy: 0.068   
+[TEST] [Epoch:  40   Iter:  200]   recon_A: 0.137   kl: 0.086   classifier: 1.618   accuracy: 0.070   
+Testing time used: 0.022s
+[TEST] [Epoch:  41   Iter:   32]   recon_A: 0.125   kl: 0.049   classifier: 1.621   accuracy: 0.031   
+[TEST] [Epoch:  41   Iter:   64]   recon_A: 0.125   kl: 0.051   classifier: 1.626   accuracy: 0.109   
+[TEST] [Epoch:  41   Iter:   96]   recon_A: 0.128   kl: 0.060   classifier: 1.622   accuracy: 0.094   
+[TEST] [Epoch:  41   Iter:  128]   recon_A: 0.123   kl: 0.051   classifier: 1.623   accuracy: 0.086   
+[TEST] [Epoch:  41   Iter:  160]   recon_A: 0.123   kl: 0.059   classifier: 1.620   accuracy: 0.094   
+[TEST] [Epoch:  41   Iter:  192]   recon_A: 0.126   kl: 0.073   classifier: 1.613   accuracy: 0.083   
+[TEST] [Epoch:  41   Iter:  200]   recon_A: 0.137   kl: 0.086   classifier: 1.618   accuracy: 0.085   
+Testing time used: 0.022s
+[TEST] [Epoch:  42   Iter:   32]   recon_A: 0.123   kl: 0.051   classifier: 1.621   accuracy: 0.062   
+[TEST] [Epoch:  42   Iter:   64]   recon_A: 0.124   kl: 0.051   classifier: 1.625   accuracy: 0.125   
+[TEST] [Epoch:  42   Iter:   96]   recon_A: 0.127   kl: 0.059   classifier: 1.622   accuracy: 0.125   
+[TEST] [Epoch:  42   Iter:  128]   recon_A: 0.123   kl: 0.052   classifier: 1.618   accuracy: 0.125   
+[TEST] [Epoch:  42   Iter:  160]   recon_A: 0.122   kl: 0.059   classifier: 1.618   accuracy: 0.131   
+[TEST] [Epoch:  42   Iter:  192]   recon_A: 0.126   kl: 0.074   classifier: 1.611   accuracy: 0.120   
+[TEST] [Epoch:  42   Iter:  200]   recon_A: 0.137   kl: 0.080   classifier: 1.625   accuracy: 0.120   
+Testing time used: 0.022s
+[TEST] [Epoch:  43   Iter:   32]   recon_A: 0.124   kl: 0.049   classifier: 1.626   accuracy: 0.062   
+[TEST] [Epoch:  43   Iter:   64]   recon_A: 0.125   kl: 0.050   classifier: 1.628   accuracy: 0.094   
+[TEST] [Epoch:  43   Iter:   96]   recon_A: 0.127   kl: 0.059   classifier: 1.627   accuracy: 0.083   
+[TEST] [Epoch:  43   Iter:  128]   recon_A: 0.123   kl: 0.050   classifier: 1.624   accuracy: 0.078   
+[TEST] [Epoch:  43   Iter:  160]   recon_A: 0.123   kl: 0.057   classifier: 1.621   accuracy: 0.081   
+[TEST] [Epoch:  43   Iter:  192]   recon_A: 0.125   kl: 0.071   classifier: 1.614   accuracy: 0.073   
+[TEST] [Epoch:  43   Iter:  200]   recon_A: 0.136   kl: 0.082   classifier: 1.615   accuracy: 0.075   
+Testing time used: 0.026s
+[TEST] [Epoch:  44   Iter:   32]   recon_A: 0.123   kl: 0.050   classifier: 1.624   accuracy: 0.094   
+[TEST] [Epoch:  44   Iter:   64]   recon_A: 0.124   kl: 0.053   classifier: 1.627   accuracy: 0.125   
+[TEST] [Epoch:  44   Iter:   96]   recon_A: 0.127   kl: 0.059   classifier: 1.628   accuracy: 0.115   
+[TEST] [Epoch:  44   Iter:  128]   recon_A: 0.122   kl: 0.050   classifier: 1.624   accuracy: 0.094   
+[TEST] [Epoch:  44   Iter:  160]   recon_A: 0.122   kl: 0.060   classifier: 1.618   accuracy: 0.100   
+[TEST] [Epoch:  44   Iter:  192]   recon_A: 0.125   kl: 0.072   classifier: 1.615   accuracy: 0.094   
+[TEST] [Epoch:  44   Iter:  200]   recon_A: 0.136   kl: 0.085   classifier: 1.619   accuracy: 0.100   
+Testing time used: 0.021s
+[TEST] [Epoch:  45   Iter:   32]   recon_A: 0.123   kl: 0.048   classifier: 1.625   accuracy: 0.031   
+[TEST] [Epoch:  45   Iter:   64]   recon_A: 0.124   kl: 0.049   classifier: 1.630   accuracy: 0.078   
+[TEST] [Epoch:  45   Iter:   96]   recon_A: 0.127   kl: 0.058   classifier: 1.627   accuracy: 0.073   
+[TEST] [Epoch:  45   Iter:  128]   recon_A: 0.122   kl: 0.049   classifier: 1.626   accuracy: 0.055   
+[TEST] [Epoch:  45   Iter:  160]   recon_A: 0.122   kl: 0.056   classifier: 1.622   accuracy: 0.069   
+[TEST] [Epoch:  45   Iter:  192]   recon_A: 0.126   kl: 0.069   classifier: 1.618   accuracy: 0.062   
+[TEST] [Epoch:  45   Iter:  200]   recon_A: 0.136   kl: 0.079   classifier: 1.613   accuracy: 0.065   
+Testing time used: 0.023s
+[TEST] [Epoch:  46   Iter:   32]   recon_A: 0.123   kl: 0.049   classifier: 1.622   accuracy: 0.031   
+[TEST] [Epoch:  46   Iter:   64]   recon_A: 0.124   kl: 0.049   classifier: 1.629   accuracy: 0.047   
+[TEST] [Epoch:  46   Iter:   96]   recon_A: 0.126   kl: 0.058   classifier: 1.628   accuracy: 0.042   
+[TEST] [Epoch:  46   Iter:  128]   recon_A: 0.122   kl: 0.049   classifier: 1.625   accuracy: 0.047   
+[TEST] [Epoch:  46   Iter:  160]   recon_A: 0.121   kl: 0.057   classifier: 1.618   accuracy: 0.062   
+[TEST] [Epoch:  46   Iter:  192]   recon_A: 0.125   kl: 0.069   classifier: 1.614   accuracy: 0.068   
+[TEST] [Epoch:  46   Iter:  200]   recon_A: 0.135   kl: 0.075   classifier: 1.617   accuracy: 0.070   
+Testing time used: 0.019s
+[TEST] [Epoch:  47   Iter:   32]   recon_A: 0.123   kl: 0.050   classifier: 1.622   accuracy: 0.062   
+[TEST] [Epoch:  47   Iter:   64]   recon_A: 0.124   kl: 0.049   classifier: 1.628   accuracy: 0.109   
+[TEST] [Epoch:  47   Iter:   96]   recon_A: 0.126   kl: 0.059   classifier: 1.625   accuracy: 0.104   
+[TEST] [Epoch:  47   Iter:  128]   recon_A: 0.122   kl: 0.050   classifier: 1.621   accuracy: 0.109   
+[TEST] [Epoch:  47   Iter:  160]   recon_A: 0.122   kl: 0.058   classifier: 1.617   accuracy: 0.119   
+[TEST] [Epoch:  47   Iter:  192]   recon_A: 0.125   kl: 0.069   classifier: 1.615   accuracy: 0.120   
+[TEST] [Epoch:  47   Iter:  200]   recon_A: 0.135   kl: 0.078   classifier: 1.613   accuracy: 0.120   
+Testing time used: 0.021s
+[TEST] [Epoch:  48   Iter:   32]   recon_A: 0.123   kl: 0.050   classifier: 1.623   accuracy: 0.094   
+[TEST] [Epoch:  48   Iter:   64]   recon_A: 0.124   kl: 0.052   classifier: 1.632   accuracy: 0.156   
+[TEST] [Epoch:  48   Iter:   96]   recon_A: 0.126   kl: 0.061   classifier: 1.626   accuracy: 0.135   
+[TEST] [Epoch:  48   Iter:  128]   recon_A: 0.122   kl: 0.050   classifier: 1.623   accuracy: 0.125   
+[TEST] [Epoch:  48   Iter:  160]   recon_A: 0.121   kl: 0.059   classifier: 1.622   accuracy: 0.125   
+[TEST] [Epoch:  48   Iter:  192]   recon_A: 0.125   kl: 0.075   classifier: 1.616   accuracy: 0.109   
+[TEST] [Epoch:  48   Iter:  200]   recon_A: 0.134   kl: 0.089   classifier: 1.615   accuracy: 0.110   
+Testing time used: 0.018s
+[TEST] [Epoch:  49   Iter:   32]   recon_A: 0.123   kl: 0.051   classifier: 1.626   accuracy: 0.031   
+[TEST] [Epoch:  49   Iter:   64]   recon_A: 0.124   kl: 0.052   classifier: 1.636   accuracy: 0.062   
+[TEST] [Epoch:  49   Iter:   96]   recon_A: 0.126   kl: 0.059   classifier: 1.628   accuracy: 0.062   
+[TEST] [Epoch:  49   Iter:  128]   recon_A: 0.122   kl: 0.052   classifier: 1.626   accuracy: 0.062   
+[TEST] [Epoch:  49   Iter:  160]   recon_A: 0.122   kl: 0.061   classifier: 1.624   accuracy: 0.081   
+[TEST] [Epoch:  49   Iter:  192]   recon_A: 0.125   kl: 0.069   classifier: 1.620   accuracy: 0.078   
+[TEST] [Epoch:  49   Iter:  200]   recon_A: 0.134   kl: 0.080   classifier: 1.615   accuracy: 0.080   
+Testing time used: 0.022s
+[TEST] [Epoch:  50   Iter:   32]   recon_A: 0.123   kl: 0.052   classifier: 1.624   accuracy: 0.062   
+[TEST] [Epoch:  50   Iter:   64]   recon_A: 0.123   kl: 0.052   classifier: 1.630   accuracy: 0.094   
+[TEST] [Epoch:  50   Iter:   96]   recon_A: 0.126   kl: 0.059   classifier: 1.627   accuracy: 0.073   
+[TEST] [Epoch:  50   Iter:  128]   recon_A: 0.123   kl: 0.052   classifier: 1.623   accuracy: 0.070   
+[TEST] [Epoch:  50   Iter:  160]   recon_A: 0.121   kl: 0.060   classifier: 1.620   accuracy: 0.094   
+[TEST] [Epoch:  50   Iter:  192]   recon_A: 0.125   kl: 0.070   classifier: 1.616   accuracy: 0.089   
+[TEST] [Epoch:  50   Iter:  200]   recon_A: 0.135   kl: 0.078   classifier: 1.605   accuracy: 0.085   
+Testing time used: 0.020s
+[TEST] [Epoch:  51   Iter:   32]   recon_A: 0.122   kl: 0.053   classifier: 1.521   accuracy: 0.594   
+[TEST] [Epoch:  51   Iter:   64]   recon_A: 0.123   kl: 0.053   classifier: 1.546   accuracy: 0.578   
+[TEST] [Epoch:  51   Iter:   96]   recon_A: 0.126   kl: 0.060   classifier: 1.537   accuracy: 0.552   
+[TEST] [Epoch:  51   Iter:  128]   recon_A: 0.122   kl: 0.052   classifier: 1.556   accuracy: 0.547   
+[TEST] [Epoch:  51   Iter:  160]   recon_A: 0.121   kl: 0.062   classifier: 1.550   accuracy: 0.544   
+[TEST] [Epoch:  51   Iter:  192]   recon_A: 0.124   kl: 0.071   classifier: 1.521   accuracy: 0.547   
+[TEST] [Epoch:  51   Iter:  200]   recon_A: 0.135   kl: 0.081   classifier: 1.490   accuracy: 0.555   
+Testing time used: 0.026s
+[TEST] [Epoch:  52   Iter:   32]   recon_A: 0.123   kl: 0.052   classifier: 1.432   accuracy: 0.812   
+[TEST] [Epoch:  52   Iter:   64]   recon_A: 0.123   kl: 0.053   classifier: 1.465   accuracy: 0.828   
+[TEST] [Epoch:  52   Iter:   96]   recon_A: 0.125   kl: 0.059   classifier: 1.462   accuracy: 0.771   
+[TEST] [Epoch:  52   Iter:  128]   recon_A: 0.122   kl: 0.051   classifier: 1.496   accuracy: 0.750   
+[TEST] [Epoch:  52   Iter:  160]   recon_A: 0.122   kl: 0.060   classifier: 1.476   accuracy: 0.756   
+[TEST] [Epoch:  52   Iter:  192]   recon_A: 0.124   kl: 0.070   classifier: 1.439   accuracy: 0.734   
+[TEST] [Epoch:  52   Iter:  200]   recon_A: 0.136   kl: 0.079   classifier: 1.392   accuracy: 0.735   
+Testing time used: 0.026s
+[TEST] [Epoch:  53   Iter:   32]   recon_A: 0.123   kl: 0.053   classifier: 1.368   accuracy: 0.875   
+[TEST] [Epoch:  53   Iter:   64]   recon_A: 0.123   kl: 0.052   classifier: 1.406   accuracy: 0.891   
+[TEST] [Epoch:  53   Iter:   96]   recon_A: 0.126   kl: 0.060   classifier: 1.405   accuracy: 0.844   
+[TEST] [Epoch:  53   Iter:  128]   recon_A: 0.122   kl: 0.052   classifier: 1.448   accuracy: 0.836   
+[TEST] [Epoch:  53   Iter:  160]   recon_A: 0.122   kl: 0.060   classifier: 1.420   accuracy: 0.831   
+[TEST] [Epoch:  53   Iter:  192]   recon_A: 0.124   kl: 0.072   classifier: 1.373   accuracy: 0.807   
+[TEST] [Epoch:  53   Iter:  200]   recon_A: 0.136   kl: 0.082   classifier: 1.323   accuracy: 0.810   
+Testing time used: 0.046s
+[TEST] [Epoch:  54   Iter:   32]   recon_A: 0.122   kl: 0.052   classifier: 1.293   accuracy: 0.906   
+[TEST] [Epoch:  54   Iter:   64]   recon_A: 0.123   kl: 0.052   classifier: 1.331   accuracy: 0.922   
+[TEST] [Epoch:  54   Iter:   96]   recon_A: 0.126   kl: 0.059   classifier: 1.343   accuracy: 0.875   
+[TEST] [Epoch:  54   Iter:  128]   recon_A: 0.122   kl: 0.052   classifier: 1.388   accuracy: 0.859   
+[TEST] [Epoch:  54   Iter:  160]   recon_A: 0.121   kl: 0.060   classifier: 1.353   accuracy: 0.856   
+[TEST] [Epoch:  54   Iter:  192]   recon_A: 0.124   kl: 0.069   classifier: 1.299   accuracy: 0.854   
+[TEST] [Epoch:  54   Iter:  200]   recon_A: 0.134   kl: 0.077   classifier: 1.261   accuracy: 0.855   
+Testing time used: 0.057s
+[TEST] [Epoch:  55   Iter:   32]   recon_A: 0.123   kl: 0.055   classifier: 1.222   accuracy: 0.906   
+[TEST] [Epoch:  55   Iter:   64]   recon_A: 0.123   kl: 0.056   classifier: 1.270   accuracy: 0.922   
+[TEST] [Epoch:  55   Iter:   96]   recon_A: 0.126   kl: 0.064   classifier: 1.286   accuracy: 0.885   
+[TEST] [Epoch:  55   Iter:  128]   recon_A: 0.122   kl: 0.055   classifier: 1.329   accuracy: 0.875   
+[TEST] [Epoch:  55   Iter:  160]   recon_A: 0.122   kl: 0.065   classifier: 1.294   accuracy: 0.875   
+[TEST] [Epoch:  55   Iter:  192]   recon_A: 0.124   kl: 0.076   classifier: 1.234   accuracy: 0.865   
+[TEST] [Epoch:  55   Iter:  200]   recon_A: 0.135   kl: 0.088   classifier: 1.207   accuracy: 0.865   
+Testing time used: 0.040s
+[TEST] [Epoch:  56   Iter:   32]   recon_A: 0.122   kl: 0.054   classifier: 1.150   accuracy: 0.906   
+[TEST] [Epoch:  56   Iter:   64]   recon_A: 0.123   kl: 0.055   classifier: 1.204   accuracy: 0.922   
+[TEST] [Epoch:  56   Iter:   96]   recon_A: 0.126   kl: 0.062   classifier: 1.228   accuracy: 0.896   
+[TEST] [Epoch:  56   Iter:  128]   recon_A: 0.122   kl: 0.053   classifier: 1.256   accuracy: 0.883   
+[TEST] [Epoch:  56   Iter:  160]   recon_A: 0.121   kl: 0.063   classifier: 1.232   accuracy: 0.875   
+[TEST] [Epoch:  56   Iter:  192]   recon_A: 0.124   kl: 0.073   classifier: 1.158   accuracy: 0.870   
+[TEST] [Epoch:  56   Iter:  200]   recon_A: 0.135   kl: 0.082   classifier: 1.173   accuracy: 0.870   
+Testing time used: 0.019s
+[TEST] [Epoch:  57   Iter:   32]   recon_A: 0.122   kl: 0.052   classifier: 1.091   accuracy: 0.906   
+[TEST] [Epoch:  57   Iter:   64]   recon_A: 0.123   kl: 0.052   classifier: 1.138   accuracy: 0.922   
+[TEST] [Epoch:  57   Iter:   96]   recon_A: 0.126   kl: 0.060   classifier: 1.179   accuracy: 0.896   
+[TEST] [Epoch:  57   Iter:  128]   recon_A: 0.121   kl: 0.052   classifier: 1.193   accuracy: 0.883   
+[TEST] [Epoch:  57   Iter:  160]   recon_A: 0.121   kl: 0.060   classifier: 1.179   accuracy: 0.875   
+[TEST] [Epoch:  57   Iter:  192]   recon_A: 0.124   kl: 0.070   classifier: 1.102   accuracy: 0.875   
+[TEST] [Epoch:  57   Iter:  200]   recon_A: 0.135   kl: 0.079   classifier: 1.125   accuracy: 0.875   
+Testing time used: 0.019s
+[TEST] [Epoch:  58   Iter:   32]   recon_A: 0.123   kl: 0.052   classifier: 1.032   accuracy: 0.906   
+[TEST] [Epoch:  58   Iter:   64]   recon_A: 0.124   kl: 0.053   classifier: 1.079   accuracy: 0.922   
+[TEST] [Epoch:  58   Iter:   96]   recon_A: 0.126   kl: 0.060   classifier: 1.131   accuracy: 0.896   
+[TEST] [Epoch:  58   Iter:  128]   recon_A: 0.122   kl: 0.052   classifier: 1.136   accuracy: 0.883   
+[TEST] [Epoch:  58   Iter:  160]   recon_A: 0.122   kl: 0.061   classifier: 1.126   accuracy: 0.881   
+[TEST] [Epoch:  58   Iter:  192]   recon_A: 0.124   kl: 0.071   classifier: 1.045   accuracy: 0.880   
+[TEST] [Epoch:  58   Iter:  200]   recon_A: 0.137   kl: 0.080   classifier: 1.088   accuracy: 0.885   
+Testing time used: 0.022s
+[TEST] [Epoch:  59   Iter:   32]   recon_A: 0.123   kl: 0.052   classifier: 0.959   accuracy: 0.906   
+[TEST] [Epoch:  59   Iter:   64]   recon_A: 0.123   kl: 0.052   classifier: 1.003   accuracy: 0.922   
+[TEST] [Epoch:  59   Iter:   96]   recon_A: 0.126   kl: 0.060   classifier: 1.083   accuracy: 0.896   
+[TEST] [Epoch:  59   Iter:  128]   recon_A: 0.122   kl: 0.052   classifier: 1.076   accuracy: 0.883   
+[TEST] [Epoch:  59   Iter:  160]   recon_A: 0.122   kl: 0.060   classifier: 1.067   accuracy: 0.881   
+[TEST] [Epoch:  59   Iter:  192]   recon_A: 0.124   kl: 0.071   classifier: 0.988   accuracy: 0.885   
+[TEST] [Epoch:  59   Iter:  200]   recon_A: 0.135   kl: 0.081   classifier: 1.045   accuracy: 0.890   
+Testing time used: 0.020s
+[TEST] [Epoch:  60   Iter:   32]   recon_A: 0.123   kl: 0.052   classifier: 0.913   accuracy: 0.906   
+[TEST] [Epoch:  60   Iter:   64]   recon_A: 0.123   kl: 0.052   classifier: 0.948   accuracy: 0.922   
+[TEST] [Epoch:  60   Iter:   96]   recon_A: 0.126   kl: 0.060   classifier: 1.034   accuracy: 0.896   
+[TEST] [Epoch:  60   Iter:  128]   recon_A: 0.122   kl: 0.052   classifier: 1.021   accuracy: 0.883   
+[TEST] [Epoch:  60   Iter:  160]   recon_A: 0.121   kl: 0.060   classifier: 1.019   accuracy: 0.875   
+[TEST] [Epoch:  60   Iter:  192]   recon_A: 0.125   kl: 0.071   classifier: 0.934   accuracy: 0.880   
+[TEST] [Epoch:  60   Iter:  200]   recon_A: 0.137   kl: 0.081   classifier: 1.006   accuracy: 0.885   
+Testing time used: 0.023s
+[TEST] [Epoch:  61   Iter:   32]   recon_A: 0.123   kl: 0.054   classifier: 0.862   accuracy: 0.906   
+[TEST] [Epoch:  61   Iter:   64]   recon_A: 0.124   kl: 0.055   classifier: 0.893   accuracy: 0.938   
+[TEST] [Epoch:  61   Iter:   96]   recon_A: 0.125   kl: 0.062   classifier: 0.982   accuracy: 0.906   
+[TEST] [Epoch:  61   Iter:  128]   recon_A: 0.122   kl: 0.054   classifier: 0.974   accuracy: 0.898   
+[TEST] [Epoch:  61   Iter:  160]   recon_A: 0.122   kl: 0.063   classifier: 0.961   accuracy: 0.887   
+[TEST] [Epoch:  61   Iter:  192]   recon_A: 0.124   kl: 0.074   classifier: 0.875   accuracy: 0.891   
+[TEST] [Epoch:  61   Iter:  200]   recon_A: 0.135   kl: 0.085   classifier: 0.967   accuracy: 0.895   
+Testing time used: 0.022s
+[TEST] [Epoch:  62   Iter:   32]   recon_A: 0.123   kl: 0.054   classifier: 0.824   accuracy: 0.906   
+[TEST] [Epoch:  62   Iter:   64]   recon_A: 0.124   kl: 0.054   classifier: 0.854   accuracy: 0.938   
+[TEST] [Epoch:  62   Iter:   96]   recon_A: 0.126   kl: 0.062   classifier: 0.945   accuracy: 0.906   
+[TEST] [Epoch:  62   Iter:  128]   recon_A: 0.122   kl: 0.054   classifier: 0.919   accuracy: 0.898   
+[TEST] [Epoch:  62   Iter:  160]   recon_A: 0.122   kl: 0.063   classifier: 0.932   accuracy: 0.887   
+[TEST] [Epoch:  62   Iter:  192]   recon_A: 0.124   kl: 0.074   classifier: 0.829   accuracy: 0.896   
+[TEST] [Epoch:  62   Iter:  200]   recon_A: 0.135   kl: 0.084   classifier: 0.939   accuracy: 0.900   
+Testing time used: 0.020s
+[TEST] [Epoch:  63   Iter:   32]   recon_A: 0.123   kl: 0.053   classifier: 0.772   accuracy: 0.906   
+[TEST] [Epoch:  63   Iter:   64]   recon_A: 0.124   kl: 0.053   classifier: 0.786   accuracy: 0.938   
+[TEST] [Epoch:  63   Iter:   96]   recon_A: 0.125   kl: 0.061   classifier: 0.898   accuracy: 0.906   
+[TEST] [Epoch:  63   Iter:  128]   recon_A: 0.122   kl: 0.053   classifier: 0.865   accuracy: 0.898   
+[TEST] [Epoch:  63   Iter:  160]   recon_A: 0.121   kl: 0.061   classifier: 0.879   accuracy: 0.887   
+[TEST] [Epoch:  63   Iter:  192]   recon_A: 0.124   kl: 0.072   classifier: 0.785   accuracy: 0.891   
+[TEST] [Epoch:  63   Iter:  200]   recon_A: 0.134   kl: 0.083   classifier: 0.891   accuracy: 0.895   
+Testing time used: 0.025s
+[TEST] [Epoch:  64   Iter:   32]   recon_A: 0.123   kl: 0.052   classifier: 0.714   accuracy: 0.938   
+[TEST] [Epoch:  64   Iter:   64]   recon_A: 0.123   kl: 0.053   classifier: 0.723   accuracy: 0.953   
+[TEST] [Epoch:  64   Iter:   96]   recon_A: 0.126   kl: 0.060   classifier: 0.858   accuracy: 0.927   
+[TEST] [Epoch:  64   Iter:  128]   recon_A: 0.122   kl: 0.052   classifier: 0.818   accuracy: 0.914   
+[TEST] [Epoch:  64   Iter:  160]   recon_A: 0.121   kl: 0.060   classifier: 0.828   accuracy: 0.900   
+[TEST] [Epoch:  64   Iter:  192]   recon_A: 0.124   kl: 0.071   classifier: 0.736   accuracy: 0.906   
+[TEST] [Epoch:  64   Iter:  200]   recon_A: 0.134   kl: 0.080   classifier: 0.839   accuracy: 0.910   
+Testing time used: 0.019s
+[TEST] [Epoch:  65   Iter:   32]   recon_A: 0.123   kl: 0.053   classifier: 0.690   accuracy: 0.969   
+[TEST] [Epoch:  65   Iter:   64]   recon_A: 0.124   kl: 0.054   classifier: 0.689   accuracy: 0.969   
+[TEST] [Epoch:  65   Iter:   96]   recon_A: 0.126   kl: 0.061   classifier: 0.826   accuracy: 0.938   
+[TEST] [Epoch:  65   Iter:  128]   recon_A: 0.122   kl: 0.053   classifier: 0.782   accuracy: 0.930   
+[TEST] [Epoch:  65   Iter:  160]   recon_A: 0.122   kl: 0.062   classifier: 0.791   accuracy: 0.919   
+[TEST] [Epoch:  65   Iter:  192]   recon_A: 0.124   kl: 0.073   classifier: 0.700   accuracy: 0.922   
+[TEST] [Epoch:  65   Iter:  200]   recon_A: 0.135   kl: 0.085   classifier: 0.816   accuracy: 0.925   
+Testing time used: 0.019s
+[TEST] [Epoch:  66   Iter:   32]   recon_A: 0.123   kl: 0.054   classifier: 0.649   accuracy: 0.969   
+[TEST] [Epoch:  66   Iter:   64]   recon_A: 0.123   kl: 0.053   classifier: 0.651   accuracy: 0.969   
+[TEST] [Epoch:  66   Iter:   96]   recon_A: 0.126   kl: 0.062   classifier: 0.786   accuracy: 0.938   
+[TEST] [Epoch:  66   Iter:  128]   recon_A: 0.122   kl: 0.053   classifier: 0.728   accuracy: 0.930   
+[TEST] [Epoch:  66   Iter:  160]   recon_A: 0.121   kl: 0.062   classifier: 0.758   accuracy: 0.919   
+[TEST] [Epoch:  66   Iter:  192]   recon_A: 0.124   kl: 0.074   classifier: 0.666   accuracy: 0.922   
+[TEST] [Epoch:  66   Iter:  200]   recon_A: 0.135   kl: 0.084   classifier: 0.768   accuracy: 0.925   
+Testing time used: 0.020s
+[TEST] [Epoch:  67   Iter:   32]   recon_A: 0.123   kl: 0.051   classifier: 0.587   accuracy: 0.969   
+[TEST] [Epoch:  67   Iter:   64]   recon_A: 0.124   kl: 0.052   classifier: 0.576   accuracy: 0.969   
+[TEST] [Epoch:  67   Iter:   96]   recon_A: 0.126   kl: 0.060   classifier: 0.743   accuracy: 0.938   
+[TEST] [Epoch:  67   Iter:  128]   recon_A: 0.122   kl: 0.052   classifier: 0.675   accuracy: 0.930   
+[TEST] [Epoch:  67   Iter:  160]   recon_A: 0.122   kl: 0.059   classifier: 0.701   accuracy: 0.919   
+[TEST] [Epoch:  67   Iter:  192]   recon_A: 0.125   kl: 0.070   classifier: 0.616   accuracy: 0.922   
+[TEST] [Epoch:  67   Iter:  200]   recon_A: 0.136   kl: 0.079   classifier: 0.738   accuracy: 0.925   
+Testing time used: 0.020s
+[TEST] [Epoch:  68   Iter:   32]   recon_A: 0.122   kl: 0.052   classifier: 0.561   accuracy: 0.969   
+[TEST] [Epoch:  68   Iter:   64]   recon_A: 0.123   kl: 0.052   classifier: 0.550   accuracy: 0.969   
+[TEST] [Epoch:  68   Iter:   96]   recon_A: 0.125   kl: 0.060   classifier: 0.715   accuracy: 0.938   
+[TEST] [Epoch:  68   Iter:  128]   recon_A: 0.122   kl: 0.052   classifier: 0.651   accuracy: 0.930   
+[TEST] [Epoch:  68   Iter:  160]   recon_A: 0.121   kl: 0.060   classifier: 0.668   accuracy: 0.919   
+[TEST] [Epoch:  68   Iter:  192]   recon_A: 0.124   kl: 0.071   classifier: 0.580   accuracy: 0.922   
+[TEST] [Epoch:  68   Iter:  200]   recon_A: 0.135   kl: 0.080   classifier: 0.706   accuracy: 0.925   
+Testing time used: 0.018s
+[TEST] [Epoch:  69   Iter:   32]   recon_A: 0.123   kl: 0.053   classifier: 0.547   accuracy: 0.969   
+[TEST] [Epoch:  69   Iter:   64]   recon_A: 0.123   kl: 0.054   classifier: 0.525   accuracy: 0.969   
+[TEST] [Epoch:  69   Iter:   96]   recon_A: 0.126   kl: 0.061   classifier: 0.696   accuracy: 0.938   
+[TEST] [Epoch:  69   Iter:  128]   recon_A: 0.122   kl: 0.053   classifier: 0.628   accuracy: 0.930   
+[TEST] [Epoch:  69   Iter:  160]   recon_A: 0.121   kl: 0.062   classifier: 0.653   accuracy: 0.919   
+[TEST] [Epoch:  69   Iter:  192]   recon_A: 0.124   kl: 0.072   classifier: 0.555   accuracy: 0.922   
+[TEST] [Epoch:  69   Iter:  200]   recon_A: 0.135   kl: 0.082   classifier: 0.680   accuracy: 0.925   
+Testing time used: 0.021s
+[TEST] [Epoch:  70   Iter:   32]   recon_A: 0.123   kl: 0.052   classifier: 0.496   accuracy: 0.969   
+[TEST] [Epoch:  70   Iter:   64]   recon_A: 0.123   kl: 0.053   classifier: 0.480   accuracy: 0.969   
+[TEST] [Epoch:  70   Iter:   96]   recon_A: 0.126   kl: 0.060   classifier: 0.649   accuracy: 0.938   
+[TEST] [Epoch:  70   Iter:  128]   recon_A: 0.122   kl: 0.052   classifier: 0.574   accuracy: 0.930   
+[TEST] [Epoch:  70   Iter:  160]   recon_A: 0.122   kl: 0.061   classifier: 0.618   accuracy: 0.919   
+[TEST] [Epoch:  70   Iter:  192]   recon_A: 0.124   kl: 0.072   classifier: 0.510   accuracy: 0.922   
+[TEST] [Epoch:  70   Iter:  200]   recon_A: 0.137   kl: 0.082   classifier: 0.647   accuracy: 0.925   
+Testing time used: 0.021s
+[TEST] [Epoch:  71   Iter:   32]   recon_A: 0.123   kl: 0.052   classifier: 0.477   accuracy: 0.969   
+[TEST] [Epoch:  71   Iter:   64]   recon_A: 0.123   kl: 0.052   classifier: 0.464   accuracy: 0.969   
+[TEST] [Epoch:  71   Iter:   96]   recon_A: 0.126   kl: 0.059   classifier: 0.632   accuracy: 0.938   
+[TEST] [Epoch:  71   Iter:  128]   recon_A: 0.121   kl: 0.052   classifier: 0.565   accuracy: 0.930   
+[TEST] [Epoch:  71   Iter:  160]   recon_A: 0.121   kl: 0.060   classifier: 0.596   accuracy: 0.919   
+[TEST] [Epoch:  71   Iter:  192]   recon_A: 0.124   kl: 0.070   classifier: 0.486   accuracy: 0.922   
+[TEST] [Epoch:  71   Iter:  200]   recon_A: 0.136   kl: 0.080   classifier: 0.616   accuracy: 0.925   
+Testing time used: 0.023s
+[TEST] [Epoch:  72   Iter:   32]   recon_A: 0.123   kl: 0.053   classifier: 0.451   accuracy: 0.969   
+[TEST] [Epoch:  72   Iter:   64]   recon_A: 0.123   kl: 0.053   classifier: 0.440   accuracy: 0.969   
+[TEST] [Epoch:  72   Iter:   96]   recon_A: 0.125   kl: 0.060   classifier: 0.612   accuracy: 0.938   
+[TEST] [Epoch:  72   Iter:  128]   recon_A: 0.122   kl: 0.052   classifier: 0.535   accuracy: 0.930   
+[TEST] [Epoch:  72   Iter:  160]   recon_A: 0.121   kl: 0.061   classifier: 0.569   accuracy: 0.919   
+[TEST] [Epoch:  72   Iter:  192]   recon_A: 0.124   kl: 0.072   classifier: 0.457   accuracy: 0.922   
+[TEST] [Epoch:  72   Iter:  200]   recon_A: 0.135   kl: 0.082   classifier: 0.594   accuracy: 0.925   
+Testing time used: 0.019s
+[TEST] [Epoch:  73   Iter:   32]   recon_A: 0.123   kl: 0.053   classifier: 0.421   accuracy: 0.969   
+[TEST] [Epoch:  73   Iter:   64]   recon_A: 0.124   kl: 0.053   classifier: 0.413   accuracy: 0.969   
+[TEST] [Epoch:  73   Iter:   96]   recon_A: 0.126   kl: 0.061   classifier: 0.585   accuracy: 0.938   
+[TEST] [Epoch:  73   Iter:  128]   recon_A: 0.122   kl: 0.053   classifier: 0.503   accuracy: 0.930   
+[TEST] [Epoch:  73   Iter:  160]   recon_A: 0.121   kl: 0.061   classifier: 0.549   accuracy: 0.919   
+[TEST] [Epoch:  73   Iter:  192]   recon_A: 0.124   kl: 0.072   classifier: 0.427   accuracy: 0.922   
+[TEST] [Epoch:  73   Iter:  200]   recon_A: 0.136   kl: 0.082   classifier: 0.558   accuracy: 0.925   
+Testing time used: 0.022s
+[TEST] [Epoch:  74   Iter:   32]   recon_A: 0.123   kl: 0.053   classifier: 0.399   accuracy: 0.969   
+[TEST] [Epoch:  74   Iter:   64]   recon_A: 0.123   kl: 0.053   classifier: 0.378   accuracy: 0.969   
+[TEST] [Epoch:  74   Iter:   96]   recon_A: 0.126   kl: 0.061   classifier: 0.564   accuracy: 0.938   
+[TEST] [Epoch:  74   Iter:  128]   recon_A: 0.121   kl: 0.053   classifier: 0.485   accuracy: 0.930   
+[TEST] [Epoch:  74   Iter:  160]   recon_A: 0.122   kl: 0.061   classifier: 0.529   accuracy: 0.919   
+[TEST] [Epoch:  74   Iter:  192]   recon_A: 0.125   kl: 0.072   classifier: 0.426   accuracy: 0.922   
+[TEST] [Epoch:  74   Iter:  200]   recon_A: 0.135   kl: 0.082   classifier: 0.548   accuracy: 0.925   
+Testing time used: 0.026s
+[TEST] [Epoch:  75   Iter:   32]   recon_A: 0.123   kl: 0.052   classifier: 0.368   accuracy: 0.969   
+[TEST] [Epoch:  75   Iter:   64]   recon_A: 0.123   kl: 0.052   classifier: 0.356   accuracy: 0.969   
+[TEST] [Epoch:  75   Iter:   96]   recon_A: 0.125   kl: 0.060   classifier: 0.535   accuracy: 0.938   
+[TEST] [Epoch:  75   Iter:  128]   recon_A: 0.122   kl: 0.052   classifier: 0.458   accuracy: 0.930   
+[TEST] [Epoch:  75   Iter:  160]   recon_A: 0.121   kl: 0.060   classifier: 0.501   accuracy: 0.919   
+[TEST] [Epoch:  75   Iter:  192]   recon_A: 0.124   kl: 0.070   classifier: 0.389   accuracy: 0.922   
+[TEST] [Epoch:  75   Iter:  200]   recon_A: 0.135   kl: 0.079   classifier: 0.515   accuracy: 0.925   
+Testing time used: 0.024s
+[TEST] [Epoch:  76   Iter:   32]   recon_A: 0.123   kl: 0.052   classifier: 0.355   accuracy: 0.969   
+[TEST] [Epoch:  76   Iter:   64]   recon_A: 0.123   kl: 0.053   classifier: 0.335   accuracy: 0.969   
+[TEST] [Epoch:  76   Iter:   96]   recon_A: 0.126   kl: 0.060   classifier: 0.530   accuracy: 0.938   
+[TEST] [Epoch:  76   Iter:  128]   recon_A: 0.122   kl: 0.052   classifier: 0.440   accuracy: 0.930   
+[TEST] [Epoch:  76   Iter:  160]   recon_A: 0.121   kl: 0.061   classifier: 0.491   accuracy: 0.919   
+[TEST] [Epoch:  76   Iter:  192]   recon_A: 0.124   kl: 0.071   classifier: 0.375   accuracy: 0.922   
+[TEST] [Epoch:  76   Iter:  200]   recon_A: 0.135   kl: 0.079   classifier: 0.505   accuracy: 0.925   
+Testing time used: 0.023s
+[TEST] [Epoch:  77   Iter:   32]   recon_A: 0.123   kl: 0.053   classifier: 0.338   accuracy: 0.969   
+[TEST] [Epoch:  77   Iter:   64]   recon_A: 0.123   kl: 0.052   classifier: 0.325   accuracy: 0.969   
+[TEST] [Epoch:  77   Iter:   96]   recon_A: 0.126   kl: 0.061   classifier: 0.518   accuracy: 0.938   
+[TEST] [Epoch:  77   Iter:  128]   recon_A: 0.122   kl: 0.052   classifier: 0.431   accuracy: 0.930   
+[TEST] [Epoch:  77   Iter:  160]   recon_A: 0.122   kl: 0.060   classifier: 0.474   accuracy: 0.919   
+[TEST] [Epoch:  77   Iter:  192]   recon_A: 0.125   kl: 0.071   classifier: 0.366   accuracy: 0.922   
+[TEST] [Epoch:  77   Iter:  200]   recon_A: 0.135   kl: 0.082   classifier: 0.492   accuracy: 0.925   
+Testing time used: 0.031s
+[TEST] [Epoch:  78   Iter:   32]   recon_A: 0.123   kl: 0.053   classifier: 0.324   accuracy: 0.969   
+[TEST] [Epoch:  78   Iter:   64]   recon_A: 0.123   kl: 0.054   classifier: 0.319   accuracy: 0.969   
+[TEST] [Epoch:  78   Iter:   96]   recon_A: 0.125   kl: 0.062   classifier: 0.487   accuracy: 0.938   
+[TEST] [Epoch:  78   Iter:  128]   recon_A: 0.122   kl: 0.053   classifier: 0.404   accuracy: 0.930   
+[TEST] [Epoch:  78   Iter:  160]   recon_A: 0.122   kl: 0.062   classifier: 0.462   accuracy: 0.919   
+[TEST] [Epoch:  78   Iter:  192]   recon_A: 0.125   kl: 0.073   classifier: 0.340   accuracy: 0.922   
+[TEST] [Epoch:  78   Iter:  200]   recon_A: 0.135   kl: 0.083   classifier: 0.481   accuracy: 0.925   
+Testing time used: 0.028s
+[TEST] [Epoch:  79   Iter:   32]   recon_A: 0.123   kl: 0.052   classifier: 0.304   accuracy: 0.969   
+[TEST] [Epoch:  79   Iter:   64]   recon_A: 0.124   kl: 0.052   classifier: 0.303   accuracy: 0.969   
+[TEST] [Epoch:  79   Iter:   96]   recon_A: 0.126   kl: 0.060   classifier: 0.478   accuracy: 0.938   
+[TEST] [Epoch:  79   Iter:  128]   recon_A: 0.122   kl: 0.051   classifier: 0.393   accuracy: 0.930   
+[TEST] [Epoch:  79   Iter:  160]   recon_A: 0.122   kl: 0.059   classifier: 0.445   accuracy: 0.919   
+[TEST] [Epoch:  79   Iter:  192]   recon_A: 0.124   kl: 0.071   classifier: 0.329   accuracy: 0.922   
+[TEST] [Epoch:  79   Iter:  200]   recon_A: 0.135   kl: 0.081   classifier: 0.473   accuracy: 0.925   
+Testing time used: 0.024s
+[TEST] [Epoch:  80   Iter:   32]   recon_A: 0.123   kl: 0.053   classifier: 0.290   accuracy: 0.969   
+[TEST] [Epoch:  80   Iter:   64]   recon_A: 0.124   kl: 0.054   classifier: 0.289   accuracy: 0.969   
+[TEST] [Epoch:  80   Iter:   96]   recon_A: 0.126   kl: 0.060   classifier: 0.467   accuracy: 0.938   
+[TEST] [Epoch:  80   Iter:  128]   recon_A: 0.122   kl: 0.053   classifier: 0.375   accuracy: 0.930   
+[TEST] [Epoch:  80   Iter:  160]   recon_A: 0.121   kl: 0.062   classifier: 0.443   accuracy: 0.919   
+[TEST] [Epoch:  80   Iter:  192]   recon_A: 0.124   kl: 0.072   classifier: 0.315   accuracy: 0.922   
+[TEST] [Epoch:  80   Iter:  200]   recon_A: 0.134   kl: 0.080   classifier: 0.448   accuracy: 0.925   
+Testing time used: 0.021s
+[TEST] [Epoch:  81   Iter:   32]   recon_A: 0.122   kl: 0.053   classifier: 0.286   accuracy: 0.969   
+[TEST] [Epoch:  81   Iter:   64]   recon_A: 0.123   kl: 0.054   classifier: 0.284   accuracy: 0.969   
+[TEST] [Epoch:  81   Iter:   96]   recon_A: 0.126   kl: 0.061   classifier: 0.463   accuracy: 0.938   
+[TEST] [Epoch:  81   Iter:  128]   recon_A: 0.122   kl: 0.053   classifier: 0.378   accuracy: 0.930   
+[TEST] [Epoch:  81   Iter:  160]   recon_A: 0.121   kl: 0.061   classifier: 0.436   accuracy: 0.919   
+[TEST] [Epoch:  81   Iter:  192]   recon_A: 0.124   kl: 0.072   classifier: 0.304   accuracy: 0.922   
+[TEST] [Epoch:  81   Iter:  200]   recon_A: 0.135   kl: 0.082   classifier: 0.441   accuracy: 0.925   
+Testing time used: 0.019s
+[TEST] [Epoch:  82   Iter:   32]   recon_A: 0.123   kl: 0.053   classifier: 0.273   accuracy: 0.969   
+[TEST] [Epoch:  82   Iter:   64]   recon_A: 0.123   kl: 0.054   classifier: 0.271   accuracy: 0.969   
+[TEST] [Epoch:  82   Iter:   96]   recon_A: 0.126   kl: 0.062   classifier: 0.444   accuracy: 0.938   
+[TEST] [Epoch:  82   Iter:  128]   recon_A: 0.122   kl: 0.053   classifier: 0.362   accuracy: 0.930   
+[TEST] [Epoch:  82   Iter:  160]   recon_A: 0.122   kl: 0.063   classifier: 0.424   accuracy: 0.919   
+[TEST] [Epoch:  82   Iter:  192]   recon_A: 0.124   kl: 0.073   classifier: 0.297   accuracy: 0.922   
+[TEST] [Epoch:  82   Iter:  200]   recon_A: 0.136   kl: 0.084   classifier: 0.422   accuracy: 0.925   
+Testing time used: 0.019s
+[TEST] [Epoch:  83   Iter:   32]   recon_A: 0.123   kl: 0.054   classifier: 0.258   accuracy: 0.969   
+[TEST] [Epoch:  83   Iter:   64]   recon_A: 0.124   kl: 0.054   classifier: 0.255   accuracy: 0.969   
+[TEST] [Epoch:  83   Iter:   96]   recon_A: 0.125   kl: 0.063   classifier: 0.435   accuracy: 0.938   
+[TEST] [Epoch:  83   Iter:  128]   recon_A: 0.122   kl: 0.053   classifier: 0.353   accuracy: 0.930   
+[TEST] [Epoch:  83   Iter:  160]   recon_A: 0.121   kl: 0.062   classifier: 0.414   accuracy: 0.919   
+[TEST] [Epoch:  83   Iter:  192]   recon_A: 0.124   kl: 0.074   classifier: 0.281   accuracy: 0.922   
+[TEST] [Epoch:  83   Iter:  200]   recon_A: 0.136   kl: 0.086   classifier: 0.413   accuracy: 0.920   
+Testing time used: 0.019s
+[TEST] [Epoch:  84   Iter:   32]   recon_A: 0.123   kl: 0.053   classifier: 0.248   accuracy: 0.969   
+[TEST] [Epoch:  84   Iter:   64]   recon_A: 0.124   kl: 0.053   classifier: 0.245   accuracy: 0.969   
+[TEST] [Epoch:  84   Iter:   96]   recon_A: 0.126   kl: 0.060   classifier: 0.421   accuracy: 0.938   
+[TEST] [Epoch:  84   Iter:  128]   recon_A: 0.122   kl: 0.052   classifier: 0.350   accuracy: 0.930   
+[TEST] [Epoch:  84   Iter:  160]   recon_A: 0.122   kl: 0.061   classifier: 0.405   accuracy: 0.919   
+[TEST] [Epoch:  84   Iter:  192]   recon_A: 0.124   kl: 0.071   classifier: 0.274   accuracy: 0.922   
+[TEST] [Epoch:  84   Iter:  200]   recon_A: 0.135   kl: 0.079   classifier: 0.407   accuracy: 0.920   
+Testing time used: 0.018s
+[TEST] [Epoch:  85   Iter:   32]   recon_A: 0.123   kl: 0.053   classifier: 0.235   accuracy: 0.969   
+[TEST] [Epoch:  85   Iter:   64]   recon_A: 0.123   kl: 0.054   classifier: 0.228   accuracy: 0.969   
+[TEST] [Epoch:  85   Iter:   96]   recon_A: 0.126   kl: 0.060   classifier: 0.412   accuracy: 0.938   
+[TEST] [Epoch:  85   Iter:  128]   recon_A: 0.122   kl: 0.052   classifier: 0.329   accuracy: 0.930   
+[TEST] [Epoch:  85   Iter:  160]   recon_A: 0.121   kl: 0.061   classifier: 0.395   accuracy: 0.919   
+[TEST] [Epoch:  85   Iter:  192]   recon_A: 0.125   kl: 0.071   classifier: 0.266   accuracy: 0.922   
+[TEST] [Epoch:  85   Iter:  200]   recon_A: 0.135   kl: 0.082   classifier: 0.393   accuracy: 0.920   
+Testing time used: 0.019s
+[TEST] [Epoch:  86   Iter:   32]   recon_A: 0.123   kl: 0.052   classifier: 0.228   accuracy: 0.969   
+[TEST] [Epoch:  86   Iter:   64]   recon_A: 0.124   kl: 0.053   classifier: 0.222   accuracy: 0.969   
+[TEST] [Epoch:  86   Iter:   96]   recon_A: 0.126   kl: 0.059   classifier: 0.407   accuracy: 0.938   
+[TEST] [Epoch:  86   Iter:  128]   recon_A: 0.122   kl: 0.052   classifier: 0.328   accuracy: 0.930   
+[TEST] [Epoch:  86   Iter:  160]   recon_A: 0.122   kl: 0.061   classifier: 0.400   accuracy: 0.919   
+[TEST] [Epoch:  86   Iter:  192]   recon_A: 0.125   kl: 0.070   classifier: 0.257   accuracy: 0.922   
+[TEST] [Epoch:  86   Iter:  200]   recon_A: 0.136   kl: 0.080   classifier: 0.375   accuracy: 0.925   
+Testing time used: 0.021s
+[TEST] [Epoch:  87   Iter:   32]   recon_A: 0.122   kl: 0.053   classifier: 0.219   accuracy: 0.969   
+[TEST] [Epoch:  87   Iter:   64]   recon_A: 0.123   kl: 0.053   classifier: 0.211   accuracy: 0.969   
+[TEST] [Epoch:  87   Iter:   96]   recon_A: 0.125   kl: 0.061   classifier: 0.401   accuracy: 0.938   
+[TEST] [Epoch:  87   Iter:  128]   recon_A: 0.122   kl: 0.052   classifier: 0.319   accuracy: 0.930   
+[TEST] [Epoch:  87   Iter:  160]   recon_A: 0.122   kl: 0.061   classifier: 0.392   accuracy: 0.919   
+[TEST] [Epoch:  87   Iter:  192]   recon_A: 0.124   kl: 0.073   classifier: 0.251   accuracy: 0.922   
+[TEST] [Epoch:  87   Iter:  200]   recon_A: 0.135   kl: 0.082   classifier: 0.370   accuracy: 0.925   
+Testing time used: 0.027s
+[TEST] [Epoch:  88   Iter:   32]   recon_A: 0.123   kl: 0.053   classifier: 0.214   accuracy: 0.969   
+[TEST] [Epoch:  88   Iter:   64]   recon_A: 0.123   kl: 0.053   classifier: 0.205   accuracy: 0.969   
+[TEST] [Epoch:  88   Iter:   96]   recon_A: 0.126   kl: 0.061   classifier: 0.392   accuracy: 0.938   
+[TEST] [Epoch:  88   Iter:  128]   recon_A: 0.122   kl: 0.053   classifier: 0.294   accuracy: 0.930   
+[TEST] [Epoch:  88   Iter:  160]   recon_A: 0.121   kl: 0.062   classifier: 0.380   accuracy: 0.919   
+[TEST] [Epoch:  88   Iter:  192]   recon_A: 0.124   kl: 0.072   classifier: 0.242   accuracy: 0.922   
+[TEST] [Epoch:  88   Iter:  200]   recon_A: 0.134   kl: 0.082   classifier: 0.351   accuracy: 0.925   
+Testing time used: 0.031s
+[TEST] [Epoch:  89   Iter:   32]   recon_A: 0.123   kl: 0.053   classifier: 0.206   accuracy: 0.969   
+[TEST] [Epoch:  89   Iter:   64]   recon_A: 0.123   kl: 0.054   classifier: 0.202   accuracy: 0.969   
+[TEST] [Epoch:  89   Iter:   96]   recon_A: 0.126   kl: 0.060   classifier: 0.378   accuracy: 0.938   
+[TEST] [Epoch:  89   Iter:  128]   recon_A: 0.121   kl: 0.052   classifier: 0.297   accuracy: 0.930   
+[TEST] [Epoch:  89   Iter:  160]   recon_A: 0.122   kl: 0.062   classifier: 0.381   accuracy: 0.919   
+[TEST] [Epoch:  89   Iter:  192]   recon_A: 0.124   kl: 0.071   classifier: 0.232   accuracy: 0.922   
+[TEST] [Epoch:  89   Iter:  200]   recon_A: 0.136   kl: 0.080   classifier: 0.348   accuracy: 0.925   
+Testing time used: 0.019s
+[TEST] [Epoch:  90   Iter:   32]   recon_A: 0.123   kl: 0.054   classifier: 0.205   accuracy: 0.969   
+[TEST] [Epoch:  90   Iter:   64]   recon_A: 0.123   kl: 0.055   classifier: 0.198   accuracy: 0.969   
+[TEST] [Epoch:  90   Iter:   96]   recon_A: 0.126   kl: 0.063   classifier: 0.382   accuracy: 0.938   
+[TEST] [Epoch:  90   Iter:  128]   recon_A: 0.122   kl: 0.054   classifier: 0.306   accuracy: 0.930   
+[TEST] [Epoch:  90   Iter:  160]   recon_A: 0.121   kl: 0.064   classifier: 0.382   accuracy: 0.919   
+[TEST] [Epoch:  90   Iter:  192]   recon_A: 0.124   kl: 0.075   classifier: 0.233   accuracy: 0.922   
+[TEST] [Epoch:  90   Iter:  200]   recon_A: 0.135   kl: 0.087   classifier: 0.329   accuracy: 0.925   
+Testing time used: 0.019s
+[TEST] [Epoch:  91   Iter:   32]   recon_A: 0.122   kl: 0.054   classifier: 0.200   accuracy: 0.969   
+[TEST] [Epoch:  91   Iter:   64]   recon_A: 0.123   kl: 0.055   classifier: 0.196   accuracy: 0.969   
+[TEST] [Epoch:  91   Iter:   96]   recon_A: 0.126   kl: 0.062   classifier: 0.369   accuracy: 0.938   
+[TEST] [Epoch:  91   Iter:  128]   recon_A: 0.121   kl: 0.054   classifier: 0.283   accuracy: 0.930   
+[TEST] [Epoch:  91   Iter:  160]   recon_A: 0.121   kl: 0.063   classifier: 0.370   accuracy: 0.919   
+[TEST] [Epoch:  91   Iter:  192]   recon_A: 0.124   kl: 0.074   classifier: 0.216   accuracy: 0.922   
+[TEST] [Epoch:  91   Iter:  200]   recon_A: 0.135   kl: 0.084   classifier: 0.327   accuracy: 0.925   
+Testing time used: 0.019s
+[TEST] [Epoch:  92   Iter:   32]   recon_A: 0.123   kl: 0.052   classifier: 0.189   accuracy: 0.969   
+[TEST] [Epoch:  92   Iter:   64]   recon_A: 0.124   kl: 0.053   classifier: 0.185   accuracy: 0.969   
+[TEST] [Epoch:  92   Iter:   96]   recon_A: 0.126   kl: 0.059   classifier: 0.363   accuracy: 0.938   
+[TEST] [Epoch:  92   Iter:  128]   recon_A: 0.122   kl: 0.052   classifier: 0.272   accuracy: 0.930   
+[TEST] [Epoch:  92   Iter:  160]   recon_A: 0.121   kl: 0.061   classifier: 0.364   accuracy: 0.919   
+[TEST] [Epoch:  92   Iter:  192]   recon_A: 0.124   kl: 0.071   classifier: 0.218   accuracy: 0.922   
+[TEST] [Epoch:  92   Iter:  200]   recon_A: 0.135   kl: 0.080   classifier: 0.332   accuracy: 0.925   
+Testing time used: 0.020s
+[TEST] [Epoch:  93   Iter:   32]   recon_A: 0.123   kl: 0.053   classifier: 0.186   accuracy: 0.969   
+[TEST] [Epoch:  93   Iter:   64]   recon_A: 0.124   kl: 0.053   classifier: 0.179   accuracy: 0.969   
+[TEST] [Epoch:  93   Iter:   96]   recon_A: 0.126   kl: 0.061   classifier: 0.356   accuracy: 0.938   
+[TEST] [Epoch:  93   Iter:  128]   recon_A: 0.122   kl: 0.053   classifier: 0.269   accuracy: 0.930   
+[TEST] [Epoch:  93   Iter:  160]   recon_A: 0.121   kl: 0.062   classifier: 0.362   accuracy: 0.919   
+[TEST] [Epoch:  93   Iter:  192]   recon_A: 0.125   kl: 0.072   classifier: 0.216   accuracy: 0.922   
+[TEST] [Epoch:  93   Iter:  200]   recon_A: 0.136   kl: 0.082   classifier: 0.322   accuracy: 0.925   
+Testing time used: 0.021s
+[TEST] [Epoch:  94   Iter:   32]   recon_A: 0.124   kl: 0.052   classifier: 0.175   accuracy: 0.969   
+[TEST] [Epoch:  94   Iter:   64]   recon_A: 0.124   kl: 0.053   classifier: 0.178   accuracy: 0.969   
+[TEST] [Epoch:  94   Iter:   96]   recon_A: 0.125   kl: 0.061   classifier: 0.345   accuracy: 0.938   
+[TEST] [Epoch:  94   Iter:  128]   recon_A: 0.122   kl: 0.053   classifier: 0.264   accuracy: 0.930   
+[TEST] [Epoch:  94   Iter:  160]   recon_A: 0.122   kl: 0.061   classifier: 0.365   accuracy: 0.919   
+[TEST] [Epoch:  94   Iter:  192]   recon_A: 0.125   kl: 0.072   classifier: 0.204   accuracy: 0.922   
+[TEST] [Epoch:  94   Iter:  200]   recon_A: 0.135   kl: 0.083   classifier: 0.306   accuracy: 0.925   
+Testing time used: 0.021s
+[TEST] [Epoch:  95   Iter:   32]   recon_A: 0.123   kl: 0.052   classifier: 0.176   accuracy: 0.969   
+[TEST] [Epoch:  95   Iter:   64]   recon_A: 0.124   kl: 0.054   classifier: 0.178   accuracy: 0.969   
+[TEST] [Epoch:  95   Iter:   96]   recon_A: 0.126   kl: 0.059   classifier: 0.350   accuracy: 0.938   
+[TEST] [Epoch:  95   Iter:  128]   recon_A: 0.122   kl: 0.052   classifier: 0.264   accuracy: 0.930   
+[TEST] [Epoch:  95   Iter:  160]   recon_A: 0.121   kl: 0.061   classifier: 0.357   accuracy: 0.919   
+[TEST] [Epoch:  95   Iter:  192]   recon_A: 0.124   kl: 0.070   classifier: 0.202   accuracy: 0.922   
+[TEST] [Epoch:  95   Iter:  200]   recon_A: 0.135   kl: 0.079   classifier: 0.313   accuracy: 0.925   
+Testing time used: 0.019s
+[TEST] [Epoch:  96   Iter:   32]   recon_A: 0.123   kl: 0.052   classifier: 0.167   accuracy: 0.969   
+[TEST] [Epoch:  96   Iter:   64]   recon_A: 0.124   kl: 0.054   classifier: 0.168   accuracy: 0.969   
+[TEST] [Epoch:  96   Iter:   96]   recon_A: 0.125   kl: 0.060   classifier: 0.333   accuracy: 0.938   
+[TEST] [Epoch:  96   Iter:  128]   recon_A: 0.122   kl: 0.052   classifier: 0.253   accuracy: 0.938   
+[TEST] [Epoch:  96   Iter:  160]   recon_A: 0.121   kl: 0.061   classifier: 0.352   accuracy: 0.925   
+[TEST] [Epoch:  96   Iter:  192]   recon_A: 0.124   kl: 0.071   classifier: 0.197   accuracy: 0.927   
+[TEST] [Epoch:  96   Iter:  200]   recon_A: 0.135   kl: 0.081   classifier: 0.299   accuracy: 0.930   
+Testing time used: 0.021s
+[TEST] [Epoch:  97   Iter:   32]   recon_A: 0.123   kl: 0.053   classifier: 0.163   accuracy: 0.969   
+[TEST] [Epoch:  97   Iter:   64]   recon_A: 0.123   kl: 0.054   classifier: 0.159   accuracy: 0.969   
+[TEST] [Epoch:  97   Iter:   96]   recon_A: 0.125   kl: 0.061   classifier: 0.332   accuracy: 0.938   
+[TEST] [Epoch:  97   Iter:  128]   recon_A: 0.122   kl: 0.053   classifier: 0.242   accuracy: 0.938   
+[TEST] [Epoch:  97   Iter:  160]   recon_A: 0.121   kl: 0.062   classifier: 0.355   accuracy: 0.925   
+[TEST] [Epoch:  97   Iter:  192]   recon_A: 0.124   kl: 0.072   classifier: 0.192   accuracy: 0.927   
+[TEST] [Epoch:  97   Iter:  200]   recon_A: 0.135   kl: 0.082   classifier: 0.281   accuracy: 0.930   
+Testing time used: 0.020s
+[TEST] [Epoch:  98   Iter:   32]   recon_A: 0.123   kl: 0.053   classifier: 0.163   accuracy: 0.969   
+[TEST] [Epoch:  98   Iter:   64]   recon_A: 0.123   kl: 0.053   classifier: 0.163   accuracy: 0.969   
+[TEST] [Epoch:  98   Iter:   96]   recon_A: 0.126   kl: 0.062   classifier: 0.336   accuracy: 0.938   
+[TEST] [Epoch:  98   Iter:  128]   recon_A: 0.123   kl: 0.053   classifier: 0.249   accuracy: 0.930   
+[TEST] [Epoch:  98   Iter:  160]   recon_A: 0.122   kl: 0.062   classifier: 0.359   accuracy: 0.919   
+[TEST] [Epoch:  98   Iter:  192]   recon_A: 0.124   kl: 0.073   classifier: 0.186   accuracy: 0.922   
+[TEST] [Epoch:  98   Iter:  200]   recon_A: 0.134   kl: 0.084   classifier: 0.282   accuracy: 0.925   
+Testing time used: 0.020s
+[TEST] [Epoch:  99   Iter:   32]   recon_A: 0.123   kl: 0.056   classifier: 0.159   accuracy: 0.969   
+[TEST] [Epoch:  99   Iter:   64]   recon_A: 0.123   kl: 0.055   classifier: 0.161   accuracy: 0.969   
+[TEST] [Epoch:  99   Iter:   96]   recon_A: 0.126   kl: 0.065   classifier: 0.335   accuracy: 0.938   
+[TEST] [Epoch:  99   Iter:  128]   recon_A: 0.122   kl: 0.055   classifier: 0.233   accuracy: 0.930   
+[TEST] [Epoch:  99   Iter:  160]   recon_A: 0.122   kl: 0.065   classifier: 0.344   accuracy: 0.919   
+[TEST] [Epoch:  99   Iter:  192]   recon_A: 0.125   kl: 0.077   classifier: 0.183   accuracy: 0.922   
+[TEST] [Epoch:  99   Iter:  200]   recon_A: 0.136   kl: 0.089   classifier: 0.276   accuracy: 0.925   
+Testing time used: 0.023s
+[TEST] [Epoch: 100   Iter:   32]   recon_A: 0.123   kl: 0.053   classifier: 0.149   accuracy: 1.000   
+[TEST] [Epoch: 100   Iter:   64]   recon_A: 0.123   kl: 0.053   classifier: 0.152   accuracy: 0.984   
+[TEST] [Epoch: 100   Iter:   96]   recon_A: 0.126   kl: 0.061   classifier: 0.311   accuracy: 0.948   
+[TEST] [Epoch: 100   Iter:  128]   recon_A: 0.122   kl: 0.053   classifier: 0.227   accuracy: 0.945   
+[TEST] [Epoch: 100   Iter:  160]   recon_A: 0.121   kl: 0.061   classifier: 0.338   accuracy: 0.931   
+[TEST] [Epoch: 100   Iter:  192]   recon_A: 0.124   kl: 0.072   classifier: 0.179   accuracy: 0.932   
+[TEST] [Epoch: 100   Iter:  200]   recon_A: 0.135   kl: 0.083   classifier: 0.282   accuracy: 0.935   
+Testing time used: 0.021s
+[TEST] [Epoch: 101   Iter:   32]   recon_A: 0.125   kl: 0.309   classifier: 0.190   accuracy: 0.938   
+[TEST] [Epoch: 101   Iter:   64]   recon_A: 0.126   kl: 0.334   classifier: 0.131   accuracy: 0.953   
+[TEST] [Epoch: 101   Iter:   96]   recon_A: 0.128   kl: 0.378   classifier: 0.345   accuracy: 0.938   
+[TEST] [Epoch: 101   Iter:  128]   recon_A: 0.124   kl: 0.328   classifier: 0.201   accuracy: 0.938   
+[TEST] [Epoch: 101   Iter:  160]   recon_A: 0.123   kl: 0.334   classifier: 0.361   accuracy: 0.931   
+[TEST] [Epoch: 101   Iter:  192]   recon_A: 0.127   kl: 0.375   classifier: 0.302   accuracy: 0.927   
+[TEST] [Epoch: 101   Iter:  200]   recon_A: 0.138   kl: 0.478   classifier: 0.985   accuracy: 0.920   
+Testing time used: 0.019s
+[TEST] [Epoch: 102   Iter:   32]   recon_A: 0.125   kl: 0.141   classifier: 0.165   accuracy: 1.000   
+[TEST] [Epoch: 102   Iter:   64]   recon_A: 0.126   kl: 0.162   classifier: 0.160   accuracy: 1.000   
+[TEST] [Epoch: 102   Iter:   96]   recon_A: 0.129   kl: 0.188   classifier: 0.276   accuracy: 0.958   
+[TEST] [Epoch: 102   Iter:  128]   recon_A: 0.125   kl: 0.170   classifier: 0.189   accuracy: 0.953   
+[TEST] [Epoch: 102   Iter:  160]   recon_A: 0.124   kl: 0.228   classifier: 0.385   accuracy: 0.938   
+[TEST] [Epoch: 102   Iter:  192]   recon_A: 0.128   kl: 0.183   classifier: 0.166   accuracy: 0.943   
+[TEST] [Epoch: 102   Iter:  200]   recon_A: 0.138   kl: 0.305   classifier: 0.287   accuracy: 0.945   
+Testing time used: 0.030s
+[TEST] [Epoch: 103   Iter:   32]   recon_A: 0.126   kl: 0.137   classifier: 0.185   accuracy: 0.969   
+[TEST] [Epoch: 103   Iter:   64]   recon_A: 0.127   kl: 0.171   classifier: 0.105   accuracy: 0.984   
+[TEST] [Epoch: 103   Iter:   96]   recon_A: 0.130   kl: 0.212   classifier: 0.194   accuracy: 0.969   
+[TEST] [Epoch: 103   Iter:  128]   recon_A: 0.126   kl: 0.161   classifier: 0.156   accuracy: 0.969   
+[TEST] [Epoch: 103   Iter:  160]   recon_A: 0.125   kl: 0.227   classifier: 0.337   accuracy: 0.956   
+[TEST] [Epoch: 103   Iter:  192]   recon_A: 0.128   kl: 0.171   classifier: 0.171   accuracy: 0.958   
+[TEST] [Epoch: 103   Iter:  200]   recon_A: 0.138   kl: 0.316   classifier: 0.190   accuracy: 0.960   
+Testing time used: 0.023s
+[TEST] [Epoch: 104   Iter:   32]   recon_A: 0.127   kl: 0.105   classifier: 0.099   accuracy: 0.969   
+[TEST] [Epoch: 104   Iter:   64]   recon_A: 0.128   kl: 0.128   classifier: 0.089   accuracy: 0.984   
+[TEST] [Epoch: 104   Iter:   96]   recon_A: 0.130   kl: 0.155   classifier: 0.166   accuracy: 0.979   
+[TEST] [Epoch: 104   Iter:  128]   recon_A: 0.127   kl: 0.127   classifier: 0.109   accuracy: 0.977   
+[TEST] [Epoch: 104   Iter:  160]   recon_A: 0.126   kl: 0.199   classifier: 0.355   accuracy: 0.956   
+[TEST] [Epoch: 104   Iter:  192]   recon_A: 0.129   kl: 0.136   classifier: 0.104   accuracy: 0.964   
+[TEST] [Epoch: 104   Iter:  200]   recon_A: 0.139   kl: 0.274   classifier: 0.146   accuracy: 0.965   
+Testing time used: 0.022s
+[TEST] [Epoch: 105   Iter:   32]   recon_A: 0.128   kl: 0.126   classifier: 0.150   accuracy: 0.969   
+[TEST] [Epoch: 105   Iter:   64]   recon_A: 0.129   kl: 0.153   classifier: 0.087   accuracy: 0.984   
+[TEST] [Epoch: 105   Iter:   96]   recon_A: 0.131   kl: 0.196   classifier: 0.172   accuracy: 0.969   
+[TEST] [Epoch: 105   Iter:  128]   recon_A: 0.128   kl: 0.145   classifier: 0.126   accuracy: 0.969   
+[TEST] [Epoch: 105   Iter:  160]   recon_A: 0.128   kl: 0.224   classifier: 0.353   accuracy: 0.963   
+[TEST] [Epoch: 105   Iter:  192]   recon_A: 0.131   kl: 0.156   classifier: 0.132   accuracy: 0.969   
+[TEST] [Epoch: 105   Iter:  200]   recon_A: 0.141   kl: 0.320   classifier: 0.142   accuracy: 0.970   
+Testing time used: 0.019s
+[TEST] [Epoch: 106   Iter:   32]   recon_A: 0.130   kl: 0.138   classifier: 0.102   accuracy: 1.000   
+[TEST] [Epoch: 106   Iter:   64]   recon_A: 0.132   kl: 0.163   classifier: 0.085   accuracy: 1.000   
+[TEST] [Epoch: 106   Iter:   96]   recon_A: 0.133   kl: 0.204   classifier: 0.172   accuracy: 0.990   
+[TEST] [Epoch: 106   Iter:  128]   recon_A: 0.130   kl: 0.166   classifier: 0.137   accuracy: 0.992   
+[TEST] [Epoch: 106   Iter:  160]   recon_A: 0.130   kl: 0.228   classifier: 0.369   accuracy: 0.981   
+[TEST] [Epoch: 106   Iter:  192]   recon_A: 0.132   kl: 0.167   classifier: 0.108   accuracy: 0.984   
+[TEST] [Epoch: 106   Iter:  200]   recon_A: 0.142   kl: 0.353   classifier: 0.168   accuracy: 0.985   
+Testing time used: 0.020s
+[TEST] [Epoch: 107   Iter:   32]   recon_A: 0.131   kl: 0.144   classifier: 0.085   accuracy: 0.969   
+[TEST] [Epoch: 107   Iter:   64]   recon_A: 0.132   kl: 0.154   classifier: 0.068   accuracy: 0.984   
+[TEST] [Epoch: 107   Iter:   96]   recon_A: 0.134   kl: 0.180   classifier: 0.181   accuracy: 0.969   
+[TEST] [Epoch: 107   Iter:  128]   recon_A: 0.131   kl: 0.150   classifier: 0.173   accuracy: 0.969   
+[TEST] [Epoch: 107   Iter:  160]   recon_A: 0.129   kl: 0.232   classifier: 0.349   accuracy: 0.963   
+[TEST] [Epoch: 107   Iter:  192]   recon_A: 0.133   kl: 0.162   classifier: 0.150   accuracy: 0.964   
+[TEST] [Epoch: 107   Iter:  200]   recon_A: 0.140   kl: 0.322   classifier: 0.191   accuracy: 0.965   
+Testing time used: 0.020s
+[TEST] [Epoch: 108   Iter:   32]   recon_A: 0.132   kl: 0.126   classifier: 0.105   accuracy: 1.000   
+[TEST] [Epoch: 108   Iter:   64]   recon_A: 0.134   kl: 0.142   classifier: 0.084   accuracy: 1.000   
+[TEST] [Epoch: 108   Iter:   96]   recon_A: 0.134   kl: 0.200   classifier: 0.178   accuracy: 0.979   
+[TEST] [Epoch: 108   Iter:  128]   recon_A: 0.133   kl: 0.147   classifier: 0.125   accuracy: 0.984   
+[TEST] [Epoch: 108   Iter:  160]   recon_A: 0.132   kl: 0.220   classifier: 0.350   accuracy: 0.975   
+[TEST] [Epoch: 108   Iter:  192]   recon_A: 0.135   kl: 0.147   classifier: 0.120   accuracy: 0.979   
+[TEST] [Epoch: 108   Iter:  200]   recon_A: 0.143   kl: 0.391   classifier: 0.287   accuracy: 0.975   
+Testing time used: 0.029s
+[TEST] [Epoch: 109   Iter:   32]   recon_A: 0.134   kl: 0.124   classifier: 0.168   accuracy: 0.969   
+[TEST] [Epoch: 109   Iter:   64]   recon_A: 0.135   kl: 0.147   classifier: 0.055   accuracy: 0.984   
+[TEST] [Epoch: 109   Iter:   96]   recon_A: 0.138   kl: 0.162   classifier: 0.269   accuracy: 0.969   
+[TEST] [Epoch: 109   Iter:  128]   recon_A: 0.134   kl: 0.129   classifier: 0.185   accuracy: 0.961   
+[TEST] [Epoch: 109   Iter:  160]   recon_A: 0.134   kl: 0.181   classifier: 0.302   accuracy: 0.956   
+[TEST] [Epoch: 109   Iter:  192]   recon_A: 0.136   kl: 0.130   classifier: 0.240   accuracy: 0.953   
+[TEST] [Epoch: 109   Iter:  200]   recon_A: 0.146   kl: 0.268   classifier: 0.142   accuracy: 0.955   
+Testing time used: 0.021s
+[TEST] [Epoch: 110   Iter:   32]   recon_A: 0.135   kl: 0.129   classifier: 0.153   accuracy: 0.938   
+[TEST] [Epoch: 110   Iter:   64]   recon_A: 0.137   kl: 0.167   classifier: 0.088   accuracy: 0.969   
+[TEST] [Epoch: 110   Iter:   96]   recon_A: 0.140   kl: 0.199   classifier: 0.182   accuracy: 0.969   
+[TEST] [Epoch: 110   Iter:  128]   recon_A: 0.137   kl: 0.156   classifier: 0.135   accuracy: 0.977   
+[TEST] [Epoch: 110   Iter:  160]   recon_A: 0.137   kl: 0.228   classifier: 0.351   accuracy: 0.956   
+[TEST] [Epoch: 110   Iter:  192]   recon_A: 0.137   kl: 0.159   classifier: 0.119   accuracy: 0.964   
+[TEST] [Epoch: 110   Iter:  200]   recon_A: 0.148   kl: 0.301   classifier: 0.129   accuracy: 0.965   
+Testing time used: 0.021s
+[TEST] [Epoch: 111   Iter:   32]   recon_A: 0.139   kl: 0.113   classifier: 0.112   accuracy: 0.969   
+[TEST] [Epoch: 111   Iter:   64]   recon_A: 0.139   kl: 0.141   classifier: 0.055   accuracy: 0.984   
+[TEST] [Epoch: 111   Iter:   96]   recon_A: 0.140   kl: 0.174   classifier: 0.163   accuracy: 0.969   
+[TEST] [Epoch: 111   Iter:  128]   recon_A: 0.136   kl: 0.137   classifier: 0.099   accuracy: 0.977   
+[TEST] [Epoch: 111   Iter:  160]   recon_A: 0.137   kl: 0.209   classifier: 0.321   accuracy: 0.969   
+[TEST] [Epoch: 111   Iter:  192]   recon_A: 0.140   kl: 0.139   classifier: 0.092   accuracy: 0.974   
+[TEST] [Epoch: 111   Iter:  200]   recon_A: 0.150   kl: 0.311   classifier: 0.130   accuracy: 0.975   
+Testing time used: 0.020s
+[TEST] [Epoch: 112   Iter:   32]   recon_A: 0.139   kl: 0.131   classifier: 0.202   accuracy: 0.969   
+[TEST] [Epoch: 112   Iter:   64]   recon_A: 0.140   kl: 0.151   classifier: 0.058   accuracy: 0.984   
+[TEST] [Epoch: 112   Iter:   96]   recon_A: 0.142   kl: 0.174   classifier: 0.222   accuracy: 0.969   
+[TEST] [Epoch: 112   Iter:  128]   recon_A: 0.138   kl: 0.138   classifier: 0.116   accuracy: 0.969   
+[TEST] [Epoch: 112   Iter:  160]   recon_A: 0.139   kl: 0.178   classifier: 0.273   accuracy: 0.963   
+[TEST] [Epoch: 112   Iter:  192]   recon_A: 0.143   kl: 0.142   classifier: 0.248   accuracy: 0.958   
+[TEST] [Epoch: 112   Iter:  200]   recon_A: 0.150   kl: 0.303   classifier: 0.110   accuracy: 0.960   
+Testing time used: 0.019s
+[TEST] [Epoch: 113   Iter:   32]   recon_A: 0.143   kl: 0.127   classifier: 0.097   accuracy: 1.000   
+[TEST] [Epoch: 113   Iter:   64]   recon_A: 0.143   kl: 0.168   classifier: 0.071   accuracy: 1.000   
+[TEST] [Epoch: 113   Iter:   96]   recon_A: 0.145   kl: 0.187   classifier: 0.180   accuracy: 0.990   
+[TEST] [Epoch: 113   Iter:  128]   recon_A: 0.143   kl: 0.163   classifier: 0.152   accuracy: 0.984   
+[TEST] [Epoch: 113   Iter:  160]   recon_A: 0.142   kl: 0.227   classifier: 0.368   accuracy: 0.975   
+[TEST] [Epoch: 113   Iter:  192]   recon_A: 0.144   kl: 0.161   classifier: 0.095   accuracy: 0.979   
+[TEST] [Epoch: 113   Iter:  200]   recon_A: 0.155   kl: 0.338   classifier: 0.222   accuracy: 0.980   
+Testing time used: 0.025s
+[TEST] [Epoch: 114   Iter:   32]   recon_A: 0.143   kl: 0.123   classifier: 0.142   accuracy: 0.969   
+[TEST] [Epoch: 114   Iter:   64]   recon_A: 0.145   kl: 0.146   classifier: 0.046   accuracy: 0.984   
+[TEST] [Epoch: 114   Iter:   96]   recon_A: 0.146   kl: 0.177   classifier: 0.179   accuracy: 0.958   
+[TEST] [Epoch: 114   Iter:  128]   recon_A: 0.145   kl: 0.134   classifier: 0.093   accuracy: 0.969   
+[TEST] [Epoch: 114   Iter:  160]   recon_A: 0.143   kl: 0.198   classifier: 0.291   accuracy: 0.963   
+[TEST] [Epoch: 114   Iter:  192]   recon_A: 0.146   kl: 0.141   classifier: 0.120   accuracy: 0.964   
+[TEST] [Epoch: 114   Iter:  200]   recon_A: 0.156   kl: 0.343   classifier: 0.080   accuracy: 0.965   
+Testing time used: 0.019s
+[TEST] [Epoch: 115   Iter:   32]   recon_A: 0.148   kl: 0.122   classifier: 0.098   accuracy: 0.969   
+[TEST] [Epoch: 115   Iter:   64]   recon_A: 0.147   kl: 0.154   classifier: 0.058   accuracy: 0.984   
+[TEST] [Epoch: 115   Iter:   96]   recon_A: 0.150   kl: 0.195   classifier: 0.162   accuracy: 0.979   
+[TEST] [Epoch: 115   Iter:  128]   recon_A: 0.147   kl: 0.150   classifier: 0.121   accuracy: 0.977   
+[TEST] [Epoch: 115   Iter:  160]   recon_A: 0.146   kl: 0.216   classifier: 0.375   accuracy: 0.963   
+[TEST] [Epoch: 115   Iter:  192]   recon_A: 0.151   kl: 0.155   classifier: 0.080   accuracy: 0.969   
+[TEST] [Epoch: 115   Iter:  200]   recon_A: 0.161   kl: 0.356   classifier: 0.178   accuracy: 0.970   
+Testing time used: 0.022s
+[TEST] [Epoch: 116   Iter:   32]   recon_A: 0.149   kl: 0.113   classifier: 0.103   accuracy: 0.969   
+[TEST] [Epoch: 116   Iter:   64]   recon_A: 0.150   kl: 0.149   classifier: 0.040   accuracy: 0.984   
+[TEST] [Epoch: 116   Iter:   96]   recon_A: 0.151   kl: 0.185   classifier: 0.123   accuracy: 0.979   
+[TEST] [Epoch: 116   Iter:  128]   recon_A: 0.150   kl: 0.144   classifier: 0.087   accuracy: 0.984   
+[TEST] [Epoch: 116   Iter:  160]   recon_A: 0.147   kl: 0.192   classifier: 0.308   accuracy: 0.975   
+[TEST] [Epoch: 116   Iter:  192]   recon_A: 0.151   kl: 0.148   classifier: 0.070   accuracy: 0.979   
+[TEST] [Epoch: 116   Iter:  200]   recon_A: 0.160   kl: 0.337   classifier: 0.109   accuracy: 0.980   
+Testing time used: 0.020s
+[TEST] [Epoch: 117   Iter:   32]   recon_A: 0.153   kl: 0.108   classifier: 0.141   accuracy: 0.969   
+[TEST] [Epoch: 117   Iter:   64]   recon_A: 0.152   kl: 0.132   classifier: 0.041   accuracy: 0.984   
+[TEST] [Epoch: 117   Iter:   96]   recon_A: 0.154   kl: 0.160   classifier: 0.169   accuracy: 0.969   
+[TEST] [Epoch: 117   Iter:  128]   recon_A: 0.154   kl: 0.121   classifier: 0.095   accuracy: 0.977   
+[TEST] [Epoch: 117   Iter:  160]   recon_A: 0.152   kl: 0.180   classifier: 0.295   accuracy: 0.969   
+[TEST] [Epoch: 117   Iter:  192]   recon_A: 0.155   kl: 0.130   classifier: 0.095   accuracy: 0.969   
+[TEST] [Epoch: 117   Iter:  200]   recon_A: 0.163   kl: 0.286   classifier: 0.085   accuracy: 0.970   
+Testing time used: 0.020s
+[TEST] [Epoch: 118   Iter:   32]   recon_A: 0.155   kl: 0.133   classifier: 0.138   accuracy: 0.938   
+[TEST] [Epoch: 118   Iter:   64]   recon_A: 0.156   kl: 0.183   classifier: 0.129   accuracy: 0.969   
+[TEST] [Epoch: 118   Iter:   96]   recon_A: 0.157   kl: 0.238   classifier: 0.246   accuracy: 0.969   
+[TEST] [Epoch: 118   Iter:  128]   recon_A: 0.154   kl: 0.172   classifier: 0.203   accuracy: 0.961   
+[TEST] [Epoch: 118   Iter:  160]   recon_A: 0.153   kl: 0.251   classifier: 0.452   accuracy: 0.944   
+[TEST] [Epoch: 118   Iter:  192]   recon_A: 0.159   kl: 0.183   classifier: 0.144   accuracy: 0.953   
+[TEST] [Epoch: 118   Iter:  200]   recon_A: 0.165   kl: 0.409   classifier: 0.399   accuracy: 0.945   
+Testing time used: 0.019s
+[TEST] [Epoch: 119   Iter:   32]   recon_A: 0.159   kl: 0.106   classifier: 0.099   accuracy: 0.969   
+[TEST] [Epoch: 119   Iter:   64]   recon_A: 0.159   kl: 0.131   classifier: 0.038   accuracy: 0.984   
+[TEST] [Epoch: 119   Iter:   96]   recon_A: 0.160   kl: 0.172   classifier: 0.139   accuracy: 0.969   
+[TEST] [Epoch: 119   Iter:  128]   recon_A: 0.158   kl: 0.126   classifier: 0.084   accuracy: 0.977   
+[TEST] [Epoch: 119   Iter:  160]   recon_A: 0.156   kl: 0.185   classifier: 0.307   accuracy: 0.963   
+[TEST] [Epoch: 119   Iter:  192]   recon_A: 0.161   kl: 0.138   classifier: 0.072   accuracy: 0.969   
+[TEST] [Epoch: 119   Iter:  200]   recon_A: 0.169   kl: 0.311   classifier: 0.086   accuracy: 0.970   
+Testing time used: 0.021s
+[TEST] [Epoch: 120   Iter:   32]   recon_A: 0.161   kl: 0.115   classifier: 0.147   accuracy: 0.969   
+[TEST] [Epoch: 120   Iter:   64]   recon_A: 0.162   kl: 0.138   classifier: 0.039   accuracy: 0.984   
+[TEST] [Epoch: 120   Iter:   96]   recon_A: 0.163   kl: 0.161   classifier: 0.256   accuracy: 0.969   
+[TEST] [Epoch: 120   Iter:  128]   recon_A: 0.161   kl: 0.126   classifier: 0.083   accuracy: 0.969   
+[TEST] [Epoch: 120   Iter:  160]   recon_A: 0.160   kl: 0.177   classifier: 0.279   accuracy: 0.963   
+[TEST] [Epoch: 120   Iter:  192]   recon_A: 0.164   kl: 0.134   classifier: 0.097   accuracy: 0.964   
+[TEST] [Epoch: 120   Iter:  200]   recon_A: 0.172   kl: 0.295   classifier: 0.071   accuracy: 0.965   
+Testing time used: 0.019s
+[TEST] [Epoch: 121   Iter:   32]   recon_A: 0.167   kl: 0.171   classifier: 0.249   accuracy: 0.906   
+[TEST] [Epoch: 121   Iter:   64]   recon_A: 0.165   kl: 0.221   classifier: 0.209   accuracy: 0.922   
+[TEST] [Epoch: 121   Iter:   96]   recon_A: 0.168   kl: 0.302   classifier: 0.309   accuracy: 0.927   
+[TEST] [Epoch: 121   Iter:  128]   recon_A: 0.166   kl: 0.203   classifier: 0.278   accuracy: 0.914   
+[TEST] [Epoch: 121   Iter:  160]   recon_A: 0.165   kl: 0.269   classifier: 0.496   accuracy: 0.906   
+[TEST] [Epoch: 121   Iter:  192]   recon_A: 0.168   kl: 0.223   classifier: 0.170   accuracy: 0.911   
+[TEST] [Epoch: 121   Iter:  200]   recon_A: 0.179   kl: 0.512   classifier: 0.480   accuracy: 0.905   
+Testing time used: 0.020s
+[TEST] [Epoch: 122   Iter:   32]   recon_A: 0.170   kl: 0.109   classifier: 0.099   accuracy: 0.969   
+[TEST] [Epoch: 122   Iter:   64]   recon_A: 0.171   kl: 0.148   classifier: 0.041   accuracy: 0.984   
+[TEST] [Epoch: 122   Iter:   96]   recon_A: 0.171   kl: 0.176   classifier: 0.123   accuracy: 0.979   
+[TEST] [Epoch: 122   Iter:  128]   recon_A: 0.171   kl: 0.132   classifier: 0.140   accuracy: 0.977   
+[TEST] [Epoch: 122   Iter:  160]   recon_A: 0.168   kl: 0.215   classifier: 0.353   accuracy: 0.963   
+[TEST] [Epoch: 122   Iter:  192]   recon_A: 0.169   kl: 0.144   classifier: 0.067   accuracy: 0.969   
+[TEST] [Epoch: 122   Iter:  200]   recon_A: 0.178   kl: 0.328   classifier: 0.137   accuracy: 0.970   
+Testing time used: 0.019s
+[TEST] [Epoch: 123   Iter:   32]   recon_A: 0.171   kl: 0.103   classifier: 0.114   accuracy: 0.969   
+[TEST] [Epoch: 123   Iter:   64]   recon_A: 0.171   kl: 0.133   classifier: 0.030   accuracy: 0.984   
+[TEST] [Epoch: 123   Iter:   96]   recon_A: 0.172   kl: 0.175   classifier: 0.125   accuracy: 0.979   
+[TEST] [Epoch: 123   Iter:  128]   recon_A: 0.171   kl: 0.118   classifier: 0.108   accuracy: 0.969   
+[TEST] [Epoch: 123   Iter:  160]   recon_A: 0.171   kl: 0.202   classifier: 0.324   accuracy: 0.956   
+[TEST] [Epoch: 123   Iter:  192]   recon_A: 0.174   kl: 0.134   classifier: 0.065   accuracy: 0.964   
+[TEST] [Epoch: 123   Iter:  200]   recon_A: 0.179   kl: 0.323   classifier: 0.085   accuracy: 0.965   
+Testing time used: 0.024s
+[TEST] [Epoch: 124   Iter:   32]   recon_A: 0.176   kl: 0.097   classifier: 0.088   accuracy: 0.969   
+[TEST] [Epoch: 124   Iter:   64]   recon_A: 0.175   kl: 0.125   classifier: 0.031   accuracy: 0.984   
+[TEST] [Epoch: 124   Iter:   96]   recon_A: 0.177   kl: 0.170   classifier: 0.137   accuracy: 0.979   
+[TEST] [Epoch: 124   Iter:  128]   recon_A: 0.175   kl: 0.120   classifier: 0.103   accuracy: 0.977   
+[TEST] [Epoch: 124   Iter:  160]   recon_A: 0.174   kl: 0.199   classifier: 0.344   accuracy: 0.963   
+[TEST] [Epoch: 124   Iter:  192]   recon_A: 0.178   kl: 0.137   classifier: 0.050   accuracy: 0.969   
+[TEST] [Epoch: 124   Iter:  200]   recon_A: 0.186   kl: 0.286   classifier: 0.097   accuracy: 0.970   
+Testing time used: 0.019s
+[TEST] [Epoch: 125   Iter:   32]   recon_A: 0.180   kl: 0.112   classifier: 0.068   accuracy: 0.969   
+[TEST] [Epoch: 125   Iter:   64]   recon_A: 0.181   kl: 0.135   classifier: 0.034   accuracy: 0.984   
+[TEST] [Epoch: 125   Iter:   96]   recon_A: 0.182   kl: 0.193   classifier: 0.137   accuracy: 0.969   
+[TEST] [Epoch: 125   Iter:  128]   recon_A: 0.181   kl: 0.133   classifier: 0.107   accuracy: 0.969   
+[TEST] [Epoch: 125   Iter:  160]   recon_A: 0.178   kl: 0.214   classifier: 0.372   accuracy: 0.956   
+[TEST] [Epoch: 125   Iter:  192]   recon_A: 0.182   kl: 0.151   classifier: 0.053   accuracy: 0.964   
+[TEST] [Epoch: 125   Iter:  200]   recon_A: 0.187   kl: 0.388   classifier: 0.121   accuracy: 0.965   
+Testing time used: 0.021s
+[TEST] [Epoch: 126   Iter:   32]   recon_A: 0.181   kl: 0.108   classifier: 0.169   accuracy: 0.969   
+[TEST] [Epoch: 126   Iter:   64]   recon_A: 0.184   kl: 0.121   classifier: 0.037   accuracy: 0.984   
+[TEST] [Epoch: 126   Iter:   96]   recon_A: 0.183   kl: 0.148   classifier: 0.222   accuracy: 0.969   
+[TEST] [Epoch: 126   Iter:  128]   recon_A: 0.183   kl: 0.108   classifier: 0.107   accuracy: 0.969   
+[TEST] [Epoch: 126   Iter:  160]   recon_A: 0.182   kl: 0.162   classifier: 0.267   accuracy: 0.963   
+[TEST] [Epoch: 126   Iter:  192]   recon_A: 0.184   kl: 0.125   classifier: 0.158   accuracy: 0.964   
+[TEST] [Epoch: 126   Iter:  200]   recon_A: 0.193   kl: 0.259   classifier: 0.061   accuracy: 0.965   
+Testing time used: 0.020s
+[TEST] [Epoch: 127   Iter:   32]   recon_A: 0.188   kl: 0.112   classifier: 0.096   accuracy: 0.969   
+[TEST] [Epoch: 127   Iter:   64]   recon_A: 0.192   kl: 0.137   classifier: 0.028   accuracy: 0.984   
+[TEST] [Epoch: 127   Iter:   96]   recon_A: 0.190   kl: 0.196   classifier: 0.143   accuracy: 0.979   
+[TEST] [Epoch: 127   Iter:  128]   recon_A: 0.189   kl: 0.126   classifier: 0.082   accuracy: 0.984   
+[TEST] [Epoch: 127   Iter:  160]   recon_A: 0.188   kl: 0.203   classifier: 0.362   accuracy: 0.969   
+[TEST] [Epoch: 127   Iter:  192]   recon_A: 0.190   kl: 0.144   classifier: 0.052   accuracy: 0.974   
+[TEST] [Epoch: 127   Iter:  200]   recon_A: 0.198   kl: 0.366   classifier: 0.121   accuracy: 0.975   
+Testing time used: 0.019s
+[TEST] [Epoch: 128   Iter:   32]   recon_A: 0.192   kl: 0.099   classifier: 0.111   accuracy: 0.969   
+[TEST] [Epoch: 128   Iter:   64]   recon_A: 0.193   kl: 0.119   classifier: 0.028   accuracy: 0.984   
+[TEST] [Epoch: 128   Iter:   96]   recon_A: 0.194   kl: 0.171   classifier: 0.130   accuracy: 0.979   
+[TEST] [Epoch: 128   Iter:  128]   recon_A: 0.191   kl: 0.108   classifier: 0.074   accuracy: 0.984   
+[TEST] [Epoch: 128   Iter:  160]   recon_A: 0.191   kl: 0.168   classifier: 0.310   accuracy: 0.969   
+[TEST] [Epoch: 128   Iter:  192]   recon_A: 0.193   kl: 0.122   classifier: 0.066   accuracy: 0.974   
+[TEST] [Epoch: 128   Iter:  200]   recon_A: 0.198   kl: 0.310   classifier: 0.053   accuracy: 0.975   
+Testing time used: 0.027s
+[TEST] [Epoch: 129   Iter:   32]   recon_A: 0.197   kl: 0.094   classifier: 0.116   accuracy: 0.969   
+[TEST] [Epoch: 129   Iter:   64]   recon_A: 0.198   kl: 0.123   classifier: 0.025   accuracy: 0.984   
+[TEST] [Epoch: 129   Iter:   96]   recon_A: 0.201   kl: 0.159   classifier: 0.130   accuracy: 0.979   
+[TEST] [Epoch: 129   Iter:  128]   recon_A: 0.196   kl: 0.114   classifier: 0.057   accuracy: 0.984   
+[TEST] [Epoch: 129   Iter:  160]   recon_A: 0.196   kl: 0.169   classifier: 0.331   accuracy: 0.969   
+[TEST] [Epoch: 129   Iter:  192]   recon_A: 0.199   kl: 0.120   classifier: 0.057   accuracy: 0.974   
+[TEST] [Epoch: 129   Iter:  200]   recon_A: 0.204   kl: 0.290   classifier: 0.055   accuracy: 0.975   
+Testing time used: 0.025s
+[TEST] [Epoch: 130   Iter:   32]   recon_A: 0.202   kl: 0.099   classifier: 0.115   accuracy: 0.969   
+[TEST] [Epoch: 130   Iter:   64]   recon_A: 0.202   kl: 0.130   classifier: 0.027   accuracy: 0.984   
+[TEST] [Epoch: 130   Iter:   96]   recon_A: 0.206   kl: 0.177   classifier: 0.132   accuracy: 0.979   
+[TEST] [Epoch: 130   Iter:  128]   recon_A: 0.204   kl: 0.116   classifier: 0.056   accuracy: 0.984   
+[TEST] [Epoch: 130   Iter:  160]   recon_A: 0.201   kl: 0.182   classifier: 0.340   accuracy: 0.969   
+[TEST] [Epoch: 130   Iter:  192]   recon_A: 0.204   kl: 0.126   classifier: 0.062   accuracy: 0.974   
+[TEST] [Epoch: 130   Iter:  200]   recon_A: 0.214   kl: 0.332   classifier: 0.050   accuracy: 0.975   
+Testing time used: 0.022s
+[TEST] [Epoch: 131   Iter:   32]   recon_A: 0.207   kl: 0.111   classifier: 0.122   accuracy: 0.969   
+[TEST] [Epoch: 131   Iter:   64]   recon_A: 0.208   kl: 0.137   classifier: 0.030   accuracy: 0.984   
+[TEST] [Epoch: 131   Iter:   96]   recon_A: 0.210   kl: 0.193   classifier: 0.135   accuracy: 0.979   
+[TEST] [Epoch: 131   Iter:  128]   recon_A: 0.207   kl: 0.119   classifier: 0.059   accuracy: 0.984   
+[TEST] [Epoch: 131   Iter:  160]   recon_A: 0.203   kl: 0.195   classifier: 0.378   accuracy: 0.969   
+[TEST] [Epoch: 131   Iter:  192]   recon_A: 0.207   kl: 0.131   classifier: 0.058   accuracy: 0.974   
+[TEST] [Epoch: 131   Iter:  200]   recon_A: 0.214   kl: 0.366   classifier: 0.040   accuracy: 0.975   
+Testing time used: 0.019s
+[TEST] [Epoch: 132   Iter:   32]   recon_A: 0.214   kl: 0.105   classifier: 0.089   accuracy: 0.969   
+[TEST] [Epoch: 132   Iter:   64]   recon_A: 0.211   kl: 0.130   classifier: 0.023   accuracy: 0.984   
+[TEST] [Epoch: 132   Iter:   96]   recon_A: 0.215   kl: 0.178   classifier: 0.130   accuracy: 0.979   
+[TEST] [Epoch: 132   Iter:  128]   recon_A: 0.213   kl: 0.120   classifier: 0.075   accuracy: 0.977   
+[TEST] [Epoch: 132   Iter:  160]   recon_A: 0.210   kl: 0.188   classifier: 0.368   accuracy: 0.963   
+[TEST] [Epoch: 132   Iter:  192]   recon_A: 0.213   kl: 0.136   classifier: 0.043   accuracy: 0.969   
+[TEST] [Epoch: 132   Iter:  200]   recon_A: 0.218   kl: 0.297   classifier: 0.056   accuracy: 0.970   
+Testing time used: 0.019s
+[TEST] [Epoch: 133   Iter:   32]   recon_A: 0.217   kl: 0.096   classifier: 0.148   accuracy: 0.969   
+[TEST] [Epoch: 133   Iter:   64]   recon_A: 0.217   kl: 0.112   classifier: 0.021   accuracy: 0.984   
+[TEST] [Epoch: 133   Iter:   96]   recon_A: 0.218   kl: 0.158   classifier: 0.181   accuracy: 0.969   
+[TEST] [Epoch: 133   Iter:  128]   recon_A: 0.217   kl: 0.091   classifier: 0.088   accuracy: 0.969   
+[TEST] [Epoch: 133   Iter:  160]   recon_A: 0.217   kl: 0.158   classifier: 0.308   accuracy: 0.956   
+[TEST] [Epoch: 133   Iter:  192]   recon_A: 0.219   kl: 0.113   classifier: 0.130   accuracy: 0.958   
+[TEST] [Epoch: 133   Iter:  200]   recon_A: 0.222   kl: 0.287   classifier: 0.056   accuracy: 0.960   
+Testing time used: 0.019s
+[TEST] [Epoch: 134   Iter:   32]   recon_A: 0.220   kl: 0.095   classifier: 0.123   accuracy: 0.969   
+[TEST] [Epoch: 134   Iter:   64]   recon_A: 0.221   kl: 0.117   classifier: 0.034   accuracy: 0.984   
+[TEST] [Epoch: 134   Iter:   96]   recon_A: 0.222   kl: 0.137   classifier: 0.281   accuracy: 0.969   
+[TEST] [Epoch: 134   Iter:  128]   recon_A: 0.223   kl: 0.100   classifier: 0.144   accuracy: 0.961   
+[TEST] [Epoch: 134   Iter:  160]   recon_A: 0.222   kl: 0.152   classifier: 0.307   accuracy: 0.956   
+[TEST] [Epoch: 134   Iter:  192]   recon_A: 0.223   kl: 0.113   classifier: 0.197   accuracy: 0.958   
+[TEST] [Epoch: 134   Iter:  200]   recon_A: 0.233   kl: 0.251   classifier: 0.063   accuracy: 0.960   
+Testing time used: 0.021s
+[TEST] [Epoch: 135   Iter:   32]   recon_A: 0.228   kl: 0.089   classifier: 0.118   accuracy: 0.969   
+[TEST] [Epoch: 135   Iter:   64]   recon_A: 0.227   kl: 0.112   classifier: 0.023   accuracy: 0.984   
+[TEST] [Epoch: 135   Iter:   96]   recon_A: 0.228   kl: 0.155   classifier: 0.133   accuracy: 0.969   
+[TEST] [Epoch: 135   Iter:  128]   recon_A: 0.229   kl: 0.104   classifier: 0.081   accuracy: 0.961   
+[TEST] [Epoch: 135   Iter:  160]   recon_A: 0.229   kl: 0.163   classifier: 0.344   accuracy: 0.950   
+[TEST] [Epoch: 135   Iter:  192]   recon_A: 0.230   kl: 0.117   classifier: 0.060   accuracy: 0.953   
+[TEST] [Epoch: 135   Iter:  200]   recon_A: 0.236   kl: 0.283   classifier: 0.044   accuracy: 0.955   
+Testing time used: 0.022s
+[TEST] [Epoch: 136   Iter:   32]   recon_A: 0.234   kl: 0.088   classifier: 0.143   accuracy: 0.969   
+[TEST] [Epoch: 136   Iter:   64]   recon_A: 0.233   kl: 0.117   classifier: 0.019   accuracy: 0.984   
+[TEST] [Epoch: 136   Iter:   96]   recon_A: 0.234   kl: 0.158   classifier: 0.125   accuracy: 0.969   
+[TEST] [Epoch: 136   Iter:  128]   recon_A: 0.235   kl: 0.107   classifier: 0.054   accuracy: 0.977   
+[TEST] [Epoch: 136   Iter:  160]   recon_A: 0.233   kl: 0.164   classifier: 0.331   accuracy: 0.963   
+[TEST] [Epoch: 136   Iter:  192]   recon_A: 0.234   kl: 0.115   classifier: 0.050   accuracy: 0.969   
+[TEST] [Epoch: 136   Iter:  200]   recon_A: 0.237   kl: 0.292   classifier: 0.045   accuracy: 0.970   
+Testing time used: 0.019s
+[TEST] [Epoch: 137   Iter:   32]   recon_A: 0.241   kl: 0.088   classifier: 0.136   accuracy: 0.969   
+[TEST] [Epoch: 137   Iter:   64]   recon_A: 0.240   kl: 0.116   classifier: 0.020   accuracy: 0.984   
+[TEST] [Epoch: 137   Iter:   96]   recon_A: 0.243   kl: 0.191   classifier: 0.127   accuracy: 0.979   
+[TEST] [Epoch: 137   Iter:  128]   recon_A: 0.239   kl: 0.109   classifier: 0.061   accuracy: 0.984   
+[TEST] [Epoch: 137   Iter:  160]   recon_A: 0.237   kl: 0.177   classifier: 0.370   accuracy: 0.969   
+[TEST] [Epoch: 137   Iter:  192]   recon_A: 0.241   kl: 0.119   classifier: 0.043   accuracy: 0.974   
+[TEST] [Epoch: 137   Iter:  200]   recon_A: 0.244   kl: 0.409   classifier: 0.038   accuracy: 0.975   
+Testing time used: 0.019s
+[TEST] [Epoch: 138   Iter:   32]   recon_A: 0.245   kl: 0.088   classifier: 0.154   accuracy: 0.969   
+[TEST] [Epoch: 138   Iter:   64]   recon_A: 0.244   kl: 0.120   classifier: 0.018   accuracy: 0.984   
+[TEST] [Epoch: 138   Iter:   96]   recon_A: 0.246   kl: 0.174   classifier: 0.134   accuracy: 0.979   
+[TEST] [Epoch: 138   Iter:  128]   recon_A: 0.243   kl: 0.109   classifier: 0.043   accuracy: 0.984   
+[TEST] [Epoch: 138   Iter:  160]   recon_A: 0.242   kl: 0.170   classifier: 0.349   accuracy: 0.969   
+[TEST] [Epoch: 138   Iter:  192]   recon_A: 0.245   kl: 0.119   classifier: 0.045   accuracy: 0.974   
+[TEST] [Epoch: 138   Iter:  200]   recon_A: 0.254   kl: 0.338   classifier: 0.036   accuracy: 0.975   
+Testing time used: 0.019s
+[TEST] [Epoch: 139   Iter:   32]   recon_A: 0.252   kl: 0.088   classifier: 0.127   accuracy: 0.969   
+[TEST] [Epoch: 139   Iter:   64]   recon_A: 0.252   kl: 0.116   classifier: 0.019   accuracy: 0.984   
+[TEST] [Epoch: 139   Iter:   96]   recon_A: 0.253   kl: 0.175   classifier: 0.135   accuracy: 0.969   
+[TEST] [Epoch: 139   Iter:  128]   recon_A: 0.252   kl: 0.104   classifier: 0.063   accuracy: 0.977   
+[TEST] [Epoch: 139   Iter:  160]   recon_A: 0.248   kl: 0.165   classifier: 0.349   accuracy: 0.963   
+[TEST] [Epoch: 139   Iter:  192]   recon_A: 0.251   kl: 0.116   classifier: 0.050   accuracy: 0.969   
+[TEST] [Epoch: 139   Iter:  200]   recon_A: 0.261   kl: 0.342   classifier: 0.031   accuracy: 0.970   
+Testing time used: 0.023s
+[TEST] [Epoch: 140   Iter:   32]   recon_A: 0.258   kl: 0.092   classifier: 0.111   accuracy: 0.969   
+[TEST] [Epoch: 140   Iter:   64]   recon_A: 0.255   kl: 0.122   classifier: 0.019   accuracy: 0.984   
+[TEST] [Epoch: 140   Iter:   96]   recon_A: 0.255   kl: 0.171   classifier: 0.136   accuracy: 0.979   
+[TEST] [Epoch: 140   Iter:  128]   recon_A: 0.258   kl: 0.115   classifier: 0.064   accuracy: 0.984   
+[TEST] [Epoch: 140   Iter:  160]   recon_A: 0.256   kl: 0.167   classifier: 0.350   accuracy: 0.969   
+[TEST] [Epoch: 140   Iter:  192]   recon_A: 0.257   kl: 0.123   classifier: 0.046   accuracy: 0.974   
+[TEST] [Epoch: 140   Iter:  200]   recon_A: 0.268   kl: 0.328   classifier: 0.043   accuracy: 0.975   
+Testing time used: 0.025s
+[TEST] [Epoch: 141   Iter:   32]   recon_A: 0.266   kl: 0.081   classifier: 0.110   accuracy: 0.969   
+[TEST] [Epoch: 141   Iter:   64]   recon_A: 0.263   kl: 0.102   classifier: 0.018   accuracy: 0.984   
+[TEST] [Epoch: 141   Iter:   96]   recon_A: 0.265   kl: 0.154   classifier: 0.136   accuracy: 0.969   
+[TEST] [Epoch: 141   Iter:  128]   recon_A: 0.264   kl: 0.098   classifier: 0.090   accuracy: 0.961   
+[TEST] [Epoch: 141   Iter:  160]   recon_A: 0.264   kl: 0.144   classifier: 0.353   accuracy: 0.950   
+[TEST] [Epoch: 141   Iter:  192]   recon_A: 0.262   kl: 0.109   classifier: 0.049   accuracy: 0.958   
+[TEST] [Epoch: 141   Iter:  200]   recon_A: 0.268   kl: 0.295   classifier: 0.035   accuracy: 0.960   
+Testing time used: 0.029s
+[TEST] [Epoch: 142   Iter:   32]   recon_A: 0.271   kl: 0.084   classifier: 0.101   accuracy: 0.969   
+[TEST] [Epoch: 142   Iter:   64]   recon_A: 0.271   kl: 0.104   classifier: 0.019   accuracy: 0.984   
+[TEST] [Epoch: 142   Iter:   96]   recon_A: 0.272   kl: 0.157   classifier: 0.133   accuracy: 0.979   
+[TEST] [Epoch: 142   Iter:  128]   recon_A: 0.270   kl: 0.105   classifier: 0.073   accuracy: 0.977   
+[TEST] [Epoch: 142   Iter:  160]   recon_A: 0.270   kl: 0.145   classifier: 0.349   accuracy: 0.963   
+[TEST] [Epoch: 142   Iter:  192]   recon_A: 0.269   kl: 0.112   classifier: 0.042   accuracy: 0.969   
+[TEST] [Epoch: 142   Iter:  200]   recon_A: 0.273   kl: 0.287   classifier: 0.040   accuracy: 0.970   
+Testing time used: 0.021s
+[TEST] [Epoch: 143   Iter:   32]   recon_A: 0.276   kl: 0.076   classifier: 0.136   accuracy: 0.969   
+[TEST] [Epoch: 143   Iter:   64]   recon_A: 0.279   kl: 0.100   classifier: 0.016   accuracy: 0.984   
+[TEST] [Epoch: 143   Iter:   96]   recon_A: 0.280   kl: 0.150   classifier: 0.157   accuracy: 0.979   
+[TEST] [Epoch: 143   Iter:  128]   recon_A: 0.277   kl: 0.096   classifier: 0.047   accuracy: 0.984   
+[TEST] [Epoch: 143   Iter:  160]   recon_A: 0.277   kl: 0.144   classifier: 0.368   accuracy: 0.969   
+[TEST] [Epoch: 143   Iter:  192]   recon_A: 0.278   kl: 0.103   classifier: 0.039   accuracy: 0.974   
+[TEST] [Epoch: 143   Iter:  200]   recon_A: 0.286   kl: 0.250   classifier: 0.046   accuracy: 0.975   
+Testing time used: 0.021s
+[TEST] [Epoch: 144   Iter:   32]   recon_A: 0.282   kl: 0.084   classifier: 0.127   accuracy: 0.969   
+[TEST] [Epoch: 144   Iter:   64]   recon_A: 0.284   kl: 0.105   classifier: 0.017   accuracy: 0.984   
+[TEST] [Epoch: 144   Iter:   96]   recon_A: 0.285   kl: 0.161   classifier: 0.126   accuracy: 0.979   
+[TEST] [Epoch: 144   Iter:  128]   recon_A: 0.282   kl: 0.103   classifier: 0.051   accuracy: 0.984   
+[TEST] [Epoch: 144   Iter:  160]   recon_A: 0.281   kl: 0.151   classifier: 0.356   accuracy: 0.969   
+[TEST] [Epoch: 144   Iter:  192]   recon_A: 0.282   kl: 0.112   classifier: 0.039   accuracy: 0.974   
+[TEST] [Epoch: 144   Iter:  200]   recon_A: 0.289   kl: 0.309   classifier: 0.032   accuracy: 0.975   
+Testing time used: 0.021s
+[TEST] [Epoch: 145   Iter:   32]   recon_A: 0.291   kl: 0.078   classifier: 0.134   accuracy: 0.969   
+[TEST] [Epoch: 145   Iter:   64]   recon_A: 0.289   kl: 0.099   classifier: 0.016   accuracy: 0.984   
+[TEST] [Epoch: 145   Iter:   96]   recon_A: 0.294   kl: 0.142   classifier: 0.133   accuracy: 0.979   
+[TEST] [Epoch: 145   Iter:  128]   recon_A: 0.290   kl: 0.096   classifier: 0.055   accuracy: 0.984   
+[TEST] [Epoch: 145   Iter:  160]   recon_A: 0.288   kl: 0.136   classifier: 0.345   accuracy: 0.969   
+[TEST] [Epoch: 145   Iter:  192]   recon_A: 0.292   kl: 0.106   classifier: 0.042   accuracy: 0.974   
+[TEST] [Epoch: 145   Iter:  200]   recon_A: 0.295   kl: 0.264   classifier: 0.035   accuracy: 0.975   
+Testing time used: 0.032s
+[TEST] [Epoch: 146   Iter:   32]   recon_A: 0.300   kl: 0.084   classifier: 0.124   accuracy: 0.969   
+[TEST] [Epoch: 146   Iter:   64]   recon_A: 0.297   kl: 0.106   classifier: 0.017   accuracy: 0.984   
+[TEST] [Epoch: 146   Iter:   96]   recon_A: 0.298   kl: 0.162   classifier: 0.133   accuracy: 0.979   
+[TEST] [Epoch: 146   Iter:  128]   recon_A: 0.295   kl: 0.104   classifier: 0.052   accuracy: 0.984   
+[TEST] [Epoch: 146   Iter:  160]   recon_A: 0.296   kl: 0.146   classifier: 0.363   accuracy: 0.969   
+[TEST] [Epoch: 146   Iter:  192]   recon_A: 0.298   kl: 0.111   classifier: 0.043   accuracy: 0.974   
+[TEST] [Epoch: 146   Iter:  200]   recon_A: 0.304   kl: 0.317   classifier: 0.038   accuracy: 0.975   
+Testing time used: 0.029s
+[TEST] [Epoch: 147   Iter:   32]   recon_A: 0.303   kl: 0.079   classifier: 0.124   accuracy: 0.969   
+[TEST] [Epoch: 147   Iter:   64]   recon_A: 0.305   kl: 0.100   classifier: 0.015   accuracy: 0.984   
+[TEST] [Epoch: 147   Iter:   96]   recon_A: 0.307   kl: 0.145   classifier: 0.133   accuracy: 0.979   
+[TEST] [Epoch: 147   Iter:  128]   recon_A: 0.301   kl: 0.096   classifier: 0.047   accuracy: 0.984   
+[TEST] [Epoch: 147   Iter:  160]   recon_A: 0.300   kl: 0.143   classifier: 0.358   accuracy: 0.969   
+[TEST] [Epoch: 147   Iter:  192]   recon_A: 0.301   kl: 0.104   classifier: 0.045   accuracy: 0.974   
+[TEST] [Epoch: 147   Iter:  200]   recon_A: 0.305   kl: 0.261   classifier: 0.044   accuracy: 0.975   
+Testing time used: 0.019s
+[TEST] [Epoch: 148   Iter:   32]   recon_A: 0.309   kl: 0.081   classifier: 0.098   accuracy: 0.969   
+[TEST] [Epoch: 148   Iter:   64]   recon_A: 0.312   kl: 0.095   classifier: 0.016   accuracy: 0.984   
+[TEST] [Epoch: 148   Iter:   96]   recon_A: 0.311   kl: 0.144   classifier: 0.132   accuracy: 0.969   
+[TEST] [Epoch: 148   Iter:  128]   recon_A: 0.308   kl: 0.096   classifier: 0.073   accuracy: 0.969   
+[TEST] [Epoch: 148   Iter:  160]   recon_A: 0.309   kl: 0.149   classifier: 0.384   accuracy: 0.956   
+[TEST] [Epoch: 148   Iter:  192]   recon_A: 0.310   kl: 0.107   classifier: 0.049   accuracy: 0.958   
+[TEST] [Epoch: 148   Iter:  200]   recon_A: 0.312   kl: 0.274   classifier: 0.025   accuracy: 0.960   
+Testing time used: 0.019s
+[TEST] [Epoch: 149   Iter:   32]   recon_A: 0.314   kl: 0.083   classifier: 0.099   accuracy: 0.969   
+[TEST] [Epoch: 149   Iter:   64]   recon_A: 0.316   kl: 0.103   classifier: 0.014   accuracy: 0.984   
+[TEST] [Epoch: 149   Iter:   96]   recon_A: 0.319   kl: 0.153   classifier: 0.125   accuracy: 0.979   
+[TEST] [Epoch: 149   Iter:  128]   recon_A: 0.315   kl: 0.104   classifier: 0.072   accuracy: 0.977   
+[TEST] [Epoch: 149   Iter:  160]   recon_A: 0.316   kl: 0.142   classifier: 0.348   accuracy: 0.963   
+[TEST] [Epoch: 149   Iter:  192]   recon_A: 0.322   kl: 0.113   classifier: 0.034   accuracy: 0.969   
+[TEST] [Epoch: 149   Iter:  200]   recon_A: 0.323   kl: 0.273   classifier: 0.028   accuracy: 0.970   
+Testing time used: 0.024s
+[TEST] [Epoch: 150   Iter:   32]   recon_A: 0.324   kl: 0.080   classifier: 0.093   accuracy: 0.969   
+[TEST] [Epoch: 150   Iter:   64]   recon_A: 0.324   kl: 0.102   classifier: 0.014   accuracy: 0.984   
+[TEST] [Epoch: 150   Iter:   96]   recon_A: 0.325   kl: 0.162   classifier: 0.120   accuracy: 0.979   
+[TEST] [Epoch: 150   Iter:  128]   recon_A: 0.323   kl: 0.100   classifier: 0.075   accuracy: 0.977   
+[TEST] [Epoch: 150   Iter:  160]   recon_A: 0.324   kl: 0.139   classifier: 0.341   accuracy: 0.963   
+[TEST] [Epoch: 150   Iter:  192]   recon_A: 0.324   kl: 0.110   classifier: 0.036   accuracy: 0.969   
+[TEST] [Epoch: 150   Iter:  200]   recon_A: 0.325   kl: 0.307   classifier: 0.028   accuracy: 0.970   
+Testing time used: 0.019s
+[TEST] [Epoch: 151   Iter:   32]   recon_A: 0.331   kl: 0.076   classifier: 0.074   accuracy: 0.969   
+[TEST] [Epoch: 151   Iter:   64]   recon_A: 0.328   kl: 0.089   classifier: 0.014   accuracy: 0.984   
+[TEST] [Epoch: 151   Iter:   96]   recon_A: 0.333   kl: 0.153   classifier: 0.122   accuracy: 0.979   
+[TEST] [Epoch: 151   Iter:  128]   recon_A: 0.330   kl: 0.095   classifier: 0.084   accuracy: 0.977   
+[TEST] [Epoch: 151   Iter:  160]   recon_A: 0.332   kl: 0.137   classifier: 0.381   accuracy: 0.963   
+[TEST] [Epoch: 151   Iter:  192]   recon_A: 0.333   kl: 0.105   classifier: 0.040   accuracy: 0.969   
+[TEST] [Epoch: 151   Iter:  200]   recon_A: 0.340   kl: 0.286   classifier: 0.029   accuracy: 0.970   
+Testing time used: 0.023s
+[TEST] [Epoch: 152   Iter:   32]   recon_A: 0.339   kl: 0.081   classifier: 0.101   accuracy: 0.969   
+[TEST] [Epoch: 152   Iter:   64]   recon_A: 0.336   kl: 0.096   classifier: 0.013   accuracy: 0.984   
+[TEST] [Epoch: 152   Iter:   96]   recon_A: 0.340   kl: 0.164   classifier: 0.128   accuracy: 0.979   
+[TEST] [Epoch: 152   Iter:  128]   recon_A: 0.337   kl: 0.101   classifier: 0.054   accuracy: 0.977   
+[TEST] [Epoch: 152   Iter:  160]   recon_A: 0.336   kl: 0.144   classifier: 0.369   accuracy: 0.963   
+[TEST] [Epoch: 152   Iter:  192]   recon_A: 0.336   kl: 0.108   classifier: 0.034   accuracy: 0.969   
+[TEST] [Epoch: 152   Iter:  200]   recon_A: 0.343   kl: 0.308   classifier: 0.022   accuracy: 0.970   
+Testing time used: 0.019s
+[TEST] [Epoch: 153   Iter:   32]   recon_A: 0.345   kl: 0.082   classifier: 0.095   accuracy: 0.969   
+[TEST] [Epoch: 153   Iter:   64]   recon_A: 0.344   kl: 0.098   classifier: 0.013   accuracy: 0.984   
+[TEST] [Epoch: 153   Iter:   96]   recon_A: 0.345   kl: 0.179   classifier: 0.137   accuracy: 0.979   
+[TEST] [Epoch: 153   Iter:  128]   recon_A: 0.343   kl: 0.101   classifier: 0.069   accuracy: 0.977   
+[TEST] [Epoch: 153   Iter:  160]   recon_A: 0.343   kl: 0.146   classifier: 0.401   accuracy: 0.963   
+[TEST] [Epoch: 153   Iter:  192]   recon_A: 0.345   kl: 0.111   classifier: 0.031   accuracy: 0.969   
+[TEST] [Epoch: 153   Iter:  200]   recon_A: 0.344   kl: 0.351   classifier: 0.020   accuracy: 0.970   
+Testing time used: 0.040s
+[TEST] [Epoch: 154   Iter:   32]   recon_A: 0.352   kl: 0.070   classifier: 0.099   accuracy: 0.969   
+[TEST] [Epoch: 154   Iter:   64]   recon_A: 0.353   kl: 0.083   classifier: 0.011   accuracy: 0.984   
+[TEST] [Epoch: 154   Iter:   96]   recon_A: 0.352   kl: 0.149   classifier: 0.124   accuracy: 0.979   
+[TEST] [Epoch: 154   Iter:  128]   recon_A: 0.350   kl: 0.087   classifier: 0.073   accuracy: 0.977   
+[TEST] [Epoch: 154   Iter:  160]   recon_A: 0.351   kl: 0.122   classifier: 0.361   accuracy: 0.963   
+[TEST] [Epoch: 154   Iter:  192]   recon_A: 0.352   kl: 0.096   classifier: 0.035   accuracy: 0.969   
+[TEST] [Epoch: 154   Iter:  200]   recon_A: 0.350   kl: 0.284   classifier: 0.022   accuracy: 0.970   
+Testing time used: 0.083s
+[TEST] [Epoch: 155   Iter:   32]   recon_A: 0.355   kl: 0.082   classifier: 0.096   accuracy: 0.969   
+[TEST] [Epoch: 155   Iter:   64]   recon_A: 0.357   kl: 0.096   classifier: 0.013   accuracy: 0.984   
+[TEST] [Epoch: 155   Iter:   96]   recon_A: 0.358   kl: 0.160   classifier: 0.128   accuracy: 0.979   
+[TEST] [Epoch: 155   Iter:  128]   recon_A: 0.357   kl: 0.101   classifier: 0.075   accuracy: 0.977   
+[TEST] [Epoch: 155   Iter:  160]   recon_A: 0.355   kl: 0.133   classifier: 0.367   accuracy: 0.963   
+[TEST] [Epoch: 155   Iter:  192]   recon_A: 0.356   kl: 0.111   classifier: 0.030   accuracy: 0.969   
+[TEST] [Epoch: 155   Iter:  200]   recon_A: 0.361   kl: 0.292   classifier: 0.023   accuracy: 0.970   
+Testing time used: 0.159s
+[TEST] [Epoch: 156   Iter:   32]   recon_A: 0.362   kl: 0.072   classifier: 0.121   accuracy: 0.969   
+[TEST] [Epoch: 156   Iter:   64]   recon_A: 0.360   kl: 0.088   classifier: 0.010   accuracy: 0.984   
+[TEST] [Epoch: 156   Iter:   96]   recon_A: 0.363   kl: 0.143   classifier: 0.127   accuracy: 0.979   
+[TEST] [Epoch: 156   Iter:  128]   recon_A: 0.359   kl: 0.089   classifier: 0.065   accuracy: 0.977   
+[TEST] [Epoch: 156   Iter:  160]   recon_A: 0.362   kl: 0.124   classifier: 0.357   accuracy: 0.963   
+[TEST] [Epoch: 156   Iter:  192]   recon_A: 0.365   kl: 0.096   classifier: 0.032   accuracy: 0.969   
+[TEST] [Epoch: 156   Iter:  200]   recon_A: 0.370   kl: 0.253   classifier: 0.027   accuracy: 0.970   
+Testing time used: 0.042s
+[TEST] [Epoch: 157   Iter:   32]   recon_A: 0.371   kl: 0.075   classifier: 0.126   accuracy: 0.969   
+[TEST] [Epoch: 157   Iter:   64]   recon_A: 0.368   kl: 0.092   classifier: 0.012   accuracy: 0.984   
+[TEST] [Epoch: 157   Iter:   96]   recon_A: 0.369   kl: 0.151   classifier: 0.124   accuracy: 0.979   
+[TEST] [Epoch: 157   Iter:  128]   recon_A: 0.371   kl: 0.094   classifier: 0.049   accuracy: 0.977   
+[TEST] [Epoch: 157   Iter:  160]   recon_A: 0.368   kl: 0.129   classifier: 0.346   accuracy: 0.963   
+[TEST] [Epoch: 157   Iter:  192]   recon_A: 0.369   kl: 0.099   classifier: 0.034   accuracy: 0.969   
+[TEST] [Epoch: 157   Iter:  200]   recon_A: 0.376   kl: 0.299   classifier: 0.021   accuracy: 0.970   
+Testing time used: 0.046s
+[TEST] [Epoch: 158   Iter:   32]   recon_A: 0.374   kl: 0.073   classifier: 0.117   accuracy: 0.969   
+[TEST] [Epoch: 158   Iter:   64]   recon_A: 0.374   kl: 0.089   classifier: 0.010   accuracy: 0.984   
+[TEST] [Epoch: 158   Iter:   96]   recon_A: 0.374   kl: 0.155   classifier: 0.120   accuracy: 0.979   
+[TEST] [Epoch: 158   Iter:  128]   recon_A: 0.376   kl: 0.091   classifier: 0.049   accuracy: 0.977   
+[TEST] [Epoch: 158   Iter:  160]   recon_A: 0.374   kl: 0.128   classifier: 0.359   accuracy: 0.963   
+[TEST] [Epoch: 158   Iter:  192]   recon_A: 0.373   kl: 0.099   classifier: 0.028   accuracy: 0.969   
+[TEST] [Epoch: 158   Iter:  200]   recon_A: 0.375   kl: 0.303   classifier: 0.020   accuracy: 0.970   
+Testing time used: 0.126s
+[TEST] [Epoch: 159   Iter:   32]   recon_A: 0.382   kl: 0.067   classifier: 0.088   accuracy: 0.969   
+[TEST] [Epoch: 159   Iter:   64]   recon_A: 0.380   kl: 0.082   classifier: 0.010   accuracy: 0.984   
+[TEST] [Epoch: 159   Iter:   96]   recon_A: 0.380   kl: 0.135   classifier: 0.124   accuracy: 0.979   
+[TEST] [Epoch: 159   Iter:  128]   recon_A: 0.379   kl: 0.085   classifier: 0.074   accuracy: 0.977   
+[TEST] [Epoch: 159   Iter:  160]   recon_A: 0.380   kl: 0.128   classifier: 0.392   accuracy: 0.963   
+[TEST] [Epoch: 159   Iter:  192]   recon_A: 0.382   kl: 0.093   classifier: 0.028   accuracy: 0.969   
+[TEST] [Epoch: 159   Iter:  200]   recon_A: 0.382   kl: 0.245   classifier: 0.025   accuracy: 0.970   
+Testing time used: 0.062s
+[TEST] [Epoch: 160   Iter:   32]   recon_A: 0.384   kl: 0.217   classifier: 1.193   accuracy: 0.562   
+[TEST] [Epoch: 160   Iter:   64]   recon_A: 0.380   kl: 0.206   classifier: 0.791   accuracy: 0.625   
+[TEST] [Epoch: 160   Iter:   96]   recon_A: 0.384   kl: 0.311   classifier: 1.413   accuracy: 0.583   
+[TEST] [Epoch: 160   Iter:  128]   recon_A: 0.384   kl: 0.233   classifier: 1.138   accuracy: 0.578   
+[TEST] [Epoch: 160   Iter:  160]   recon_A: 0.383   kl: 0.258   classifier: 1.199   accuracy: 0.594   
+[TEST] [Epoch: 160   Iter:  192]   recon_A: 0.386   kl: 0.233   classifier: 0.811   accuracy: 0.615   
+[TEST] [Epoch: 160   Iter:  200]   recon_A: 0.376   kl: 0.566   classifier: 0.766   accuracy: 0.620   
+Testing time used: 0.088s
+[TEST] [Epoch: 161   Iter:   32]   recon_A: 0.391   kl: 0.081   classifier: 0.128   accuracy: 0.969   
+[TEST] [Epoch: 161   Iter:   64]   recon_A: 0.390   kl: 0.100   classifier: 0.011   accuracy: 0.984   
+[TEST] [Epoch: 161   Iter:   96]   recon_A: 0.392   kl: 0.158   classifier: 0.131   accuracy: 0.979   
+[TEST] [Epoch: 161   Iter:  128]   recon_A: 0.392   kl: 0.095   classifier: 0.074   accuracy: 0.977   
+[TEST] [Epoch: 161   Iter:  160]   recon_A: 0.390   kl: 0.133   classifier: 0.388   accuracy: 0.963   
+[TEST] [Epoch: 161   Iter:  192]   recon_A: 0.391   kl: 0.102   classifier: 0.044   accuracy: 0.969   
+[TEST] [Epoch: 161   Iter:  200]   recon_A: 0.390   kl: 0.319   classifier: 0.021   accuracy: 0.970   
+Testing time used: 0.071s
+[TEST] [Epoch: 162   Iter:   32]   recon_A: 0.396   kl: 0.077   classifier: 0.115   accuracy: 0.969   
+[TEST] [Epoch: 162   Iter:   64]   recon_A: 0.396   kl: 0.093   classifier: 0.010   accuracy: 0.984   
+[TEST] [Epoch: 162   Iter:   96]   recon_A: 0.398   kl: 0.143   classifier: 0.131   accuracy: 0.979   
+[TEST] [Epoch: 162   Iter:  128]   recon_A: 0.396   kl: 0.088   classifier: 0.043   accuracy: 0.977   
+[TEST] [Epoch: 162   Iter:  160]   recon_A: 0.393   kl: 0.133   classifier: 0.394   accuracy: 0.963   
+[TEST] [Epoch: 162   Iter:  192]   recon_A: 0.395   kl: 0.098   classifier: 0.041   accuracy: 0.969   
+[TEST] [Epoch: 162   Iter:  200]   recon_A: 0.399   kl: 0.272   classifier: 0.024   accuracy: 0.970   
+Testing time used: 0.103s
+[TEST] [Epoch: 163   Iter:   32]   recon_A: 0.400   kl: 0.071   classifier: 0.120   accuracy: 0.969   
+[TEST] [Epoch: 163   Iter:   64]   recon_A: 0.399   kl: 0.087   classifier: 0.009   accuracy: 0.984   
+[TEST] [Epoch: 163   Iter:   96]   recon_A: 0.404   kl: 0.141   classifier: 0.132   accuracy: 0.979   
+[TEST] [Epoch: 163   Iter:  128]   recon_A: 0.400   kl: 0.085   classifier: 0.043   accuracy: 0.977   
+[TEST] [Epoch: 163   Iter:  160]   recon_A: 0.401   kl: 0.126   classifier: 0.416   accuracy: 0.963   
+[TEST] [Epoch: 163   Iter:  192]   recon_A: 0.402   kl: 0.093   classifier: 0.033   accuracy: 0.969   
+[TEST] [Epoch: 163   Iter:  200]   recon_A: 0.405   kl: 0.272   classifier: 0.021   accuracy: 0.970   
+Testing time used: 0.043s
+[TEST] [Epoch: 164   Iter:   32]   recon_A: 0.404   kl: 0.074   classifier: 0.113   accuracy: 0.969   
+[TEST] [Epoch: 164   Iter:   64]   recon_A: 0.405   kl: 0.088   classifier: 0.009   accuracy: 0.984   
+[TEST] [Epoch: 164   Iter:   96]   recon_A: 0.405   kl: 0.153   classifier: 0.136   accuracy: 0.979   
+[TEST] [Epoch: 164   Iter:  128]   recon_A: 0.405   kl: 0.088   classifier: 0.039   accuracy: 0.984   
+[TEST] [Epoch: 164   Iter:  160]   recon_A: 0.403   kl: 0.127   classifier: 0.401   accuracy: 0.969   
+[TEST] [Epoch: 164   Iter:  192]   recon_A: 0.405   kl: 0.099   classifier: 0.031   accuracy: 0.974   
+[TEST] [Epoch: 164   Iter:  200]   recon_A: 0.408   kl: 0.297   classifier: 0.021   accuracy: 0.975   
+Testing time used: 0.037s
+[TEST] [Epoch: 165   Iter:   32]   recon_A: 0.412   kl: 0.076   classifier: 0.111   accuracy: 0.969   
+[TEST] [Epoch: 165   Iter:   64]   recon_A: 0.411   kl: 0.088   classifier: 0.010   accuracy: 0.984   
+[TEST] [Epoch: 165   Iter:   96]   recon_A: 0.414   kl: 0.144   classifier: 0.136   accuracy: 0.979   
+[TEST] [Epoch: 165   Iter:  128]   recon_A: 0.414   kl: 0.089   classifier: 0.038   accuracy: 0.984   
+[TEST] [Epoch: 165   Iter:  160]   recon_A: 0.411   kl: 0.128   classifier: 0.403   accuracy: 0.969   
+[TEST] [Epoch: 165   Iter:  192]   recon_A: 0.412   kl: 0.099   classifier: 0.031   accuracy: 0.974   
+[TEST] [Epoch: 165   Iter:  200]   recon_A: 0.416   kl: 0.262   classifier: 0.027   accuracy: 0.975   
+Testing time used: 0.023s
+[TEST] [Epoch: 166   Iter:   32]   recon_A: 0.415   kl: 0.072   classifier: 0.110   accuracy: 0.969   
+[TEST] [Epoch: 166   Iter:   64]   recon_A: 0.416   kl: 0.084   classifier: 0.009   accuracy: 0.984   
+[TEST] [Epoch: 166   Iter:   96]   recon_A: 0.417   kl: 0.158   classifier: 0.135   accuracy: 0.979   
+[TEST] [Epoch: 166   Iter:  128]   recon_A: 0.415   kl: 0.085   classifier: 0.031   accuracy: 0.984   
+[TEST] [Epoch: 166   Iter:  160]   recon_A: 0.416   kl: 0.125   classifier: 0.401   accuracy: 0.969   
+[TEST] [Epoch: 166   Iter:  192]   recon_A: 0.419   kl: 0.095   classifier: 0.030   accuracy: 0.974   
+[TEST] [Epoch: 166   Iter:  200]   recon_A: 0.417   kl: 0.315   classifier: 0.029   accuracy: 0.975   
+Testing time used: 0.021s
+[TEST] [Epoch: 167   Iter:   32]   recon_A: 0.419   kl: 0.076   classifier: 0.123   accuracy: 0.969   
+[TEST] [Epoch: 167   Iter:   64]   recon_A: 0.421   kl: 0.089   classifier: 0.010   accuracy: 0.984   
+[TEST] [Epoch: 167   Iter:   96]   recon_A: 0.425   kl: 0.151   classifier: 0.133   accuracy: 0.979   
+[TEST] [Epoch: 167   Iter:  128]   recon_A: 0.421   kl: 0.088   classifier: 0.035   accuracy: 0.984   
+[TEST] [Epoch: 167   Iter:  160]   recon_A: 0.419   kl: 0.129   classifier: 0.394   accuracy: 0.969   
+[TEST] [Epoch: 167   Iter:  192]   recon_A: 0.420   kl: 0.098   classifier: 0.033   accuracy: 0.974   
+[TEST] [Epoch: 167   Iter:  200]   recon_A: 0.431   kl: 0.286   classifier: 0.026   accuracy: 0.975   
+Testing time used: 0.066s
+[TEST] [Epoch: 168   Iter:   32]   recon_A: 0.425   kl: 0.067   classifier: 0.159   accuracy: 0.969   
+[TEST] [Epoch: 168   Iter:   64]   recon_A: 0.427   kl: 0.076   classifier: 0.010   accuracy: 0.984   
+[TEST] [Epoch: 168   Iter:   96]   recon_A: 0.426   kl: 0.122   classifier: 0.209   accuracy: 0.969   
+[TEST] [Epoch: 168   Iter:  128]   recon_A: 0.426   kl: 0.073   classifier: 0.039   accuracy: 0.977   
+[TEST] [Epoch: 168   Iter:  160]   recon_A: 0.421   kl: 0.106   classifier: 0.335   accuracy: 0.969   
+[TEST] [Epoch: 168   Iter:  192]   recon_A: 0.424   kl: 0.083   classifier: 0.104   accuracy: 0.969   
+[TEST] [Epoch: 168   Iter:  200]   recon_A: 0.433   kl: 0.227   classifier: 0.023   accuracy: 0.970   
+Testing time used: 0.038s
+[TEST] [Epoch: 169   Iter:   32]   recon_A: 0.426   kl: 0.075   classifier: 0.109   accuracy: 0.969   
+[TEST] [Epoch: 169   Iter:   64]   recon_A: 0.428   kl: 0.093   classifier: 0.010   accuracy: 0.984   
+[TEST] [Epoch: 169   Iter:   96]   recon_A: 0.426   kl: 0.156   classifier: 0.154   accuracy: 0.979   
+[TEST] [Epoch: 169   Iter:  128]   recon_A: 0.427   kl: 0.090   classifier: 0.171   accuracy: 0.977   
+[TEST] [Epoch: 169   Iter:  160]   recon_A: 0.427   kl: 0.128   classifier: 0.407   accuracy: 0.963   
+[TEST] [Epoch: 169   Iter:  192]   recon_A: 0.430   kl: 0.103   classifier: 0.026   accuracy: 0.969   
+[TEST] [Epoch: 169   Iter:  200]   recon_A: 0.432   kl: 0.296   classifier: 0.042   accuracy: 0.970   
+Testing time used: 0.033s
+[TEST] [Epoch: 170   Iter:   32]   recon_A: 0.432   kl: 0.086   classifier: 0.081   accuracy: 0.969   
+[TEST] [Epoch: 170   Iter:   64]   recon_A: 0.430   kl: 0.110   classifier: 0.031   accuracy: 0.984   
+[TEST] [Epoch: 170   Iter:   96]   recon_A: 0.434   kl: 0.187   classifier: 0.207   accuracy: 0.979   
+[TEST] [Epoch: 170   Iter:  128]   recon_A: 0.435   kl: 0.115   classifier: 0.059   accuracy: 0.984   
+[TEST] [Epoch: 170   Iter:  160]   recon_A: 0.429   kl: 0.154   classifier: 0.496   accuracy: 0.963   
+[TEST] [Epoch: 170   Iter:  192]   recon_A: 0.431   kl: 0.120   classifier: 0.021   accuracy: 0.969   
+[TEST] [Epoch: 170   Iter:  200]   recon_A: 0.426   kl: 0.355   classifier: 0.131   accuracy: 0.970   
+Testing time used: 0.019s
+[TEST] [Epoch: 171   Iter:   32]   recon_A: 0.435   kl: 0.071   classifier: 0.103   accuracy: 0.969   
+[TEST] [Epoch: 171   Iter:   64]   recon_A: 0.436   kl: 0.088   classifier: 0.008   accuracy: 0.984   
+[TEST] [Epoch: 171   Iter:   96]   recon_A: 0.436   kl: 0.145   classifier: 0.135   accuracy: 0.979   
+[TEST] [Epoch: 171   Iter:  128]   recon_A: 0.439   kl: 0.084   classifier: 0.058   accuracy: 0.977   
+[TEST] [Epoch: 171   Iter:  160]   recon_A: 0.435   kl: 0.128   classifier: 0.426   accuracy: 0.963   
+[TEST] [Epoch: 171   Iter:  192]   recon_A: 0.439   kl: 0.095   classifier: 0.029   accuracy: 0.969   
+[TEST] [Epoch: 171   Iter:  200]   recon_A: 0.438   kl: 0.291   classifier: 0.020   accuracy: 0.970   
+Testing time used: 0.043s
+[TEST] [Epoch: 172   Iter:   32]   recon_A: 0.440   kl: 0.068   classifier: 0.119   accuracy: 0.969   
+[TEST] [Epoch: 172   Iter:   64]   recon_A: 0.440   kl: 0.085   classifier: 0.008   accuracy: 0.984   
+[TEST] [Epoch: 172   Iter:   96]   recon_A: 0.438   kl: 0.137   classifier: 0.127   accuracy: 0.979   
+[TEST] [Epoch: 172   Iter:  128]   recon_A: 0.442   kl: 0.081   classifier: 0.051   accuracy: 0.977   
+[TEST] [Epoch: 172   Iter:  160]   recon_A: 0.438   kl: 0.118   classifier: 0.395   accuracy: 0.963   
+[TEST] [Epoch: 172   Iter:  192]   recon_A: 0.439   kl: 0.091   classifier: 0.033   accuracy: 0.969   
+[TEST] [Epoch: 172   Iter:  200]   recon_A: 0.443   kl: 0.273   classifier: 0.019   accuracy: 0.970   
+Testing time used: 0.050s
+[TEST] [Epoch: 173   Iter:   32]   recon_A: 0.440   kl: 0.069   classifier: 0.120   accuracy: 0.969   
+[TEST] [Epoch: 173   Iter:   64]   recon_A: 0.446   kl: 0.086   classifier: 0.009   accuracy: 0.984   
+[TEST] [Epoch: 173   Iter:   96]   recon_A: 0.445   kl: 0.138   classifier: 0.128   accuracy: 0.979   
+[TEST] [Epoch: 173   Iter:  128]   recon_A: 0.445   kl: 0.085   classifier: 0.024   accuracy: 0.984   
+[TEST] [Epoch: 173   Iter:  160]   recon_A: 0.442   kl: 0.124   classifier: 0.397   accuracy: 0.969   
+[TEST] [Epoch: 173   Iter:  192]   recon_A: 0.442   kl: 0.095   classifier: 0.027   accuracy: 0.974   
+[TEST] [Epoch: 173   Iter:  200]   recon_A: 0.446   kl: 0.271   classifier: 0.022   accuracy: 0.975   
+Testing time used: 0.027s
+[TEST] [Epoch: 174   Iter:   32]   recon_A: 0.447   kl: 0.065   classifier: 0.112   accuracy: 0.969   
+[TEST] [Epoch: 174   Iter:   64]   recon_A: 0.446   kl: 0.082   classifier: 0.008   accuracy: 0.984   
+[TEST] [Epoch: 174   Iter:   96]   recon_A: 0.448   kl: 0.144   classifier: 0.124   accuracy: 0.979   
+[TEST] [Epoch: 174   Iter:  128]   recon_A: 0.446   kl: 0.082   classifier: 0.026   accuracy: 0.984   
+[TEST] [Epoch: 174   Iter:  160]   recon_A: 0.446   kl: 0.120   classifier: 0.403   accuracy: 0.969   
+[TEST] [Epoch: 174   Iter:  192]   recon_A: 0.447   kl: 0.091   classifier: 0.026   accuracy: 0.974   
+[TEST] [Epoch: 174   Iter:  200]   recon_A: 0.448   kl: 0.293   classifier: 0.021   accuracy: 0.975   
+Testing time used: 0.042s
+[TEST] [Epoch: 175   Iter:   32]   recon_A: 0.451   kl: 0.072   classifier: 0.098   accuracy: 0.969   
+[TEST] [Epoch: 175   Iter:   64]   recon_A: 0.449   kl: 0.087   classifier: 0.010   accuracy: 0.984   
+[TEST] [Epoch: 175   Iter:   96]   recon_A: 0.452   kl: 0.167   classifier: 0.133   accuracy: 0.979   
+[TEST] [Epoch: 175   Iter:  128]   recon_A: 0.451   kl: 0.089   classifier: 0.035   accuracy: 0.984   
+[TEST] [Epoch: 175   Iter:  160]   recon_A: 0.448   kl: 0.131   classifier: 0.428   accuracy: 0.969   
+[TEST] [Epoch: 175   Iter:  192]   recon_A: 0.450   kl: 0.100   classifier: 0.023   accuracy: 0.974   
+[TEST] [Epoch: 175   Iter:  200]   recon_A: 0.450   kl: 0.353   classifier: 0.028   accuracy: 0.975   
+Testing time used: 0.020s
+[TEST] [Epoch: 176   Iter:   32]   recon_A: 0.452   kl: 0.068   classifier: 0.107   accuracy: 0.969   
+[TEST] [Epoch: 176   Iter:   64]   recon_A: 0.454   kl: 0.084   classifier: 0.009   accuracy: 0.984   
+[TEST] [Epoch: 176   Iter:   96]   recon_A: 0.455   kl: 0.142   classifier: 0.135   accuracy: 0.979   
+[TEST] [Epoch: 176   Iter:  128]   recon_A: 0.453   kl: 0.086   classifier: 0.033   accuracy: 0.984   
+[TEST] [Epoch: 176   Iter:  160]   recon_A: 0.450   kl: 0.126   classifier: 0.416   accuracy: 0.969   
+[TEST] [Epoch: 176   Iter:  192]   recon_A: 0.453   kl: 0.094   classifier: 0.022   accuracy: 0.974   
+[TEST] [Epoch: 176   Iter:  200]   recon_A: 0.460   kl: 0.274   classifier: 0.024   accuracy: 0.975   
+Testing time used: 0.022s
+[TEST] [Epoch: 177   Iter:   32]   recon_A: 0.456   kl: 0.065   classifier: 0.122   accuracy: 0.969   
+[TEST] [Epoch: 177   Iter:   64]   recon_A: 0.457   kl: 0.081   classifier: 0.008   accuracy: 0.984   
+[TEST] [Epoch: 177   Iter:   96]   recon_A: 0.456   kl: 0.132   classifier: 0.125   accuracy: 0.979   
+[TEST] [Epoch: 177   Iter:  128]   recon_A: 0.457   kl: 0.080   classifier: 0.036   accuracy: 0.984   
+[TEST] [Epoch: 177   Iter:  160]   recon_A: 0.456   kl: 0.116   classifier: 0.403   accuracy: 0.969   
+[TEST] [Epoch: 177   Iter:  192]   recon_A: 0.457   kl: 0.088   classifier: 0.028   accuracy: 0.974   
+[TEST] [Epoch: 177   Iter:  200]   recon_A: 0.457   kl: 0.255   classifier: 0.022   accuracy: 0.975   
+Testing time used: 0.028s
+[TEST] [Epoch: 178   Iter:   32]   recon_A: 0.456   kl: 0.067   classifier: 0.121   accuracy: 0.969   
+[TEST] [Epoch: 178   Iter:   64]   recon_A: 0.459   kl: 0.085   classifier: 0.008   accuracy: 0.984   
+[TEST] [Epoch: 178   Iter:   96]   recon_A: 0.460   kl: 0.147   classifier: 0.130   accuracy: 0.979   
+[TEST] [Epoch: 178   Iter:  128]   recon_A: 0.460   kl: 0.082   classifier: 0.031   accuracy: 0.984   
+[TEST] [Epoch: 178   Iter:  160]   recon_A: 0.455   kl: 0.120   classifier: 0.405   accuracy: 0.969   
+[TEST] [Epoch: 178   Iter:  192]   recon_A: 0.458   kl: 0.090   classifier: 0.027   accuracy: 0.974   
+[TEST] [Epoch: 178   Iter:  200]   recon_A: 0.456   kl: 0.295   classifier: 0.020   accuracy: 0.975   
+Testing time used: 0.019s
+[TEST] [Epoch: 179   Iter:   32]   recon_A: 0.462   kl: 0.062   classifier: 0.126   accuracy: 0.969   
+[TEST] [Epoch: 179   Iter:   64]   recon_A: 0.458   kl: 0.077   classifier: 0.007   accuracy: 0.984   
+[TEST] [Epoch: 179   Iter:   96]   recon_A: 0.466   kl: 0.131   classifier: 0.130   accuracy: 0.979   
+[TEST] [Epoch: 179   Iter:  128]   recon_A: 0.463   kl: 0.075   classifier: 0.030   accuracy: 0.984   
+[TEST] [Epoch: 179   Iter:  160]   recon_A: 0.461   kl: 0.112   classifier: 0.390   accuracy: 0.969   
+[TEST] [Epoch: 179   Iter:  192]   recon_A: 0.462   kl: 0.083   classifier: 0.030   accuracy: 0.974   
+[TEST] [Epoch: 179   Iter:  200]   recon_A: 0.468   kl: 0.252   classifier: 0.021   accuracy: 0.975   
+Testing time used: 0.022s
+[TEST] [Epoch: 180   Iter:   32]   recon_A: 0.464   kl: 0.065   classifier: 0.113   accuracy: 0.969   
+[TEST] [Epoch: 180   Iter:   64]   recon_A: 0.461   kl: 0.081   classifier: 0.007   accuracy: 0.984   
+[TEST] [Epoch: 180   Iter:   96]   recon_A: 0.463   kl: 0.135   classifier: 0.139   accuracy: 0.979   
+[TEST] [Epoch: 180   Iter:  128]   recon_A: 0.465   kl: 0.080   classifier: 0.029   accuracy: 0.984   
+[TEST] [Epoch: 180   Iter:  160]   recon_A: 0.460   kl: 0.118   classifier: 0.410   accuracy: 0.969   
+[TEST] [Epoch: 180   Iter:  192]   recon_A: 0.463   kl: 0.088   classifier: 0.024   accuracy: 0.974   
+[TEST] [Epoch: 180   Iter:  200]   recon_A: 0.468   kl: 0.248   classifier: 0.022   accuracy: 0.975   
+Testing time used: 0.018s
+[TEST] [Epoch: 181   Iter:   32]   recon_A: 0.466   kl: 0.069   classifier: 0.115   accuracy: 0.969   
+[TEST] [Epoch: 181   Iter:   64]   recon_A: 0.466   kl: 0.084   classifier: 0.008   accuracy: 0.984   
+[TEST] [Epoch: 181   Iter:   96]   recon_A: 0.468   kl: 0.146   classifier: 0.129   accuracy: 0.979   
+[TEST] [Epoch: 181   Iter:  128]   recon_A: 0.467   kl: 0.084   classifier: 0.027   accuracy: 0.984   
+[TEST] [Epoch: 181   Iter:  160]   recon_A: 0.465   kl: 0.122   classifier: 0.418   accuracy: 0.969   
+[TEST] [Epoch: 181   Iter:  192]   recon_A: 0.468   kl: 0.093   classifier: 0.025   accuracy: 0.974   
+[TEST] [Epoch: 181   Iter:  200]   recon_A: 0.471   kl: 0.291   classifier: 0.022   accuracy: 0.975   
+Testing time used: 0.023s
+[TEST] [Epoch: 182   Iter:   32]   recon_A: 0.469   kl: 0.066   classifier: 0.118   accuracy: 0.969   
+[TEST] [Epoch: 182   Iter:   64]   recon_A: 0.468   kl: 0.082   classifier: 0.008   accuracy: 0.984   
+[TEST] [Epoch: 182   Iter:   96]   recon_A: 0.471   kl: 0.149   classifier: 0.139   accuracy: 0.979   
+[TEST] [Epoch: 182   Iter:  128]   recon_A: 0.470   kl: 0.082   classifier: 0.030   accuracy: 0.984   
+[TEST] [Epoch: 182   Iter:  160]   recon_A: 0.468   kl: 0.118   classifier: 0.406   accuracy: 0.969   
+[TEST] [Epoch: 182   Iter:  192]   recon_A: 0.470   kl: 0.089   classifier: 0.025   accuracy: 0.974   
+[TEST] [Epoch: 182   Iter:  200]   recon_A: 0.471   kl: 0.292   classifier: 0.025   accuracy: 0.975   
+Testing time used: 0.058s
+[TEST] [Epoch: 183   Iter:   32]   recon_A: 0.472   kl: 0.066   classifier: 0.109   accuracy: 0.969   
+[TEST] [Epoch: 183   Iter:   64]   recon_A: 0.469   kl: 0.081   classifier: 0.007   accuracy: 0.984   
+[TEST] [Epoch: 183   Iter:   96]   recon_A: 0.472   kl: 0.147   classifier: 0.133   accuracy: 0.979   
+[TEST] [Epoch: 183   Iter:  128]   recon_A: 0.468   kl: 0.080   classifier: 0.038   accuracy: 0.984   
+[TEST] [Epoch: 183   Iter:  160]   recon_A: 0.468   kl: 0.116   classifier: 0.410   accuracy: 0.969   
+[TEST] [Epoch: 183   Iter:  192]   recon_A: 0.469   kl: 0.089   classifier: 0.026   accuracy: 0.974   
+[TEST] [Epoch: 183   Iter:  200]   recon_A: 0.474   kl: 0.297   classifier: 0.024   accuracy: 0.975   
+Testing time used: 0.066s
+[TEST] [Epoch: 184   Iter:   32]   recon_A: 0.472   kl: 0.068   classifier: 0.105   accuracy: 0.969   
+[TEST] [Epoch: 184   Iter:   64]   recon_A: 0.473   kl: 0.085   classifier: 0.008   accuracy: 0.984   
+[TEST] [Epoch: 184   Iter:   96]   recon_A: 0.475   kl: 0.150   classifier: 0.133   accuracy: 0.979   
+[TEST] [Epoch: 184   Iter:  128]   recon_A: 0.476   kl: 0.084   classifier: 0.040   accuracy: 0.984   
+[TEST] [Epoch: 184   Iter:  160]   recon_A: 0.472   kl: 0.121   classifier: 0.417   accuracy: 0.969   
+[TEST] [Epoch: 184   Iter:  192]   recon_A: 0.471   kl: 0.091   classifier: 0.022   accuracy: 0.974   
+[TEST] [Epoch: 184   Iter:  200]   recon_A: 0.471   kl: 0.302   classifier: 0.023   accuracy: 0.975   
+Testing time used: 0.022s
+[TEST] [Epoch: 185   Iter:   32]   recon_A: 0.477   kl: 0.067   classifier: 0.100   accuracy: 0.969   
+[TEST] [Epoch: 185   Iter:   64]   recon_A: 0.478   kl: 0.082   classifier: 0.008   accuracy: 0.984   
+[TEST] [Epoch: 185   Iter:   96]   recon_A: 0.476   kl: 0.144   classifier: 0.128   accuracy: 0.979   
+[TEST] [Epoch: 185   Iter:  128]   recon_A: 0.477   kl: 0.081   classifier: 0.043   accuracy: 0.984   
+[TEST] [Epoch: 185   Iter:  160]   recon_A: 0.474   kl: 0.119   classifier: 0.411   accuracy: 0.969   
+[TEST] [Epoch: 185   Iter:  192]   recon_A: 0.477   kl: 0.090   classifier: 0.024   accuracy: 0.974   
+[TEST] [Epoch: 185   Iter:  200]   recon_A: 0.477   kl: 0.288   classifier: 0.022   accuracy: 0.975   
+Testing time used: 0.047s
+[TEST] [Epoch: 186   Iter:   32]   recon_A: 0.476   kl: 0.066   classifier: 0.083   accuracy: 0.969   
+[TEST] [Epoch: 186   Iter:   64]   recon_A: 0.474   kl: 0.081   classifier: 0.008   accuracy: 0.984   
+[TEST] [Epoch: 186   Iter:   96]   recon_A: 0.478   kl: 0.140   classifier: 0.133   accuracy: 0.979   
+[TEST] [Epoch: 186   Iter:  128]   recon_A: 0.478   kl: 0.082   classifier: 0.049   accuracy: 0.977   
+[TEST] [Epoch: 186   Iter:  160]   recon_A: 0.474   kl: 0.117   classifier: 0.425   accuracy: 0.963   
+[TEST] [Epoch: 186   Iter:  192]   recon_A: 0.476   kl: 0.090   classifier: 0.022   accuracy: 0.969   
+[TEST] [Epoch: 186   Iter:  200]   recon_A: 0.473   kl: 0.272   classifier: 0.027   accuracy: 0.970   
+Testing time used: 0.027s
+[TEST] [Epoch: 187   Iter:   32]   recon_A: 0.476   kl: 0.067   classifier: 0.089   accuracy: 0.969   
+[TEST] [Epoch: 187   Iter:   64]   recon_A: 0.478   kl: 0.081   classifier: 0.008   accuracy: 0.984   
+[TEST] [Epoch: 187   Iter:   96]   recon_A: 0.479   kl: 0.139   classifier: 0.134   accuracy: 0.979   
+[TEST] [Epoch: 187   Iter:  128]   recon_A: 0.481   kl: 0.081   classifier: 0.046   accuracy: 0.977   
+[TEST] [Epoch: 187   Iter:  160]   recon_A: 0.474   kl: 0.119   classifier: 0.427   accuracy: 0.963   
+[TEST] [Epoch: 187   Iter:  192]   recon_A: 0.477   kl: 0.089   classifier: 0.022   accuracy: 0.969   
+[TEST] [Epoch: 187   Iter:  200]   recon_A: 0.472   kl: 0.271   classifier: 0.022   accuracy: 0.970   
+Testing time used: 0.020s
+[TEST] [Epoch: 188   Iter:   32]   recon_A: 0.480   kl: 0.065   classifier: 0.093   accuracy: 0.969   
+[TEST] [Epoch: 188   Iter:   64]   recon_A: 0.476   kl: 0.079   classifier: 0.008   accuracy: 0.984   
+[TEST] [Epoch: 188   Iter:   96]   recon_A: 0.482   kl: 0.135   classifier: 0.137   accuracy: 0.979   
+[TEST] [Epoch: 188   Iter:  128]   recon_A: 0.481   kl: 0.080   classifier: 0.043   accuracy: 0.984   
+[TEST] [Epoch: 188   Iter:  160]   recon_A: 0.476   kl: 0.114   classifier: 0.416   accuracy: 0.969   
+[TEST] [Epoch: 188   Iter:  192]   recon_A: 0.480   kl: 0.087   classifier: 0.024   accuracy: 0.974   
+[TEST] [Epoch: 188   Iter:  200]   recon_A: 0.486   kl: 0.256   classifier: 0.027   accuracy: 0.975   
+Testing time used: 0.021s
+[TEST] [Epoch: 189   Iter:   32]   recon_A: 0.481   kl: 0.068   classifier: 0.099   accuracy: 0.969   
+[TEST] [Epoch: 189   Iter:   64]   recon_A: 0.481   kl: 0.082   classifier: 0.007   accuracy: 0.984   
+[TEST] [Epoch: 189   Iter:   96]   recon_A: 0.483   kl: 0.148   classifier: 0.136   accuracy: 0.979   
+[TEST] [Epoch: 189   Iter:  128]   recon_A: 0.481   kl: 0.081   classifier: 0.034   accuracy: 0.984   
+[TEST] [Epoch: 189   Iter:  160]   recon_A: 0.480   kl: 0.119   classifier: 0.417   accuracy: 0.969   
+[TEST] [Epoch: 189   Iter:  192]   recon_A: 0.483   kl: 0.089   classifier: 0.023   accuracy: 0.974   
+[TEST] [Epoch: 189   Iter:  200]   recon_A: 0.486   kl: 0.293   classifier: 0.021   accuracy: 0.975   
+Testing time used: 0.018s
+[TEST] [Epoch: 190   Iter:   32]   recon_A: 0.482   kl: 0.069   classifier: 0.091   accuracy: 0.969   
+[TEST] [Epoch: 190   Iter:   64]   recon_A: 0.482   kl: 0.086   classifier: 0.008   accuracy: 0.984   
+[TEST] [Epoch: 190   Iter:   96]   recon_A: 0.484   kl: 0.148   classifier: 0.148   accuracy: 0.979   
+[TEST] [Epoch: 190   Iter:  128]   recon_A: 0.482   kl: 0.085   classifier: 0.040   accuracy: 0.984   
+[TEST] [Epoch: 190   Iter:  160]   recon_A: 0.481   kl: 0.124   classifier: 0.428   accuracy: 0.969   
+[TEST] [Epoch: 190   Iter:  192]   recon_A: 0.483   kl: 0.094   classifier: 0.019   accuracy: 0.974   
+[TEST] [Epoch: 190   Iter:  200]   recon_A: 0.485   kl: 0.281   classifier: 0.024   accuracy: 0.975   
+Testing time used: 0.028s
+[TEST] [Epoch: 191   Iter:   32]   recon_A: 0.484   kl: 0.066   classifier: 0.098   accuracy: 0.969   
+[TEST] [Epoch: 191   Iter:   64]   recon_A: 0.482   kl: 0.082   classifier: 0.007   accuracy: 0.984   
+[TEST] [Epoch: 191   Iter:   96]   recon_A: 0.486   kl: 0.142   classifier: 0.138   accuracy: 0.979   
+[TEST] [Epoch: 191   Iter:  128]   recon_A: 0.486   kl: 0.081   classifier: 0.036   accuracy: 0.984   
+[TEST] [Epoch: 191   Iter:  160]   recon_A: 0.482   kl: 0.115   classifier: 0.411   accuracy: 0.969   
+[TEST] [Epoch: 191   Iter:  192]   recon_A: 0.482   kl: 0.088   classifier: 0.022   accuracy: 0.974   
+[TEST] [Epoch: 191   Iter:  200]   recon_A: 0.483   kl: 0.272   classifier: 0.023   accuracy: 0.975   
+Testing time used: 0.019s
+[TEST] [Epoch: 192   Iter:   32]   recon_A: 0.483   kl: 0.067   classifier: 0.097   accuracy: 0.969   
+[TEST] [Epoch: 192   Iter:   64]   recon_A: 0.486   kl: 0.081   classifier: 0.007   accuracy: 0.984   
+[TEST] [Epoch: 192   Iter:   96]   recon_A: 0.484   kl: 0.143   classifier: 0.138   accuracy: 0.979   
+[TEST] [Epoch: 192   Iter:  128]   recon_A: 0.486   kl: 0.080   classifier: 0.036   accuracy: 0.984   
+[TEST] [Epoch: 192   Iter:  160]   recon_A: 0.484   kl: 0.113   classifier: 0.402   accuracy: 0.969   
+[TEST] [Epoch: 192   Iter:  192]   recon_A: 0.486   kl: 0.088   classifier: 0.023   accuracy: 0.974   
+[TEST] [Epoch: 192   Iter:  200]   recon_A: 0.489   kl: 0.277   classifier: 0.021   accuracy: 0.975   
+Testing time used: 0.021s
+[TEST] [Epoch: 193   Iter:   32]   recon_A: 0.485   kl: 0.063   classifier: 0.101   accuracy: 0.969   
+[TEST] [Epoch: 193   Iter:   64]   recon_A: 0.485   kl: 0.077   classifier: 0.007   accuracy: 0.984   
+[TEST] [Epoch: 193   Iter:   96]   recon_A: 0.488   kl: 0.127   classifier: 0.134   accuracy: 0.979   
+[TEST] [Epoch: 193   Iter:  128]   recon_A: 0.483   kl: 0.076   classifier: 0.038   accuracy: 0.984   
+[TEST] [Epoch: 193   Iter:  160]   recon_A: 0.486   kl: 0.107   classifier: 0.398   accuracy: 0.969   
+[TEST] [Epoch: 193   Iter:  192]   recon_A: 0.483   kl: 0.083   classifier: 0.027   accuracy: 0.974   
+[TEST] [Epoch: 193   Iter:  200]   recon_A: 0.488   kl: 0.241   classifier: 0.020   accuracy: 0.975   
+Testing time used: 0.021s
+[TEST] [Epoch: 194   Iter:   32]   recon_A: 0.486   kl: 0.064   classifier: 0.108   accuracy: 0.969   
+[TEST] [Epoch: 194   Iter:   64]   recon_A: 0.487   kl: 0.078   classifier: 0.006   accuracy: 0.984   
+[TEST] [Epoch: 194   Iter:   96]   recon_A: 0.488   kl: 0.124   classifier: 0.133   accuracy: 0.979   
+[TEST] [Epoch: 194   Iter:  128]   recon_A: 0.487   kl: 0.076   classifier: 0.033   accuracy: 0.984   
+[TEST] [Epoch: 194   Iter:  160]   recon_A: 0.486   kl: 0.107   classifier: 0.404   accuracy: 0.969   
+[TEST] [Epoch: 194   Iter:  192]   recon_A: 0.485   kl: 0.083   classifier: 0.026   accuracy: 0.974   
+[TEST] [Epoch: 194   Iter:  200]   recon_A: 0.487   kl: 0.232   classifier: 0.018   accuracy: 0.975   
+Testing time used: 0.024s
+[TEST] [Epoch: 195   Iter:   32]   recon_A: 0.487   kl: 0.069   classifier: 0.095   accuracy: 0.969   
+[TEST] [Epoch: 195   Iter:   64]   recon_A: 0.489   kl: 0.084   classifier: 0.008   accuracy: 0.984   
+[TEST] [Epoch: 195   Iter:   96]   recon_A: 0.490   kl: 0.143   classifier: 0.147   accuracy: 0.979   
+[TEST] [Epoch: 195   Iter:  128]   recon_A: 0.487   kl: 0.084   classifier: 0.038   accuracy: 0.984   
+[TEST] [Epoch: 195   Iter:  160]   recon_A: 0.487   kl: 0.120   classifier: 0.428   accuracy: 0.969   
+[TEST] [Epoch: 195   Iter:  192]   recon_A: 0.488   kl: 0.091   classifier: 0.019   accuracy: 0.974   
+[TEST] [Epoch: 195   Iter:  200]   recon_A: 0.487   kl: 0.271   classifier: 0.024   accuracy: 0.975   
+Testing time used: 0.021s
+[TEST] [Epoch: 196   Iter:   32]   recon_A: 0.487   kl: 0.066   classifier: 0.094   accuracy: 0.969   
+[TEST] [Epoch: 196   Iter:   64]   recon_A: 0.491   kl: 0.081   classifier: 0.007   accuracy: 0.984   
+[TEST] [Epoch: 196   Iter:   96]   recon_A: 0.490   kl: 0.136   classifier: 0.140   accuracy: 0.979   
+[TEST] [Epoch: 196   Iter:  128]   recon_A: 0.487   kl: 0.081   classifier: 0.039   accuracy: 0.984   
+[TEST] [Epoch: 196   Iter:  160]   recon_A: 0.487   kl: 0.115   classifier: 0.420   accuracy: 0.969   
+[TEST] [Epoch: 196   Iter:  192]   recon_A: 0.488   kl: 0.087   classifier: 0.022   accuracy: 0.974   
+[TEST] [Epoch: 196   Iter:  200]   recon_A: 0.490   kl: 0.258   classifier: 0.024   accuracy: 0.975   
+Testing time used: 0.020s
+[TEST] [Epoch: 197   Iter:   32]   recon_A: 0.488   kl: 0.066   classifier: 0.100   accuracy: 0.969   
+[TEST] [Epoch: 197   Iter:   64]   recon_A: 0.490   kl: 0.081   classifier: 0.007   accuracy: 0.984   
+[TEST] [Epoch: 197   Iter:   96]   recon_A: 0.490   kl: 0.135   classifier: 0.143   accuracy: 0.979   
+[TEST] [Epoch: 197   Iter:  128]   recon_A: 0.489   kl: 0.081   classifier: 0.034   accuracy: 0.984   
+[TEST] [Epoch: 197   Iter:  160]   recon_A: 0.487   kl: 0.115   classifier: 0.423   accuracy: 0.969   
+[TEST] [Epoch: 197   Iter:  192]   recon_A: 0.486   kl: 0.087   classifier: 0.021   accuracy: 0.974   
+[TEST] [Epoch: 197   Iter:  200]   recon_A: 0.494   kl: 0.254   classifier: 0.024   accuracy: 0.975   
+Testing time used: 0.019s
+[TEST] [Epoch: 198   Iter:   32]   recon_A: 0.492   kl: 0.065   classifier: 0.101   accuracy: 0.969   
+[TEST] [Epoch: 198   Iter:   64]   recon_A: 0.487   kl: 0.080   classifier: 0.006   accuracy: 0.984   
+[TEST] [Epoch: 198   Iter:   96]   recon_A: 0.490   kl: 0.134   classifier: 0.138   accuracy: 0.979   
+[TEST] [Epoch: 198   Iter:  128]   recon_A: 0.489   kl: 0.079   classifier: 0.036   accuracy: 0.984   
+[TEST] [Epoch: 198   Iter:  160]   recon_A: 0.488   kl: 0.114   classifier: 0.419   accuracy: 0.969   
+[TEST] [Epoch: 198   Iter:  192]   recon_A: 0.489   kl: 0.086   classifier: 0.022   accuracy: 0.974   
+[TEST] [Epoch: 198   Iter:  200]   recon_A: 0.493   kl: 0.256   classifier: 0.021   accuracy: 0.975   
+Testing time used: 0.020s
+[TEST] [Epoch: 199   Iter:   32]   recon_A: 0.490   kl: 0.065   classifier: 0.092   accuracy: 0.969   
+[TEST] [Epoch: 199   Iter:   64]   recon_A: 0.489   kl: 0.079   classifier: 0.007   accuracy: 0.984   
+[TEST] [Epoch: 199   Iter:   96]   recon_A: 0.489   kl: 0.132   classifier: 0.136   accuracy: 0.979   
+[TEST] [Epoch: 199   Iter:  128]   recon_A: 0.489   kl: 0.078   classifier: 0.043   accuracy: 0.984   
+[TEST] [Epoch: 199   Iter:  160]   recon_A: 0.486   kl: 0.113   classifier: 0.421   accuracy: 0.969   
+[TEST] [Epoch: 199   Iter:  192]   recon_A: 0.490   kl: 0.086   classifier: 0.022   accuracy: 0.974   
+[TEST] [Epoch: 199   Iter:  200]   recon_A: 0.493   kl: 0.252   classifier: 0.025   accuracy: 0.975   
+Testing time used: 0.060s
+[TEST] [Epoch: 200   Iter:   32]   recon_A: 0.490   kl: 0.065   classifier: 0.096   accuracy: 0.969   
+[TEST] [Epoch: 200   Iter:   64]   recon_A: 0.490   kl: 0.079   classifier: 0.007   accuracy: 0.984   
+[TEST] [Epoch: 200   Iter:   96]   recon_A: 0.489   kl: 0.134   classifier: 0.137   accuracy: 0.979   
+[TEST] [Epoch: 200   Iter:  128]   recon_A: 0.491   kl: 0.078   classifier: 0.040   accuracy: 0.984   
+[TEST] [Epoch: 200   Iter:  160]   recon_A: 0.491   kl: 0.112   classifier: 0.423   accuracy: 0.969   
+[TEST] [Epoch: 200   Iter:  192]   recon_A: 0.489   kl: 0.085   classifier: 0.022   accuracy: 0.974   
+[TEST] [Epoch: 200   Iter:  200]   recon_A: 0.497   kl: 0.256   classifier: 0.024   accuracy: 0.975   
+Testing time used: 0.021s
