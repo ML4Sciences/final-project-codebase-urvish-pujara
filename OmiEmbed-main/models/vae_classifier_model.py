@@ -91,3 +91,27 @@ class VaeClassifierModel(VaeBasicModel):
         Calculate current metrics
         """
         self.metric_accuracy = (output_dict['y_true'] == output_dict['y_pred']).sum().item() / len(output_dict['y_true'])
+    def get_feature_importance(model, X_train, y_train):
+        """
+        Calculates feature importance based on the coefficients of a linear regression model.
+
+        Args:
+            model (sklearn estimator): The trained estimator model.
+            X_train (numpy array): The feature matrix of the training data.
+            y_train (numpy array): The target variable of the training data.
+
+        Returns:
+            feature_importance (numpy array): Array of feature importances.
+        """
+
+        # Fit a linear regression model to the training data
+        lin_reg = model.LinearRegression()
+        lin_reg.fit(X_train, y_train)
+
+        # Get the coefficients of the trained model
+        coef = lin_reg.coef_
+
+        # Calculate the feature importances
+        feature_importance = abs(coef) / sum(abs(coef))
+
+        return feature_importance

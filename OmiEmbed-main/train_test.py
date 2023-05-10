@@ -9,6 +9,29 @@ from datasets import create_separate_dataloader
 from models import create_model
 from util.visualizer import Visualizer
 
+from sklearn.inspection import permutation_importance
+from sklearn.ensemble import RandomForestClassifier
+import matplotlib.pyplot as plt
+def feature_importance_tree(X, y):
+    model = RandomForestClassifier(random_state=0)
+    model.fit(X, y)
+
+    importances = model.feature_importances_
+    sorted_idx = importances.argsort()
+
+    plt.barh(range(X.shape[1]), importances[sorted_idx])
+    plt.yticks(range(X.shape[1]), X.columns[sorted_idx])
+    plt.xlabel('Feature Importance')
+    plt.show()
+
+def feature_importance_perm(model, X, y):
+    result = permutation_importance(model, X, y, n_repeats=10, random_state=0)
+    sorted_idx = result.importances_mean.argsort()
+
+    plt.barh(range(X.shape[1]), result.importances_mean[sorted_idx])
+    plt.yticks(range(X.shape[1]), X.columns[sorted_idx])
+    plt.xlabel('Permutation Importance')
+    plt.show()
 
 if __name__ == "__main__":
     warnings.filterwarnings('ignore')
@@ -82,6 +105,14 @@ if __name__ == "__main__":
                 comp_time = time.time() - iter_start_time           # Computational time for this iteration
                 visualizer.print_train_log(epoch, i, losses_dict, metrics_dict, load_time, comp_time, param.batch_size, dataset_size)
             iter_load_start_time = time.time()
+            if i % param.print_freq == 0 and epoch > 0:
+                fi_start_time = time.time()
+                feature_importance = permutation_importance(model, data['omics'], data['target'], n_repeats=3, n_jobs=-1, random_state=0)
+                feature_importance = feature_importance.importances_mean / feature_importance.importances_mean.sum() # normalize
+                output_dict['feature_importance'] = feature_importance.tolist()
+                print('Feature importance:', feature_importance)
+                fi_time = time.time() - fi_start_time
+                visualizer.print_train_log(epoch, i, losses_dict, metrics_dict, load_time, comp_time, param.batch_size, dataset_size, feature_importance=feature_importance, feature_importance_time=fi_time)
 
         # Model saving
         if param.save_model:
@@ -102,6 +133,10 @@ if __name__ == "__main__":
         model.set_eval()                                            # Set eval mode for testing
         test_start_time = time.time()                               # Start time of testing
         output_dict, losses_dict, metrics_dict = model.init_log_dict()  # Initialize the log dictionaries
+        # Assuming you have already defined X, y, and clf
+        feature_importance_perm(clf, X, y)
+
+        feature_importance_tree(X, y)
 
         # Start testing loop
         for i, data in enumerate(test_dataloader):
