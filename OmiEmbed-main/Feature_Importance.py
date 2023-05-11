@@ -1,14 +1,14 @@
 import numpy as np
 import tensorflow as tf
-from tensorflow.keras.models import Model
-from tensorflow.keras.layers import Input, Dense, Lambda
-from tensorflow.keras.losses import mse
+# from tensorflow.keras.models import Model
+# from tensorflow.keras.layers import Input, Dense, Lambda
+# from tensorflow.keras.losses import mse
 from sklearn.datasets import make_blobs
 from sklearn.model_selection import train_test_split
 
 # Generate synthetic data
-X, _ = make_blobs(n_samples=1000, centers=3, n_features=10, random_state=0)
-X_train, X_test = train_test_split(X, test_size=0.2, random_state=0)
+# X, _ = make_blobs(n_samples=1000, centers=3, n_features=10, random_state=0)
+# X_train, X_test = train_test_split(X, test_size=0.2, random_state=0)
 
 # Define VAE architecture
 input_dim = X.shape[1]

@@ -3,15 +3,15 @@ from sklearn.datasets import make_blobs
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 
-# Generate example data
-X, _ = make_blobs(n_samples=1000, centers=2, random_state=42)
-X_train, X_test = train_test_split(X, test_size=0.2, random_state=42)
+# # Generate example data
+# X, _ = make_blobs(n_samples=1000, centers=2, random_state=42)
+# X_train, X_test = train_test_split(X, test_size=0.2, random_state=42)
 
 # Define and train VAE model
-from tensorflow.keras.models import Model
-from tensorflow.keras.layers import Input, Dense, Lambda
-from tensorflow.keras.losses import mse
-from tensorflow.keras import backend as K
+# from tensorflow.keras.models import Model
+# from tensorflow.keras.layers import Input, Dense, Lambda
+# from tensorflow.keras.losses import mse
+# from tensorflow.keras import backend as K
 
 # VAE architecture
 input_dim = X.shape[1]
